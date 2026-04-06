@@ -1,1 +1,130 @@
-# Datasheet for the Synthetic Oncology Clinical Trial Dataset## MotivationThis synthetic dataset was created to support methodological demonstration of a modern oncology clinical trial analytics pipeline. The dataset was designed to resemble a randomized phase II oncology study and to support the development of SDTM-like and ADaM-like clinical datasets, publication-style analyses, and decision-oriented outputs.## Dataset CompositionThe dataset includes synthetic records representing patients, visits, treatment exposure, laboratory measurements, tumor assessments, biomarkers, adverse events, concomitant medications, and survival outcomes.### Raw datasets- `demographics_raw.csv`- `visits_raw.csv`- `exposure_raw.csv`- `labs_raw.csv`- `tumor_raw.csv`- `biomarker_raw.csv`- `adverse_events_raw.csv`- `conmeds_raw.csv`- `survival_raw.csv`### Standardized datasets- `DM.csv`- `SV.csv`- `EX.csv`- `LB.csv`- `TU.csv`- `AE.csv`- `CM.csv`### Analysis datasets- `ADSL.csv`- `ADTTE.csv`- `ADLB.csv`- `ADTU.csv`- `ADBM.csv`- `ADAE.csv`## Instance CountThe synthetic study was configured around a phase II randomized design with approximately 200 to 220 synthetic patients depending on the executed version of the notebook workflow.## Data Generation ProcessThe dataset was generated through simulation, not collected from patients. Variables were sampled from probabilistic distributions chosen to approximate realistic oncology trial characteristics. These included:- Truncated normal distributions for age and some laboratory values.- Log-normal distributions for skewed inflammatory and tumor-related biomarkers.- Bernoulli and categorical draws for treatment arm, sex, biomarker status, and adverse event flags.- Time-to-event simulation for overall survival and progression-free survival.- Logistic models for treatment response probabilities.- Longitudinal slope-based models for tumor burden and ctDNA changes.## Clinical StructureThe dataset was designed to support analyses of:- Overall survival.- Progression-free survival.- Best overall response.- Objective response rate.- Grade 3 or higher adverse events.- Longitudinal biomarker change.- Longitudinal tumor burden change.- Exposure-response relationships.## VariablesExamples of major variable groups include:- Demographics: age, sex, race, country, ethnicity.- Baseline disease features: ECOG, tumor burden, LDH, CRP, albumin, ctDNA.- Exposure: dose, cycle, dose reduction, interruption.- Tumor: target lesion sum, new lesion flag, investigator response.- Biomarkers: ctDNA, IL6, TNFa, IFNg, VEGF, Ki67, PDL1.- Safety: adverse event term, grade, seriousness, relatedness, action taken.- Survival: progression date, death date, event flags.## Recommended UsesThis dataset is appropriate for:- Learning oncology data standards concepts.- Practicing SDTM and ADaM transformations.- Building clinical analytics dashboards.- Testing survival analysis code.- Building publication-style oncology reports.- Demonstrating translational biomarker integration.## Out-of-Scope UsesThis dataset should not be used for:- Real clinical inference.- Regulatory submission.- Therapeutic decision-making.- Biomarker validation claims.- Benchmarking against real-world patient outcomes without explicit labeling as synthetic.## Distributional CharacteristicsThe dataset was designed to reflect plausible oncology trial behavior, including:- Balanced randomization.- Realistic censoring patterns.- Progression occurring earlier than death.- ctDNA decline in responders.- Laboratory shifts associated with disease and toxicity.- Treatment-related adverse event enrichment.- Missingness increasing after dropout, progression, or death.## Missing DataMissingness was intentionally simulated to reflect real clinical trial conditions:- Low baseline missingness.- Moderate missingness in longitudinal laboratory values.- Higher missingness in biomarker and tumor follow-up.- Increased missingness after progression, withdrawal, or death.## Relationships to Other ResourcesThe dataset is linked to:- Jupyter notebooks that generate and analyze the data.- Publication-style figures and tables.- A manuscript drafted from the executed outputs.- Supplementary tables in PDF format.## Data Quality ConsiderationsThe dataset emphasizes internal coherence rather than literal clinical truth. Users should evaluate:- Whether treatment-response relationships are plausible.- Whether survival and biomarker trends move coherently.- Whether subgroup patterns remain interpretable.- Whether safety profiles remain realistic without overwhelming efficacy.## Ethical and Legal ConsiderationsThis dataset contains no real patient information. It was synthetically generated for educational and methodological purposes. No consent, ethics approval, or de-identification workflow was required.## Maintenance and ExtensionFuture extensions may include:- Disease-specific calibration.- More detailed lesion-level modeling.- Resistance emergence dynamics.- Joint models of imaging and ctDNA.- Protocol deviations and disposition domains.- Additional manuscript-ready outputs.## Citation GuidanceIf this dataset or its outputs are reused, the reuse should clearly state that:- the dataset is synthetic,- the workflow is literature-informed,- the outputs are for methodological demonstration rather than clinical evidence.
+# Datasheet for the Synthetic Oncology Clinical Trial Dataset
+
+## Motivation
+This synthetic dataset was created to support methodological demonstration of a modern oncology clinical trial analytics pipeline. The dataset was designed to resemble a randomized phase II oncology study and to support the development of SDTM-like and ADaM-like clinical datasets, publication-style analyses, and decision-oriented outputs.
+
+## Dataset Composition
+The dataset includes synthetic records representing patients, visits, treatment exposure, laboratory measurements, tumor assessments, biomarkers, adverse events, concomitant medications, and survival outcomes.
+
+### Raw datasets
+- `demographics_raw.csv`
+- `visits_raw.csv`
+- `exposure_raw.csv`
+- `labs_raw.csv`
+- `tumor_raw.csv`
+- `biomarker_raw.csv`
+- `adverse_events_raw.csv`
+- `conmeds_raw.csv`
+- `survival_raw.csv`
+
+### Standardized datasets
+- `DM.csv`
+- `SV.csv`
+- `EX.csv`
+- `LB.csv`
+- `TU.csv`
+- `AE.csv`
+- `CM.csv`
+
+### Analysis datasets
+- `ADSL.csv`
+- `ADTTE.csv`
+- `ADLB.csv`
+- `ADTU.csv`
+- `ADBM.csv`
+- `ADAE.csv`
+
+## Instance Count
+The synthetic study was configured around a phase II randomized design with approximately 200 to 220 synthetic patients depending on the executed version of the notebook workflow.
+
+## Data Generation Process
+The dataset was generated through simulation, not collected from patients. Variables were sampled from probabilistic distributions chosen to approximate realistic oncology trial characteristics. These included:
+- Truncated normal distributions for age and some laboratory values.
+- Log-normal distributions for skewed inflammatory and tumor-related biomarkers.
+- Bernoulli and categorical draws for treatment arm, sex, biomarker status, and adverse event flags.
+- Time-to-event simulation for overall survival and progression-free survival.
+- Logistic models for treatment response probabilities.
+- Longitudinal slope-based models for tumor burden and ctDNA changes.
+
+## Clinical Structure
+The dataset was designed to support analyses of:
+- Overall survival.
+- Progression-free survival.
+- Best overall response.
+- Objective response rate.
+- Grade 3 or higher adverse events.
+- Longitudinal biomarker change.
+- Longitudinal tumor burden change.
+- Exposure-response relationships.
+
+## Variables
+Examples of major variable groups include:
+- Demographics: age, sex, race, country, ethnicity.
+- Baseline disease features: ECOG, tumor burden, LDH, CRP, albumin, ctDNA.
+- Exposure: dose, cycle, dose reduction, interruption.
+- Tumor: target lesion sum, new lesion flag, investigator response.
+- Biomarkers: ctDNA, IL6, TNFa, IFNg, VEGF, Ki67, PDL1.
+- Safety: adverse event term, grade, seriousness, relatedness, action taken.
+- Survival: progression date, death date, event flags.
+
+## Recommended Uses
+This dataset is appropriate for:
+- Learning oncology data standards concepts.
+- Practicing SDTM and ADaM transformations.
+- Building clinical analytics dashboards.
+- Testing survival analysis code.
+- Building publication-style oncology reports.
+- Demonstrating translational biomarker integration.
+
+## Out-of-Scope Uses
+This dataset should not be used for:
+- Real clinical inference.
+- Regulatory submission.
+- Therapeutic decision-making.
+- Biomarker validation claims.
+- Benchmarking against real-world patient outcomes without explicit labeling as synthetic.
+
+## Distributional Characteristics
+The dataset was designed to reflect plausible oncology trial behavior, including:
+- Balanced randomization.
+- Realistic censoring patterns.
+- Progression occurring earlier than death.
+- ctDNA decline in responders.
+- Laboratory shifts associated with disease and toxicity.
+- Treatment-related adverse event enrichment.
+- Missingness increasing after dropout, progression, or death.
+
+## Missing Data
+Missingness was intentionally simulated to reflect real clinical trial conditions:
+- Low baseline missingness.
+- Moderate missingness in longitudinal laboratory values.
+- Higher missingness in biomarker and tumor follow-up.
+- Increased missingness after progression, withdrawal, or death.
+
+## Data Quality Considerations
+The dataset emphasizes internal coherence rather than literal clinical truth. Users should evaluate:
+- Whether treatment-response relationships are plausible.
+- Whether survival and biomarker trends move coherently.
+- Whether subgroup patterns remain interpretable.
+- Whether safety profiles remain realistic without overwhelming efficacy.
+
+## Ethical and Legal Considerations
+This dataset contains no real patient information. It was synthetically generated for educational and methodological purposes. No consent, ethics approval, or de-identification workflow was required.
+
+## Maintenance and Extension
+Future extensions may include:
+- Disease-specific calibration.
+- More detailed lesion-level modeling.
+- Resistance emergence dynamics.
+- Joint models of imaging and ctDNA.
+- Protocol deviations and disposition domains.
+- Additional outputs.
+
+## Citation Guidance
+If this dataset or its outputs are reused, the reuse should clearly state that:
+- the dataset is synthetic,
+- the workflow is literature-informed,
+- the outputs are for methodological demonstration rather than clinical evidence.
+
+## Citation
+**Petalcorin, M.I.R.** (2026). An End-to-End Synthetic Oncology Clinical Trial Framework Integrating Radiographic Response, Circulating Tumor DNA, Safety, and Survival for Decision-Oriented Clinical Data Science. https://github.com/mpetalcorin/synthetic-oncology-clinical-trial-framework
