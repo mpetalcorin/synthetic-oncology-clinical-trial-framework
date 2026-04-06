@@ -1,1 +1,106 @@
-# Model Card## Model NameSynthetic Oncology Clinical Trial Simulation and Analysis Framework## Model TypeThis is not a single predictive model. It is an integrated simulation and analytical workflow that generates synthetic oncology trial data and derives standardized, analysis-ready clinical datasets and outputs.## Intended UseThe framework is intended for:- Demonstrating end-to-end oncology clinical data science workflows.- Simulating realistic oncology trial datasets for analytics prototyping.- Generating SDTM-like and ADaM-like structures for training and portfolio use.- Demonstrating survival, biomarker, tumor, exposure-response, and safety analyses.- Creating publication-style tables, figures, and manuscript components.## Primary UsersPotential users include:- Clinical data scientists.- Biostatistics learners.- Translational oncology researchers.- Pharmaceutical analytics applicants.- Students learning SDTM and ADaM concepts.- Teams prototyping decision-support style oncology workflows.## InputsThe workflow uses simulated patient-level inputs including:- Demographics and baseline disease features.- Treatment assignment.- Exposure and dose modifications.- Longitudinal labs.- Tumor assessments.- Biomarker measurements, including ctDNA.- Adverse events.- Survival times.## OutputsThe workflow produces:- Raw synthetic source datasets.- SDTM-like domains.- ADaM-like analysis datasets.- Survival analyses.- Longitudinal tumor and biomarker analyses.- Safety summaries.- Publication-style tables.- Publication-style figures.- Manuscript-ready narrative outputs.## Development ApproachThe framework was constructed using rule-based simulation informed by published oncology trial patterns. The simulation incorporates:- Baseline heterogeneity.- Treatment effects on survival and response.- Biomarker-response relationships.- Safety-related dose modification behavior.- Longitudinal disease trajectories.- Missingness patterns consistent with trial follow-up and dropout.## Performance CharacteristicsBecause this is a synthetic workflow rather than a trained predictive model, traditional predictive performance metrics such as AUROC or calibration do not directly apply to the entire framework. Instead, the quality of the workflow should be judged by:- Biological plausibility.- Internal consistency across endpoints.- Reproducibility.- Utility for downstream analytics.- Interpretability of outputs.## Strengths- End-to-end reproducible oncology analytics pipeline.- Includes both categorical and continuous biomarker layers.- Connects survival, tumor response, safety, and exposure.- Produces industry-style datasets and outputs.- Useful for manuscript drafting and portfolio presentation.## Limitations- The data are synthetic and do not represent real patients.- Simulated relationships may not fully capture disease-specific biology.- Results are not clinically validated.- Some subgroup and exposure-response patterns depend on simulation assumptions.- The workflow is best suited for demonstration and training, not clinical decision-making.## Ethical ConsiderationsNo real patient-level data were used. Therefore:- No identifiable health information is present.- No human subjects approval was required.- Outputs should never be represented as real clinical evidence.## Risks of MisusePotential misuse includes:- Presenting synthetic outputs as if they were real trial results.- Overinterpreting simulation patterns as validated biological truth.- Reusing tables or figures without labeling them as synthetic.## MitigationsTo reduce misuse:- Clearly label all outputs as synthetic and literature-informed.- State that the project is for methodological demonstration.- Avoid claiming clinical efficacy or biomarker validation.## MaintenanceThe framework can be extended by:- Calibrating to disease-specific trial distributions.- Adding joint modeling of ctDNA, imaging, and survival.- Expanding toxicity grading and protocol deviations.- Building dashboard-based review tools.
+# Model Card
+
+## Model Name
+Synthetic Oncology Clinical Trial Simulation and Analysis Framework
+<img width="1271" height="863" alt="Screenshot 2026-04-06 at 16 01 31" src="https://github.com/user-attachments/assets/8dd160b6-462c-4657-87aa-714ded678209" />
+## Model Type
+This is an integrated simulation and analytical workflow that generates synthetic oncology trial data and derives standardized, analysis-ready clinical datasets and outputs.
+
+## Intended Use
+The framework is intended for:
+- Demonstrating end-to-end oncology clinical data science workflows.
+- Simulating realistic oncology trial datasets for analytics prototyping.
+- Generating SDTM-like and ADaM-like structures for training and portfolio use.
+- Demonstrating survival, biomarker, tumor, exposure-response, and safety analyses.
+- Creating publication-style tables, figures, and manuscript components.
+
+## Primary Users
+Potential users include:
+- Clinical data scientists.
+- Biostatistics learners.
+- Translational oncology researchers.
+- Pharmaceutical analytics applicants.
+- Students learning SDTM and ADaM concepts.
+- Teams prototyping decision-support style oncology workflows.
+
+## Inputs
+The workflow uses simulated patient-level inputs including:
+- Demographics and baseline disease features.
+- Treatment assignment.
+- Exposure and dose modifications.
+- Longitudinal labs.
+- Tumor assessments.
+- Biomarker measurements, including ctDNA.
+- Adverse events.
+- Survival times.
+
+## Outputs
+The workflow produces:
+- Raw synthetic source datasets.
+- SDTM-like domains.
+- ADaM-like analysis datasets.
+- Survival analyses.
+- Longitudinal tumor and biomarker analyses.
+- Safety summaries.
+- Publication-style tables.
+- Publication-style figures.
+- Manuscript-ready narrative outputs.
+
+## Development Approach
+The framework was constructed using rule-based simulation informed by published oncology trial patterns. The simulation incorporates:
+- Baseline heterogeneity.
+- Treatment effects on survival and response.
+- Biomarker-response relationships.
+- Safety-related dose modification behavior.
+- Longitudinal disease trajectories.
+- Missingness patterns consistent with trial follow-up and dropout.
+
+## Performance Characteristics
+Because this is a synthetic workflow rather than a trained predictive model, traditional predictive performance metrics such as AUROC or calibration do not directly apply to the entire framework. Instead, the quality of the workflow should be judged by:
+- Biological plausibility.
+- Internal consistency across endpoints.
+- Reproducibility.
+- Utility for downstream analytics.
+- Interpretability of outputs.
+
+## Strengths
+- End-to-end reproducible oncology analytics pipeline.
+- Includes both categorical and continuous biomarker layers.
+- Connects survival, tumor response, safety, and exposure.
+- Produces industry-style datasets and outputs.
+- Useful for manuscript drafting and portfolio presentation.
+
+## Limitations
+- The data are synthetic and do not represent real patients.
+- Simulated relationships may not fully capture disease-specific biology.
+- Results are not clinically validated.
+- Some subgroup and exposure-response patterns depend on simulation assumptions.
+- The workflow is best suited for demonstration and training, not clinical decision-making.
+
+## Ethical Considerations
+No real patient-level data were used. Therefore:
+- No identifiable health information is present.
+- No human subjects approval was required.
+- Outputs should never be represented as real clinical evidence.
+
+## Risks of Misuse
+Potential misuse includes:
+- Presenting synthetic outputs as if they were real trial results.
+- Overinterpreting simulation patterns as validated biological truth.
+- Reusing tables or figures without labeling them as synthetic.
+
+## Mitigations
+To reduce misuse:
+- Clearly label all outputs as synthetic and literature-informed.
+- State that the project is for methodological demonstration.
+- Avoid claiming clinical efficacy or biomarker validation.
+
+## Maintenance
+The framework can be extended by:
+- Calibrating to disease-specific trial distributions.
+- Adding joint modeling of ctDNA, imaging, and survival.
+- Expanding toxicity grading and protocol deviations.
+- Building dashboard-based review tools.
+
+## Citation
+**Petalcorin, M.I.R.** (2026). An End-to-End Synthetic Oncology Clinical Trial Framework Integrating Radiographic Response, Circulating Tumor DNA, Safety, and Survival for Decision-Oriented Clinical Data Science. https://github.com/mpetalcorin/synthetic-oncology-clinical-trial-framework
