@@ -1,0 +1,1112 @@
+patient_id,dose_date,cycle,day_in_cycle,dose_mg,dose_unit,dose_form,dose_administered_flag,dose_reduction_flag,dose_interruption_flag,dose_reason
+P0001,2022-12-29,1,7,100,mg,Tablet,Y,N,N,Dose as planned
+P0001,2023-01-13,2,1,0,mg,Tablet,N,N,Y,Toxicity interruption
+P0001,2023-02-03,3,1,100,mg,Tablet,Y,N,N,Dose as planned
+P0001,2023-03-19,5,3,100,mg,Tablet,Y,N,N,Dose as planned
+P0001,2023-04-20,6,14,50,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0001,2023-06-10,9,2,50,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0001,2023-09-01,13,1,50,mg,Tablet,Y,N,N,Dose as planned
+P0001,2023-11-28,17,5,50,mg,Tablet,Y,N,N,Dose as planned
+P0002,2022-10-26,1,19,0,mg,NA,N,N,N,Control
+P0002,2022-11-20,3,2,0,mg,NA,N,N,N,Control
+P0002,2022-12-30,5,21,0,mg,NA,N,N,N,Control
+P0003,2022-02-08,1,3,100,mg,Tablet,Y,N,N,Dose as planned
+P0003,2022-02-28,2,2,50,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0004,2022-06-12,1,2,50,mg,Tablet,Y,N,N,Dose as planned
+P0004,2022-07-01,2,21,50,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0004,2022-07-24,3,2,50,mg,Tablet,Y,N,N,Dose as planned
+P0004,2022-09-03,5,1,50,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0004,2022-10-13,6,20,50,mg,Tablet,Y,N,N,Dose as planned
+P0004,2022-11-26,9,1,50,mg,Tablet,Y,N,N,Dose as planned
+P0004,2023-02-19,13,2,50,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0004,2023-05-12,17,21,50,mg,Tablet,Y,N,N,Dose as planned
+P0004,2023-08-08,21,4,0,mg,Tablet,N,N,Y,Toxicity interruption
+P0007,2022-06-29,1,3,0,mg,NA,N,N,N,Control
+P0007,2022-07-16,1,20,0,mg,NA,N,N,N,Control
+P0007,2022-08-08,3,1,0,mg,NA,N,N,N,Control
+P0007,2022-09-19,5,1,0,mg,NA,N,N,N,Control
+P0007,2022-10-29,6,20,0,mg,NA,N,N,N,Control
+P0007,2022-12-10,8,20,0,mg,NA,N,N,N,Control
+P0007,2023-03-09,13,4,0,mg,NA,N,N,N,Control
+P0007,2023-05-28,17,21,0,mg,NA,N,N,N,Control
+P0008,2022-07-14,2,1,150,mg,Tablet,Y,N,N,Dose as planned
+P0008,2022-08-07,3,4,150,mg,Tablet,Y,N,N,Dose as planned
+P0009,2022-06-22,2,1,0,mg,NA,N,N,N,Control
+P0009,2022-07-11,2,20,0,mg,NA,N,N,N,Control
+P0009,2022-08-25,5,2,0,mg,NA,N,N,N,Control
+P0009,2022-10-03,6,20,0,mg,NA,N,N,N,Control
+P0009,2022-11-14,8,20,0,mg,NA,N,N,N,Control
+P0009,2023-02-09,13,2,0,mg,NA,N,N,N,Control
+P0010,2022-08-29,2,2,150,mg,Tablet,Y,N,N,Dose as planned
+P0010,2022-09-19,3,2,150,mg,Tablet,Y,N,N,Dose as planned
+P0010,2022-11-02,5,4,150,mg,Tablet,Y,N,N,Dose as planned
+P0010,2022-12-13,7,3,150,mg,Tablet,Y,N,N,Dose as planned
+P0010,2023-01-25,9,4,150,mg,Tablet,Y,N,N,Dose as planned
+P0011,2022-03-26,1,5,0,mg,NA,N,N,N,Control
+P0011,2022-04-05,1,15,0,mg,NA,N,N,N,Control
+P0011,2022-05-02,3,21,0,mg,NA,N,N,N,Control
+P0012,2022-08-01,1,17,50,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0012,2022-08-29,3,3,50,mg,Tablet,Y,N,N,Dose as planned
+P0012,2022-10-10,5,3,50,mg,Tablet,Y,N,N,Dose as planned
+P0012,2022-11-22,7,4,50,mg,Tablet,Y,N,N,Dose as planned
+P0012,2022-12-30,9,21,0,mg,Tablet,N,Y,Y,Toxicity interruption
+P0012,2023-03-25,13,1,50,mg,Tablet,Y,N,N,Dose as planned
+P0013,2022-03-28,1,1,100,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0013,2022-04-15,1,19,100,mg,Tablet,Y,N,N,Dose as planned
+P0013,2022-05-08,3,21,100,mg,Tablet,Y,N,N,Dose as planned
+P0013,2022-06-20,5,1,100,mg,Tablet,Y,N,N,Dose as planned
+P0014,2022-10-03,2,2,0,mg,Tablet,N,N,Y,Toxicity interruption
+P0014,2022-10-22,3,21,150,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0014,2022-12-08,5,5,150,mg,Tablet,Y,N,N,Dose as planned
+P0014,2023-01-17,7,3,150,mg,Tablet,Y,N,N,Dose as planned
+P0015,2022-11-29,1,5,200,mg,Tablet,Y,N,N,Dose as planned
+P0015,2022-12-13,1,19,150,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0015,2023-01-05,3,21,150,mg,Tablet,Y,N,N,Dose as planned
+P0016,2022-07-11,1,2,100,mg,Tablet,Y,N,N,Dose as planned
+P0016,2022-07-31,2,1,100,mg,Tablet,Y,N,N,Dose as planned
+P0017,2022-06-20,1,20,150,mg,Tablet,Y,N,N,Dose as planned
+P0017,2022-07-12,3,21,100,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0017,2022-08-24,5,1,100,mg,Tablet,Y,N,N,Dose as planned
+P0017,2022-10-02,6,19,100,mg,Tablet,Y,N,N,Dose as planned
+P0017,2022-11-20,9,5,100,mg,Tablet,Y,N,N,Dose as planned
+P0018,2023-01-15,2,1,0,mg,NA,N,N,N,Control
+P0018,2023-02-05,3,1,0,mg,NA,N,N,N,Control
+P0018,2023-03-21,5,3,0,mg,NA,N,N,N,Control
+P0018,2023-04-28,6,20,0,mg,NA,N,N,N,Control
+P0018,2023-06-04,8,15,0,mg,NA,N,N,N,Control
+P0019,2022-09-10,1,1,150,mg,Tablet,Y,N,N,Dose as planned
+P0019,2022-10-01,2,1,150,mg,Tablet,Y,N,N,Dose as planned
+P0019,2022-10-25,3,4,100,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0019,2022-12-01,4,20,100,mg,Tablet,Y,N,N,Dose as planned
+P0021,2022-01-17,1,3,150,mg,Tablet,Y,N,N,Dose as planned
+P0021,2022-02-07,2,3,150,mg,Tablet,Y,N,N,Dose as planned
+P0021,2022-02-28,3,3,150,mg,Tablet,Y,N,N,Dose as planned
+P0021,2022-04-08,5,21,150,mg,Tablet,Y,N,N,Dose as planned
+P0021,2022-05-19,6,20,150,mg,Tablet,Y,N,N,Dose as planned
+P0022,2022-02-04,2,3,0,mg,NA,N,N,N,Control
+P0023,2022-04-11,1,7,100,mg,Tablet,Y,N,N,Dose as planned
+P0023,2022-05-03,2,8,100,mg,Tablet,Y,N,N,Dose as planned
+P0023,2022-05-09,2,14,50,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0023,2022-06-28,5,1,50,mg,Tablet,Y,N,N,Dose as planned
+P0023,2022-08-07,6,20,50,mg,Tablet,Y,N,N,Dose as planned
+P0023,2022-09-19,9,21,50,mg,Tablet,Y,N,N,Dose as planned
+P0024,2022-04-04,1,3,100,mg,Tablet,Y,N,N,Dose as planned
+P0024,2022-04-19,1,18,100,mg,Tablet,Y,N,N,Dose as planned
+P0024,2022-05-09,2,17,100,mg,Tablet,Y,N,N,Dose as planned
+P0024,2022-07-01,5,7,100,mg,Tablet,Y,N,N,Dose as planned
+P0024,2022-08-04,6,20,100,mg,Tablet,Y,N,N,Dose as planned
+P0024,2022-09-17,9,1,100,mg,Tablet,Y,N,N,Dose as planned
+P0025,2022-10-23,2,21,0,mg,NA,N,N,N,Control
+P0025,2022-11-13,3,21,0,mg,NA,N,N,N,Control
+P0025,2022-12-21,4,17,0,mg,NA,N,N,N,Control
+P0025,2023-02-08,7,3,0,mg,NA,N,N,N,Control
+P0026,2022-07-13,1,3,150,mg,Tablet,Y,N,N,Dose as planned
+P0026,2022-07-31,2,21,150,mg,Tablet,Y,N,N,Dose as planned
+P0026,2022-08-19,2,19,150,mg,Tablet,Y,N,N,Dose as planned
+P0026,2022-10-02,5,21,150,mg,Tablet,Y,N,N,Dose as planned
+P0026,2022-11-13,7,21,150,mg,Tablet,Y,N,N,Dose as planned
+P0026,2022-12-25,9,21,0,mg,Tablet,N,N,Y,Toxicity interruption
+P0026,2023-03-23,13,4,100,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0026,2023-06-10,16,20,100,mg,Tablet,Y,N,N,Dose as planned
+P0026,2023-09-09,21,6,100,mg,Tablet,Y,N,N,Dose as planned
+P0026,2023-11-23,24,18,100,mg,Tablet,Y,N,N,Dose as planned
+P0027,2023-01-28,2,1,150,mg,Tablet,Y,N,N,Dose as planned
+P0027,2023-02-17,3,21,150,mg,Tablet,Y,N,N,Dose as planned
+P0027,2023-03-31,5,21,150,mg,Tablet,Y,N,N,Dose as planned
+P0028,2022-08-18,2,21,150,mg,Tablet,Y,N,N,Dose as planned
+P0028,2022-09-10,3,2,150,mg,Tablet,Y,N,N,Dose as planned
+P0028,2022-10-15,4,16,150,mg,Tablet,Y,N,N,Dose as planned
+P0028,2022-12-02,7,1,150,mg,Tablet,Y,N,N,Dose as planned
+P0029,2022-12-07,1,4,0,mg,NA,N,N,N,Control
+P0029,2022-12-24,2,21,0,mg,NA,N,N,N,Control
+P0029,2023-01-20,3,6,0,mg,NA,N,N,N,Control
+P0029,2023-02-21,4,17,0,mg,NA,N,N,N,Control
+P0029,2023-04-12,7,4,0,mg,NA,N,N,N,Control
+P0029,2023-05-21,9,1,0,mg,NA,N,N,N,Control
+P0030,2022-07-31,1,4,150,mg,Tablet,Y,N,N,Dose as planned
+P0030,2022-08-16,1,20,150,mg,Tablet,Y,N,N,Dose as planned
+P0030,2022-09-05,2,19,150,mg,Tablet,Y,N,N,Dose as planned
+P0030,2022-10-16,4,18,150,mg,Tablet,Y,N,N,Dose as planned
+P0030,2022-12-05,7,5,150,mg,Tablet,Y,N,N,Dose as planned
+P0030,2023-01-10,8,20,150,mg,Tablet,Y,N,N,Dose as planned
+P0030,2023-04-10,13,5,150,mg,Tablet,Y,N,N,Dose as planned
+P0030,2023-07-01,17,3,150,mg,Tablet,Y,N,N,Dose as planned
+P0030,2023-09-22,21,2,150,mg,Tablet,Y,N,N,Dose as planned
+P0030,2023-12-13,25,21,100,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0031,2022-05-21,1,1,150,mg,Tablet,Y,N,N,Dose as planned
+P0031,2022-06-10,2,21,150,mg,Tablet,Y,N,N,Dose as planned
+P0031,2022-07-04,3,3,150,mg,Tablet,Y,N,N,Dose as planned
+P0031,2022-08-13,5,1,150,mg,Tablet,Y,N,N,Dose as planned
+P0031,2022-09-22,6,20,0,mg,Tablet,N,Y,Y,Toxicity interruption
+P0031,2022-11-07,9,3,50,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0031,2023-01-28,13,1,50,mg,Tablet,Y,N,N,Dose as planned
+P0031,2023-04-23,17,2,50,mg,Tablet,Y,N,N,Dose as planned
+P0031,2023-07-14,21,21,50,mg,Tablet,Y,N,N,Dose as planned
+P0032,2022-10-06,1,6,0,mg,NA,N,N,N,Control
+P0032,2022-10-25,2,4,0,mg,NA,N,N,N,Control
+P0032,2022-11-11,3,21,0,mg,NA,N,N,N,Control
+P0032,2022-12-23,5,21,0,mg,NA,N,N,N,Control
+P0032,2023-02-08,7,5,0,mg,NA,N,N,N,Control
+P0032,2023-03-17,9,21,0,mg,NA,N,N,N,Control
+P0033,2022-06-30,1,3,0,mg,NA,N,N,N,Control
+P0034,2022-04-21,1,1,0,mg,NA,N,N,N,Control
+P0034,2022-05-09,1,19,0,mg,NA,N,N,N,Control
+P0034,2022-06-07,3,6,0,mg,NA,N,N,N,Control
+P0034,2022-07-13,5,21,0,mg,NA,N,N,N,Control
+P0034,2022-08-22,6,19,0,mg,NA,N,N,N,Control
+P0035,2022-07-05,1,2,100,mg,Tablet,Y,N,N,Dose as planned
+P0035,2022-07-23,1,20,100,mg,Tablet,Y,N,N,Dose as planned
+P0035,2022-08-15,3,1,100,mg,Tablet,Y,N,N,Dose as planned
+P0035,2022-10-02,5,7,100,mg,Tablet,Y,N,N,Dose as planned
+P0035,2022-11-06,7,21,100,mg,Tablet,Y,N,N,Dose as planned
+P0036,2022-09-16,1,3,0,mg,NA,N,N,N,Control
+P0036,2022-10-07,2,3,0,mg,NA,N,N,N,Control
+P0036,2022-10-25,3,21,0,mg,NA,N,N,N,Control
+P0036,2022-12-10,5,4,0,mg,NA,N,N,N,Control
+P0036,2023-01-16,6,20,0,mg,NA,N,N,N,Control
+P0036,2023-03-03,9,3,0,mg,NA,N,N,N,Control
+P0036,2023-05-23,13,21,0,mg,NA,N,N,N,Control
+P0037,2022-05-24,1,2,100,mg,Tablet,Y,N,N,Dose as planned
+P0037,2022-06-13,2,1,100,mg,Tablet,Y,N,N,Dose as planned
+P0037,2022-07-02,2,20,0,mg,Tablet,N,N,Y,Toxicity interruption
+P0037,2022-08-15,5,1,100,mg,Tablet,Y,N,N,Dose as planned
+P0037,2022-09-26,7,1,100,mg,Tablet,Y,N,N,Dose as planned
+P0037,2022-11-05,8,20,100,mg,Tablet,Y,N,N,Dose as planned
+P0038,2022-09-24,1,5,50,mg,Tablet,Y,N,N,Dose as planned
+P0038,2022-10-05,1,16,50,mg,Tablet,Y,N,N,Dose as planned
+P0038,2022-10-24,2,14,50,mg,Tablet,Y,N,N,Dose as planned
+P0038,2022-12-12,5,21,50,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0038,2023-01-20,6,18,50,mg,Tablet,Y,N,N,Dose as planned
+P0039,2023-01-03,1,2,0,mg,NA,N,N,N,Control
+P0039,2023-01-21,1,20,0,mg,NA,N,N,N,Control
+P0039,2023-02-17,3,5,0,mg,NA,N,N,N,Control
+P0039,2023-03-27,5,1,0,mg,NA,N,N,N,Control
+P0040,2022-06-22,1,13,100,mg,Tablet,Y,N,N,Dose as planned
+P0040,2022-07-26,3,5,100,mg,Tablet,Y,N,N,Dose as planned
+P0040,2022-09-06,5,5,100,mg,Tablet,Y,N,N,Dose as planned
+P0040,2022-10-20,7,7,100,mg,Tablet,Y,N,N,Dose as planned
+P0040,2022-11-25,9,1,0,mg,Tablet,N,N,Y,Toxicity interruption
+P0040,2023-02-13,12,18,100,mg,Tablet,Y,N,N,Dose as planned
+P0040,2023-05-11,17,21,100,mg,Tablet,Y,N,N,Dose as planned
+P0040,2023-08-04,21,1,50,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0040,2023-10-24,24,19,50,mg,Tablet,Y,N,N,Dose as planned
+P0041,2022-05-07,1,8,150,mg,Tablet,Y,N,N,Dose as planned
+P0041,2022-05-22,2,2,150,mg,Tablet,Y,N,N,Dose as planned
+P0041,2022-06-11,3,1,150,mg,Tablet,Y,N,N,Dose as planned
+P0041,2022-07-19,4,18,150,mg,Tablet,Y,N,N,Dose as planned
+P0041,2022-09-08,7,6,100,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0041,2022-10-15,9,1,100,mg,Tablet,Y,N,N,Dose as planned
+P0041,2023-01-06,13,21,100,mg,Tablet,Y,N,N,Dose as planned
+P0041,2023-04-02,17,2,100,mg,Tablet,Y,N,N,Dose as planned
+P0041,2023-06-22,20,20,100,mg,Tablet,Y,N,N,Dose as planned
+P0042,2022-06-04,1,4,0,mg,NA,N,N,N,Control
+P0043,2022-12-05,2,21,0,mg,NA,N,N,N,Control
+P0043,2022-12-29,3,3,0,mg,NA,N,N,N,Control
+P0043,2023-02-06,5,21,0,mg,NA,N,N,N,Control
+P0043,2023-03-20,7,21,0,mg,NA,N,N,N,Control
+P0043,2023-05-02,9,1,0,mg,NA,N,N,N,Control
+P0044,2022-03-31,1,18,0,mg,NA,N,N,N,Control
+P0044,2022-04-28,3,4,0,mg,NA,N,N,N,Control
+P0045,2023-01-28,2,2,0,mg,NA,N,N,N,Control
+P0046,2022-06-19,1,7,0,mg,NA,N,N,N,Control
+P0046,2022-06-29,1,17,0,mg,NA,N,N,N,Control
+P0046,2022-07-22,2,19,0,mg,NA,N,N,N,Control
+P0046,2022-09-04,5,21,0,mg,NA,N,N,N,Control
+P0047,2022-11-20,1,1,100,mg,Tablet,Y,N,N,Dose as planned
+P0047,2022-12-08,1,19,100,mg,Tablet,Y,N,N,Dose as planned
+P0047,2022-12-28,2,18,50,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0047,2023-02-11,5,21,50,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0047,2023-03-24,6,20,50,mg,Tablet,Y,N,N,Dose as planned
+P0047,2023-05-08,9,2,50,mg,Tablet,Y,N,N,Dose as planned
+P0048,2022-11-13,1,20,0,mg,NA,N,N,N,Control
+P0048,2022-12-04,2,20,0,mg,NA,N,N,N,Control
+P0048,2023-01-16,5,21,0,mg,NA,N,N,N,Control
+P0048,2023-02-28,7,1,0,mg,NA,N,N,N,Control
+P0048,2023-04-09,8,20,0,mg,NA,N,N,N,Control
+P0048,2023-06-28,12,16,0,mg,NA,N,N,N,Control
+P0048,2023-09-24,16,20,0,mg,NA,N,N,N,Control
+P0048,2023-12-20,21,2,0,mg,NA,N,N,N,Control
+P0049,2022-10-29,1,7,0,mg,NA,N,N,N,Control
+P0049,2022-11-15,2,3,0,mg,NA,N,N,N,Control
+P0049,2022-12-08,3,5,0,mg,NA,N,N,N,Control
+P0049,2023-01-17,5,3,0,mg,NA,N,N,N,Control
+P0049,2023-03-03,7,6,0,mg,NA,N,N,N,Control
+P0049,2023-04-15,9,7,0,mg,NA,N,N,N,Control
+P0049,2023-07-05,13,4,0,mg,NA,N,N,N,Control
+P0050,2022-12-05,1,3,0,mg,Tablet,N,N,Y,Toxicity interruption
+P0050,2022-12-22,1,20,100,mg,Tablet,Y,N,N,Dose as planned
+P0050,2023-01-13,3,21,100,mg,Tablet,Y,N,N,Dose as planned
+P0051,2022-03-23,1,8,0,mg,Tablet,N,N,Y,Toxicity interruption
+P0051,2022-04-09,2,4,100,mg,Tablet,Y,N,N,Dose as planned
+P0051,2022-04-28,3,2,100,mg,Tablet,Y,N,N,Dose as planned
+P0051,2022-06-12,5,5,0,mg,Tablet,N,N,Y,Toxicity interruption
+P0051,2022-07-16,6,18,100,mg,Tablet,Y,N,N,Dose as planned
+P0051,2022-08-30,9,21,100,mg,Tablet,Y,N,N,Dose as planned
+P0051,2022-11-27,13,5,50,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0051,2023-02-09,16,16,50,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0051,2023-05-12,21,3,50,mg,Tablet,Y,N,N,Dose as planned
+P0052,2022-09-15,2,6,150,mg,Tablet,Y,N,N,Dose as planned
+P0052,2022-09-29,2,20,150,mg,Tablet,Y,N,N,Dose as planned
+P0052,2022-11-11,5,21,150,mg,Tablet,Y,N,N,Dose as planned
+P0052,2022-12-20,6,18,100,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0052,2023-02-01,8,19,100,mg,Tablet,Y,N,N,Dose as planned
+P0052,2023-04-30,13,2,100,mg,Tablet,Y,N,N,Dose as planned
+P0052,2023-07-19,16,19,100,mg,Tablet,Y,N,N,Dose as planned
+P0052,2023-10-16,21,3,100,mg,Tablet,Y,N,N,Dose as planned
+P0052,2024-01-04,24,20,100,mg,Tablet,Y,N,N,Dose as planned
+P0053,2022-03-07,2,2,200,mg,Tablet,Y,N,N,Dose as planned
+P0053,2022-03-26,3,21,200,mg,Tablet,Y,N,N,Dose as planned
+P0053,2022-05-08,5,1,200,mg,Tablet,Y,N,N,Dose as planned
+P0053,2022-06-21,7,3,200,mg,Tablet,Y,N,N,Dose as planned
+P0054,2022-05-11,1,20,0,mg,NA,N,N,N,Control
+P0054,2022-06-02,3,21,0,mg,NA,N,N,N,Control
+P0054,2022-07-13,4,20,0,mg,NA,N,N,N,Control
+P0055,2022-02-09,2,21,0,mg,NA,N,N,N,Control
+P0056,2022-09-19,1,3,100,mg,Tablet,Y,N,N,Dose as planned
+P0056,2022-10-08,2,1,0,mg,Tablet,N,N,Y,Toxicity interruption
+P0057,2022-09-07,1,18,0,mg,Tablet,N,N,Y,Toxicity interruption
+P0057,2022-10-04,3,3,100,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0057,2022-11-11,4,20,100,mg,Tablet,Y,N,N,Dose as planned
+P0057,2022-12-28,7,4,100,mg,Tablet,Y,N,N,Dose as planned
+P0057,2023-02-01,8,18,100,mg,Tablet,Y,N,N,Dose as planned
+P0057,2023-04-30,13,1,100,mg,Tablet,Y,N,N,Dose as planned
+P0057,2023-07-26,17,4,100,mg,Tablet,Y,N,N,Dose as planned
+P0057,2023-10-09,20,16,100,mg,Tablet,Y,N,N,Dose as planned
+P0058,2022-10-13,1,1,150,mg,Tablet,Y,N,N,Dose as planned
+P0058,2022-11-05,2,3,150,mg,Tablet,Y,N,N,Dose as planned
+P0058,2022-11-26,3,3,100,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0058,2023-01-06,5,2,100,mg,Tablet,Y,N,N,Dose as planned
+P0058,2023-02-19,7,4,100,mg,Tablet,Y,N,N,Dose as planned
+P0058,2023-04-01,9,3,100,mg,Tablet,Y,N,N,Dose as planned
+P0058,2023-06-27,13,6,100,mg,Tablet,Y,N,N,Dose as planned
+P0058,2023-09-16,17,3,100,mg,Tablet,Y,N,N,Dose as planned
+P0059,2022-03-29,1,9,0,mg,NA,N,N,N,Control
+P0059,2022-04-09,1,20,0,mg,NA,N,N,N,Control
+P0059,2022-05-06,3,5,0,mg,NA,N,N,N,Control
+P0059,2022-06-13,5,1,0,mg,NA,N,N,N,Control
+P0059,2022-07-28,7,4,0,mg,NA,N,N,N,Control
+P0059,2022-09-03,8,20,0,mg,NA,N,N,N,Control
+P0060,2022-06-01,2,1,100,mg,Tablet,Y,N,N,Dose as planned
+P0060,2022-06-23,3,2,100,mg,Tablet,Y,N,N,Dose as planned
+P0060,2022-08-04,5,2,100,mg,Tablet,Y,N,N,Dose as planned
+P0060,2022-09-17,7,4,100,mg,Tablet,Y,N,N,Dose as planned
+P0061,2022-10-06,2,2,100,mg,Tablet,Y,N,N,Dose as planned
+P0061,2022-10-30,3,5,50,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0061,2022-12-10,5,4,50,mg,Tablet,Y,N,N,Dose as planned
+P0061,2023-01-18,7,1,50,mg,Tablet,Y,N,N,Dose as planned
+P0061,2023-03-04,9,4,0,mg,Tablet,N,N,Y,Toxicity interruption
+P0061,2023-05-27,13,4,50,mg,Tablet,Y,N,N,Dose as planned
+P0061,2023-08-16,17,1,50,mg,Tablet,Y,N,N,Dose as planned
+P0061,2023-11-06,20,20,50,mg,Tablet,Y,N,N,Dose as planned
+P0062,2022-11-12,1,1,0,mg,NA,N,N,N,Control
+P0062,2022-11-30,1,19,0,mg,NA,N,N,N,Control
+P0062,2022-12-19,2,17,0,mg,NA,N,N,N,Control
+P0063,2022-11-27,1,5,100,mg,Tablet,Y,N,N,Dose as planned
+P0063,2022-12-10,1,18,100,mg,Tablet,Y,N,N,Dose as planned
+P0064,2022-02-09,1,4,150,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0064,2022-03-03,2,5,150,mg,Tablet,Y,N,N,Dose as planned
+P0064,2022-03-21,3,2,150,mg,Tablet,Y,N,N,Dose as planned
+P0064,2022-04-27,4,18,100,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0065,2022-06-27,2,2,0,mg,NA,N,N,N,Control
+P0065,2022-07-17,3,1,0,mg,NA,N,N,N,Control
+P0065,2022-08-30,5,3,0,mg,NA,N,N,N,Control
+P0065,2022-10-08,7,21,0,mg,NA,N,N,N,Control
+P0065,2022-11-18,8,20,0,mg,NA,N,N,N,Control
+P0067,2022-11-29,2,21,100,mg,Tablet,Y,N,N,Dose as planned
+P0067,2022-12-26,3,6,50,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0067,2023-02-03,5,3,0,mg,Tablet,N,N,Y,Toxicity interruption
+P0067,2023-03-18,7,4,50,mg,Tablet,Y,N,N,Dose as planned
+P0067,2023-04-27,9,2,50,mg,Tablet,Y,N,N,Dose as planned
+P0067,2023-07-18,13,21,50,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0067,2023-10-13,17,3,50,mg,Tablet,Y,N,N,Dose as planned
+P0068,2022-03-01,1,4,0,mg,NA,N,N,N,Control
+P0068,2022-03-20,2,2,0,mg,NA,N,N,N,Control
+P0068,2022-04-10,3,2,0,mg,NA,N,N,N,Control
+P0068,2022-05-21,5,1,0,mg,NA,N,N,N,Control
+P0068,2022-06-28,6,18,0,mg,NA,N,N,N,Control
+P0069,2022-11-10,1,3,0,mg,NA,N,N,N,Control
+P0069,2022-11-30,2,2,0,mg,NA,N,N,N,Control
+P0069,2022-12-16,2,18,0,mg,NA,N,N,N,Control
+P0070,2022-03-10,1,1,0,mg,NA,N,N,N,Control
+P0070,2022-04-02,2,3,0,mg,NA,N,N,N,Control
+P0070,2022-04-21,3,1,0,mg,NA,N,N,N,Control
+P0070,2022-06-01,5,21,0,mg,NA,N,N,N,Control
+P0070,2022-07-15,7,2,0,mg,NA,N,N,N,Control
+P0070,2022-08-24,9,21,0,mg,NA,N,N,N,Control
+P0071,2022-02-04,1,20,0,mg,NA,N,N,N,Control
+P0071,2022-02-25,2,20,0,mg,NA,N,N,N,Control
+P0071,2022-04-07,4,19,0,mg,NA,N,N,N,Control
+P0071,2022-05-25,7,4,0,mg,NA,N,N,N,Control
+P0072,2022-11-25,1,3,150,mg,Tablet,Y,N,N,Dose as planned
+P0072,2022-12-17,2,4,0,mg,Tablet,N,N,Y,Toxicity interruption
+P0072,2023-01-06,3,3,100,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0072,2023-02-17,5,3,100,mg,Tablet,Y,N,N,Dose as planned
+P0072,2023-03-29,7,1,100,mg,Tablet,Y,N,N,Dose as planned
+P0073,2022-07-03,1,19,200,mg,Tablet,Y,N,N,Dose as planned
+P0074,2022-06-17,1,1,0,mg,NA,N,N,N,Control
+P0074,2022-07-10,2,3,0,mg,NA,N,N,N,Control
+P0074,2022-07-28,3,21,0,mg,NA,N,N,N,Control
+P0074,2022-09-07,4,20,0,mg,NA,N,N,N,Control
+P0074,2022-10-21,7,1,0,mg,NA,N,N,N,Control
+P0074,2022-11-28,8,18,0,mg,NA,N,N,N,Control
+P0074,2023-02-26,13,3,0,mg,NA,N,N,N,Control
+P0074,2023-05-16,16,19,0,mg,NA,N,N,N,Control
+P0074,2023-08-14,21,4,0,mg,NA,N,N,N,Control
+P0075,2022-09-23,1,20,200,mg,Tablet,Y,N,N,Dose as planned
+P0075,2022-10-17,3,2,200,mg,Tablet,Y,N,N,Dose as planned
+P0075,2022-12-01,5,5,0,mg,Tablet,N,N,Y,Toxicity interruption
+P0075,2023-01-13,7,6,200,mg,Tablet,Y,N,N,Dose as planned
+P0076,2022-05-04,1,19,150,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0076,2022-05-29,3,2,100,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0076,2022-07-05,4,18,100,mg,Tablet,Y,N,N,Dose as planned
+P0076,2022-08-21,7,2,100,mg,Tablet,Y,N,N,Dose as planned
+P0076,2022-10-04,9,4,100,mg,Tablet,Y,N,N,Dose as planned
+P0076,2022-12-22,12,20,100,mg,Tablet,Y,N,N,Dose as planned
+P0077,2022-09-24,1,1,0,mg,NA,N,N,N,Control
+P0077,2022-10-14,2,21,0,mg,NA,N,N,N,Control
+P0078,2022-06-23,1,2,200,mg,Tablet,Y,N,N,Dose as planned
+P0078,2022-07-11,1,20,200,mg,Tablet,Y,N,N,Dose as planned
+P0078,2022-08-05,3,3,0,mg,Tablet,N,N,Y,Toxicity interruption
+P0078,2022-09-20,5,7,0,mg,Tablet,N,N,Y,Toxicity interruption
+P0078,2022-10-27,7,2,200,mg,Tablet,Y,N,N,Dose as planned
+P0078,2022-12-09,9,3,200,mg,Tablet,Y,N,N,Dose as planned
+P0079,2022-04-26,1,7,0,mg,NA,N,N,N,Control
+P0079,2022-05-10,2,21,0,mg,NA,N,N,N,Control
+P0079,2022-05-30,2,20,0,mg,NA,N,N,N,Control
+P0079,2022-07-16,5,4,0,mg,NA,N,N,N,Control
+P0079,2022-08-21,6,19,0,mg,NA,N,N,N,Control
+P0079,2022-10-04,9,21,0,mg,NA,N,N,N,Control
+P0079,2023-01-01,13,5,0,mg,NA,N,N,N,Control
+P0079,2023-03-22,17,1,0,mg,NA,N,N,N,Control
+P0079,2023-06-09,20,17,0,mg,NA,N,N,N,Control
+P0079,2023-09-08,25,3,0,mg,NA,N,N,N,Control
+P0080,2022-06-04,1,6,100,mg,Tablet,Y,N,N,Dose as planned
+P0080,2022-06-18,1,20,100,mg,Tablet,Y,N,N,Dose as planned
+P0080,2022-07-14,3,4,100,mg,Tablet,Y,N,N,Dose as planned
+P0080,2022-08-27,5,6,100,mg,Tablet,Y,N,N,Dose as planned
+P0080,2022-09-30,6,19,100,mg,Tablet,Y,N,N,Dose as planned
+P0080,2022-11-13,9,21,100,mg,Tablet,Y,N,N,Dose as planned
+P0080,2023-02-07,13,2,50,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0081,2022-01-18,1,1,150,mg,Tablet,Y,N,N,Dose as planned
+P0082,2022-05-14,1,19,0,mg,Tablet,N,N,Y,Toxicity interruption
+P0082,2022-06-12,3,6,100,mg,Tablet,Y,N,N,Dose as planned
+P0082,2022-07-19,5,1,50,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0083,2022-08-31,1,19,0,mg,NA,N,N,N,Control
+P0083,2022-09-28,3,5,0,mg,NA,N,N,N,Control
+P0083,2022-11-07,5,3,0,mg,NA,N,N,N,Control
+P0083,2022-12-21,7,5,0,mg,NA,N,N,N,Control
+P0083,2023-02-01,9,5,0,mg,NA,N,N,N,Control
+P0083,2023-04-24,13,3,0,mg,NA,N,N,N,Control
+P0084,2022-03-13,1,8,50,mg,Tablet,Y,N,N,Dose as planned
+P0084,2022-03-26,2,21,50,mg,Tablet,Y,N,N,Dose as planned
+P0084,2022-04-23,3,7,50,mg,Tablet,Y,N,N,Dose as planned
+P0084,2022-05-29,5,1,50,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0084,2022-07-14,7,5,50,mg,Tablet,Y,N,N,Dose as planned
+P0085,2022-03-15,2,1,0,mg,NA,N,N,N,Control
+P0085,2022-04-07,3,3,0,mg,NA,N,N,N,Control
+P0085,2022-05-11,4,16,0,mg,NA,N,N,N,Control
+P0086,2022-09-03,1,1,0,mg,NA,N,N,N,Control
+P0086,2022-09-25,2,2,0,mg,NA,N,N,N,Control
+P0086,2022-10-12,2,19,0,mg,NA,N,N,N,Control
+P0086,2022-11-26,5,1,0,mg,NA,N,N,N,Control
+P0086,2023-01-06,7,21,0,mg,NA,N,N,N,Control
+P0086,2023-02-14,8,18,0,mg,NA,N,N,N,Control
+P0086,2023-05-15,13,3,0,mg,NA,N,N,N,Control
+P0086,2023-08-03,16,20,0,mg,NA,N,N,N,Control
+P0087,2022-06-09,1,1,0,mg,NA,N,N,N,Control
+P0087,2022-06-30,2,1,0,mg,NA,N,N,N,Control
+P0087,2022-07-20,3,21,0,mg,NA,N,N,N,Control
+P0087,2022-09-02,5,2,0,mg,NA,N,N,N,Control
+P0087,2022-10-17,7,5,0,mg,NA,N,N,N,Control
+P0087,2022-11-26,9,3,0,mg,NA,N,N,N,Control
+P0087,2023-02-18,13,3,0,mg,NA,N,N,N,Control
+P0088,2022-03-16,1,19,50,mg,Tablet,Y,N,N,Dose as planned
+P0088,2022-04-03,2,16,50,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0088,2022-05-17,4,18,50,mg,Tablet,Y,N,N,Dose as planned
+P0088,2022-07-01,7,21,50,mg,Tablet,Y,N,N,Dose as planned
+P0088,2022-08-13,9,1,50,mg,Tablet,Y,N,N,Dose as planned
+P0089,2022-10-14,1,3,0,mg,NA,N,N,N,Control
+P0089,2022-11-03,2,2,0,mg,NA,N,N,N,Control
+P0090,2022-10-26,1,4,100,mg,Tablet,Y,N,N,Dose as planned
+P0090,2022-11-11,1,20,100,mg,Tablet,Y,N,N,Dose as planned
+P0090,2022-12-04,3,1,100,mg,Tablet,Y,N,N,Dose as planned
+P0090,2023-01-16,5,2,100,mg,Tablet,Y,N,N,Dose as planned
+P0090,2023-03-03,7,6,0,mg,Tablet,N,N,Y,Toxicity interruption
+P0091,2022-02-09,2,2,100,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0091,2022-03-03,3,3,0,mg,Tablet,N,N,Y,Toxicity interruption
+P0091,2022-04-09,4,19,0,mg,Tablet,N,N,Y,Toxicity interruption
+P0091,2022-05-23,7,21,0,mg,Tablet,N,N,Y,Toxicity interruption
+P0091,2022-07-08,9,4,100,mg,Tablet,Y,N,N,Dose as planned
+P0091,2022-09-22,12,17,100,mg,Tablet,Y,N,N,Dose as planned
+P0091,2022-12-16,16,18,100,mg,Tablet,Y,N,N,Dose as planned
+P0091,2023-03-13,21,21,50,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0091,2023-06-04,24,20,50,mg,Tablet,Y,N,N,Dose as planned
+P0092,2022-04-10,2,2,0,mg,NA,N,N,N,Control
+P0092,2022-04-30,3,1,0,mg,NA,N,N,N,Control
+P0092,2022-06-13,5,3,0,mg,NA,N,N,N,Control
+P0093,2022-06-21,2,5,0,mg,NA,N,N,N,Control
+P0093,2022-07-12,3,5,0,mg,NA,N,N,N,Control
+P0093,2022-08-21,5,3,0,mg,NA,N,N,N,Control
+P0093,2022-09-27,6,19,0,mg,NA,N,N,N,Control
+P0093,2022-11-04,8,15,0,mg,NA,N,N,N,Control
+P0093,2023-02-06,13,4,0,mg,NA,N,N,N,Control
+P0093,2023-04-28,17,1,0,mg,NA,N,N,N,Control
+P0094,2022-10-22,2,3,0,mg,NA,N,N,N,Control
+P0094,2022-11-07,2,19,0,mg,NA,N,N,N,Control
+P0094,2022-12-22,5,1,0,mg,NA,N,N,N,Control
+P0095,2022-02-01,1,3,200,mg,Tablet,Y,N,N,Dose as planned
+P0095,2022-02-15,1,17,150,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0095,2022-03-12,3,21,0,mg,Tablet,N,N,Y,Toxicity interruption
+P0095,2022-04-25,5,2,100,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0095,2022-06-09,7,5,100,mg,Tablet,Y,N,N,Dose as planned
+P0095,2022-07-15,8,20,100,mg,Tablet,Y,N,N,Dose as planned
+P0096,2022-11-20,2,1,100,mg,Tablet,Y,N,N,Dose as planned
+P0096,2022-12-12,3,2,50,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0097,2022-05-10,1,5,0,mg,NA,N,N,N,Control
+P0097,2022-05-29,2,3,0,mg,NA,N,N,N,Control
+P0097,2022-06-14,2,19,0,mg,NA,N,N,N,Control
+P0097,2022-07-30,5,2,0,mg,NA,N,N,N,Control
+P0097,2022-09-02,6,15,0,mg,NA,N,N,N,Control
+P0097,2022-10-19,8,20,0,mg,NA,N,N,N,Control
+P0097,2023-01-16,13,4,0,mg,NA,N,N,N,Control
+P0098,2022-02-21,1,2,50,mg,Tablet,Y,N,N,Dose as planned
+P0098,2022-03-14,2,2,50,mg,Tablet,Y,N,N,Dose as planned
+P0098,2022-04-06,3,4,50,mg,Tablet,Y,N,N,Dose as planned
+P0099,2022-12-08,2,2,0,mg,NA,N,N,N,Control
+P0099,2022-12-26,2,20,0,mg,NA,N,N,N,Control
+P0099,2023-02-03,4,17,0,mg,NA,N,N,N,Control
+P0099,2023-03-25,7,4,0,mg,NA,N,N,N,Control
+P0100,2022-02-25,1,20,100,mg,Tablet,Y,N,N,Dose as planned
+P0100,2022-03-18,2,20,50,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0100,2022-05-04,5,4,50,mg,Tablet,Y,N,N,Dose as planned
+P0100,2022-06-08,6,18,50,mg,Tablet,Y,N,N,Dose as planned
+P0100,2022-07-25,9,2,50,mg,Tablet,Y,N,N,Dose as planned
+P0101,2022-02-24,1,2,100,mg,Tablet,Y,N,N,Dose as planned
+P0101,2022-03-11,1,17,100,mg,Tablet,Y,N,N,Dose as planned
+P0101,2022-03-29,2,14,100,mg,Tablet,Y,N,N,Dose as planned
+P0101,2022-05-19,5,2,50,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0101,2022-06-30,7,2,50,mg,Tablet,Y,N,N,Dose as planned
+P0102,2022-12-21,1,6,100,mg,Tablet,Y,N,N,Dose as planned
+P0102,2023-01-05,2,21,50,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0102,2023-01-25,2,20,50,mg,Tablet,Y,N,N,Dose as planned
+P0102,2023-03-06,4,18,50,mg,Tablet,Y,N,N,Dose as planned
+P0102,2023-04-26,7,6,0,mg,Tablet,N,N,Y,Toxicity interruption
+P0102,2023-06-03,9,2,0,mg,Tablet,N,N,Y,Toxicity interruption
+P0102,2023-08-26,13,2,0,mg,Tablet,N,N,Y,Toxicity interruption
+P0103,2022-08-01,2,21,50,mg,Tablet,Y,N,N,Dose as planned
+P0103,2022-08-22,3,21,0,mg,Tablet,N,N,Y,Toxicity interruption
+P0103,2022-10-02,4,20,50,mg,Tablet,Y,N,N,Dose as planned
+P0103,2022-11-11,6,18,50,mg,Tablet,Y,N,N,Dose as planned
+P0103,2023-01-01,9,6,50,mg,Tablet,Y,N,N,Dose as planned
+P0104,2022-06-28,1,3,100,mg,Tablet,Y,N,N,Dose as planned
+P0104,2022-07-17,2,1,100,mg,Tablet,Y,N,N,Dose as planned
+P0104,2022-08-09,3,3,100,mg,Tablet,Y,N,N,Dose as planned
+P0104,2022-09-20,5,3,100,mg,Tablet,Y,N,N,Dose as planned
+P0104,2022-10-30,7,1,100,mg,Tablet,Y,N,N,Dose as planned
+P0104,2022-12-10,9,21,0,mg,Tablet,N,N,Y,Toxicity interruption
+P0104,2023-03-10,13,6,100,mg,Tablet,Y,N,N,Dose as planned
+P0104,2023-05-27,17,21,0,mg,Tablet,N,N,Y,Toxicity interruption
+P0105,2022-10-01,2,21,0,mg,NA,N,N,N,Control
+P0105,2022-10-22,3,21,0,mg,NA,N,N,N,Control
+P0105,2022-11-30,4,18,0,mg,NA,N,N,N,Control
+P0105,2023-01-13,6,20,0,mg,NA,N,N,N,Control
+P0105,2023-02-27,9,2,0,mg,NA,N,N,N,Control
+P0106,2022-08-26,1,2,0,mg,NA,N,N,N,Control
+P0106,2022-09-15,2,1,0,mg,NA,N,N,N,Control
+P0106,2022-10-05,3,21,0,mg,NA,N,N,N,Control
+P0106,2022-11-17,5,1,0,mg,NA,N,N,N,Control
+P0106,2022-12-29,7,1,0,mg,NA,N,N,N,Control
+P0106,2023-02-13,9,5,0,mg,NA,N,N,N,Control
+P0106,2023-05-04,13,1,0,mg,NA,N,N,N,Control
+P0108,2022-02-01,2,1,100,mg,Tablet,Y,N,N,Dose as planned
+P0109,2022-08-18,1,19,200,mg,Tablet,Y,N,N,Dose as planned
+P0109,2022-09-17,3,7,200,mg,Tablet,Y,N,N,Dose as planned
+P0109,2022-10-23,5,1,200,mg,Tablet,Y,N,N,Dose as planned
+P0109,2022-12-04,7,1,200,mg,Tablet,Y,N,N,Dose as planned
+P0109,2023-01-14,9,21,200,mg,Tablet,Y,N,N,Dose as planned
+P0109,2023-04-13,13,5,200,mg,Tablet,Y,N,N,Dose as planned
+P0110,2022-04-25,1,3,100,mg,Tablet,Y,N,N,Dose as planned
+P0110,2022-05-13,2,21,100,mg,Tablet,Y,N,N,Dose as planned
+P0110,2022-06-08,3,5,100,mg,Tablet,Y,N,N,Dose as planned
+P0110,2022-07-18,5,3,100,mg,Tablet,Y,N,N,Dose as planned
+P0110,2022-08-26,7,21,100,mg,Tablet,Y,N,N,Dose as planned
+P0110,2022-10-08,9,1,100,mg,Tablet,Y,N,N,Dose as planned
+P0111,2022-11-22,2,21,50,mg,Tablet,Y,N,N,Dose as planned
+P0111,2022-12-17,3,4,50,mg,Tablet,Y,N,N,Dose as planned
+P0111,2023-01-19,4,16,50,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0111,2023-03-07,7,21,50,mg,Tablet,Y,N,N,Dose as planned
+P0111,2023-04-18,9,21,50,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0112,2022-07-15,1,2,0,mg,NA,N,N,N,Control
+P0112,2022-08-03,2,21,0,mg,NA,N,N,N,Control
+P0112,2022-08-28,3,4,0,mg,NA,N,N,N,Control
+P0112,2022-10-02,4,18,0,mg,NA,N,N,N,Control
+P0112,2022-11-15,6,20,0,mg,NA,N,N,N,Control
+P0112,2022-12-30,9,2,0,mg,NA,N,N,N,Control
+P0112,2023-03-27,13,5,0,mg,NA,N,N,N,Control
+P0112,2023-06-08,16,15,0,mg,NA,N,N,N,Control
+P0112,2023-09-11,21,5,0,mg,NA,N,N,N,Control
+P0113,2022-03-16,1,17,0,mg,Tablet,N,N,Y,Toxicity interruption
+P0113,2022-04-11,3,1,100,mg,Tablet,Y,N,N,Dose as planned
+P0113,2022-05-23,5,1,100,mg,Tablet,Y,N,N,Dose as planned
+P0113,2022-07-06,7,3,100,mg,Tablet,Y,N,N,Dose as planned
+P0113,2022-08-13,8,20,100,mg,Tablet,Y,N,N,Dose as planned
+P0114,2022-11-26,1,4,0,mg,NA,N,N,N,Control
+P0114,2022-12-12,1,20,0,mg,NA,N,N,N,Control
+P0114,2023-01-01,2,19,0,mg,NA,N,N,N,Control
+P0114,2023-02-13,4,20,0,mg,NA,N,N,N,Control
+P0114,2023-04-01,7,4,0,mg,NA,N,N,N,Control
+P0114,2023-05-10,9,1,0,mg,NA,N,N,N,Control
+P0115,2022-04-22,1,4,0,mg,NA,N,N,N,Control
+P0115,2022-05-08,1,20,0,mg,NA,N,N,N,Control
+P0115,2022-05-31,3,1,0,mg,NA,N,N,N,Control
+P0115,2022-07-08,4,18,0,mg,NA,N,N,N,Control
+P0115,2022-08-22,7,21,0,mg,NA,N,N,N,Control
+P0115,2022-10-02,8,20,0,mg,NA,N,N,N,Control
+P0115,2022-12-26,13,21,0,mg,NA,N,N,N,Control
+P0115,2023-03-19,16,20,0,mg,NA,N,N,N,Control
+P0116,2022-05-05,1,20,150,mg,Tablet,Y,N,N,Dose as planned
+P0116,2022-05-23,2,17,150,mg,Tablet,Y,N,N,Dose as planned
+P0116,2022-07-10,5,2,150,mg,Tablet,Y,N,N,Dose as planned
+P0116,2022-08-22,7,3,100,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0116,2022-10-02,9,2,100,mg,Tablet,Y,N,N,Dose as planned
+P0116,2022-12-22,12,20,0,mg,Tablet,N,N,Y,Toxicity interruption
+P0116,2023-03-19,17,2,100,mg,Tablet,Y,N,N,Dose as planned
+P0116,2023-06-09,21,21,100,mg,Tablet,Y,N,N,Dose as planned
+P0116,2023-08-30,24,19,100,mg,Tablet,Y,N,N,Dose as planned
+P0117,2022-12-22,1,3,150,mg,Tablet,Y,N,N,Dose as planned
+P0117,2023-01-13,2,4,150,mg,Tablet,Y,N,N,Dose as planned
+P0117,2023-01-29,2,20,150,mg,Tablet,Y,N,N,Dose as planned
+P0117,2023-03-18,5,5,0,mg,Tablet,N,N,Y,Toxicity interruption
+P0117,2023-04-24,7,21,100,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0117,2023-06-08,9,3,100,mg,Tablet,Y,N,N,Dose as planned
+P0117,2023-08-27,12,20,100,mg,Tablet,Y,N,N,Dose as planned
+P0117,2023-11-20,17,21,50,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0117,2024-02-06,20,15,50,mg,Tablet,Y,N,N,Dose as planned
+P0118,2022-11-20,2,6,100,mg,Tablet,Y,N,N,Dose as planned
+P0118,2022-12-03,2,19,100,mg,Tablet,Y,N,N,Dose as planned
+P0118,2023-01-15,4,20,100,mg,Tablet,Y,N,N,Dose as planned
+P0118,2023-02-25,6,19,50,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0118,2023-04-09,8,20,50,mg,Tablet,Y,N,N,Dose as planned
+P0118,2023-07-07,13,4,50,mg,Tablet,Y,N,N,Dose as planned
+P0118,2023-09-30,17,5,50,mg,Tablet,Y,N,N,Dose as planned
+P0119,2022-11-29,1,5,0,mg,NA,N,N,N,Control
+P0119,2022-12-19,2,4,0,mg,NA,N,N,N,Control
+P0119,2023-01-06,3,1,0,mg,NA,N,N,N,Control
+P0119,2023-02-13,4,18,0,mg,NA,N,N,N,Control
+P0119,2023-03-27,6,18,0,mg,NA,N,N,N,Control
+P0119,2023-05-13,9,2,0,mg,NA,N,N,N,Control
+P0119,2023-08-06,13,3,0,mg,NA,N,N,N,Control
+P0119,2023-10-21,16,16,0,mg,NA,N,N,N,Control
+P0120,2022-09-14,1,5,150,mg,Tablet,Y,N,N,Dose as planned
+P0120,2022-10-03,2,3,150,mg,Tablet,Y,N,N,Dose as planned
+P0120,2022-10-19,2,19,150,mg,Tablet,Y,N,N,Dose as planned
+P0120,2022-12-02,5,21,150,mg,Tablet,Y,N,N,Dose as planned
+P0120,2023-01-14,7,1,150,mg,Tablet,Y,N,N,Dose as planned
+P0120,2023-02-22,8,19,150,mg,Tablet,Y,N,N,Dose as planned
+P0120,2023-05-17,12,19,150,mg,Tablet,Y,N,N,Dose as planned
+P0120,2023-08-17,17,6,100,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0120,2023-11-01,20,19,100,mg,Tablet,Y,N,N,Dose as planned
+P0120,2024-01-30,25,4,100,mg,Tablet,Y,N,N,Dose as planned
+P0121,2022-12-07,1,1,0,mg,NA,N,N,N,Control
+P0121,2022-12-30,2,3,0,mg,NA,N,N,N,Control
+P0121,2023-01-16,2,20,0,mg,NA,N,N,N,Control
+P0121,2023-03-03,5,3,0,mg,NA,N,N,N,Control
+P0121,2023-04-06,6,16,0,mg,NA,N,N,N,Control
+P0121,2023-05-25,9,2,0,mg,NA,N,N,N,Control
+P0121,2023-08-09,12,15,0,mg,NA,N,N,N,Control
+P0121,2023-11-07,17,21,0,mg,NA,N,N,N,Control
+P0121,2024-02-03,21,4,0,mg,NA,N,N,N,Control
+P0121,2024-04-26,25,3,0,mg,NA,N,N,N,Control
+P0122,2022-03-10,1,20,50,mg,Tablet,Y,N,N,Dose as planned
+P0122,2022-04-03,3,2,0,mg,Tablet,N,N,Y,Toxicity interruption
+P0122,2022-05-08,4,16,50,mg,Tablet,Y,N,N,Dose as planned
+P0122,2022-06-25,7,1,50,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0122,2022-08-07,9,2,50,mg,Tablet,Y,N,N,Dose as planned
+P0123,2022-08-10,1,1,100,mg,Tablet,Y,N,N,Dose as planned
+P0123,2022-08-28,1,19,100,mg,Tablet,Y,N,N,Dose as planned
+P0123,2022-09-19,2,20,100,mg,Tablet,Y,N,N,Dose as planned
+P0123,2022-11-03,5,2,100,mg,Tablet,Y,N,N,Dose as planned
+P0123,2022-12-18,7,5,100,mg,Tablet,Y,N,N,Dose as planned
+P0123,2023-01-25,9,1,100,mg,Tablet,Y,N,N,Dose as planned
+P0123,2023-04-21,13,3,100,mg,Tablet,Y,N,N,Dose as planned
+P0123,2023-07-08,16,18,50,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0123,2023-10-05,21,2,50,mg,Tablet,Y,N,N,Dose as planned
+P0125,2022-06-24,2,21,0,mg,NA,N,N,N,Control
+P0125,2022-07-13,2,19,0,mg,NA,N,N,N,Control
+P0127,2022-04-22,2,4,50,mg,Tablet,Y,N,N,Dose as planned
+P0127,2022-05-06,2,18,0,mg,Tablet,N,N,Y,Toxicity interruption
+P0128,2022-07-17,2,3,0,mg,NA,N,N,N,Control
+P0128,2022-08-02,2,19,0,mg,NA,N,N,N,Control
+P0128,2022-09-17,5,2,0,mg,NA,N,N,N,Control
+P0128,2022-11-01,7,5,0,mg,NA,N,N,N,Control
+P0128,2022-12-09,9,1,0,mg,NA,N,N,N,Control
+P0128,2023-03-06,13,4,0,mg,NA,N,N,N,Control
+P0128,2023-05-26,17,1,0,mg,NA,N,N,N,Control
+P0128,2023-08-23,21,6,0,mg,NA,N,N,N,Control
+P0128,2023-11-07,24,19,0,mg,NA,N,N,N,Control
+P0129,2022-12-11,1,3,200,mg,Tablet,Y,N,N,Dose as planned
+P0129,2022-12-29,2,21,200,mg,Tablet,Y,N,N,Dose as planned
+P0129,2023-01-23,3,4,200,mg,Tablet,Y,N,N,Dose as planned
+P0129,2023-03-02,5,21,200,mg,Tablet,Y,N,N,Dose as planned
+P0129,2023-04-20,7,7,0,mg,Tablet,N,N,Y,Toxicity interruption
+P0129,2023-06-01,9,7,150,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0129,2023-08-19,13,2,150,mg,Tablet,Y,N,N,Dose as planned
+P0129,2023-11-12,17,3,0,mg,Tablet,N,N,Y,Toxicity interruption
+P0129,2024-02-06,21,5,150,mg,Tablet,Y,N,N,Dose as planned
+P0129,2024-04-22,24,18,150,mg,Tablet,Y,N,N,Dose as planned
+P0130,2022-09-08,1,5,100,mg,Tablet,Y,N,N,Dose as planned
+P0130,2022-09-26,2,2,50,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0130,2022-10-15,3,21,50,mg,Tablet,Y,N,N,Dose as planned
+P0130,2022-11-27,5,1,50,mg,Tablet,Y,N,N,Dose as planned
+P0130,2023-01-01,6,15,50,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0130,2023-02-18,9,21,50,mg,Tablet,Y,N,N,Dose as planned
+P0130,2023-05-12,12,20,50,mg,Tablet,Y,N,N,Dose as planned
+P0130,2023-08-09,17,4,50,mg,Tablet,Y,N,N,Dose as planned
+P0132,2022-06-25,1,4,0,mg,NA,N,N,N,Control
+P0132,2022-07-10,1,19,0,mg,NA,N,N,N,Control
+P0132,2022-07-31,2,19,0,mg,NA,N,N,N,Control
+P0132,2022-09-11,4,19,0,mg,NA,N,N,N,Control
+P0132,2022-10-25,7,21,0,mg,NA,N,N,N,Control
+P0132,2022-12-03,8,18,0,mg,NA,N,N,N,Control
+P0132,2023-03-01,13,1,0,mg,NA,N,N,N,Control
+P0133,2022-07-28,1,4,50,mg,Tablet,Y,N,N,Dose as planned
+P0133,2022-08-14,2,21,50,mg,Tablet,Y,N,N,Dose as planned
+P0133,2022-09-05,3,1,50,mg,Tablet,Y,N,N,Dose as planned
+P0133,2022-10-15,4,20,50,mg,Tablet,Y,N,N,Dose as planned
+P0134,2022-04-08,1,4,0,mg,NA,N,N,N,Control
+P0134,2022-04-26,2,1,0,mg,NA,N,N,N,Control
+P0134,2022-05-22,3,6,0,mg,NA,N,N,N,Control
+P0134,2022-06-25,4,19,0,mg,NA,N,N,N,Control
+P0135,2022-08-09,1,20,50,mg,Tablet,Y,N,N,Dose as planned
+P0135,2022-09-06,3,6,50,mg,Tablet,Y,N,N,Dose as planned
+P0135,2022-10-11,4,20,50,mg,Tablet,Y,N,N,Dose as planned
+P0135,2022-11-20,6,18,50,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0135,2023-01-07,9,3,50,mg,Tablet,Y,N,N,Dose as planned
+P0135,2023-03-29,13,21,0,mg,Tablet,N,N,Y,Toxicity interruption
+P0136,2022-10-07,1,20,100,mg,Tablet,Y,N,N,Dose as planned
+P0136,2022-11-01,3,3,100,mg,Tablet,Y,N,N,Dose as planned
+P0136,2022-12-13,5,3,100,mg,Tablet,Y,N,N,Dose as planned
+P0136,2023-01-18,6,18,100,mg,Tablet,Y,N,N,Dose as planned
+P0136,2023-03-02,8,19,100,mg,Tablet,Y,N,N,Dose as planned
+P0136,2023-05-20,12,14,100,mg,Tablet,Y,N,N,Dose as planned
+P0138,2022-08-27,2,1,150,mg,Tablet,Y,N,N,Dose as planned
+P0138,2022-09-15,2,20,150,mg,Tablet,Y,N,N,Dose as planned
+P0138,2022-10-23,4,16,0,mg,Tablet,N,N,Y,Toxicity interruption
+P0138,2022-12-15,7,6,150,mg,Tablet,Y,N,N,Dose as planned
+P0138,2023-01-19,8,20,150,mg,Tablet,Y,N,N,Dose as planned
+P0139,2022-10-14,2,2,0,mg,NA,N,N,N,Control
+P0139,2022-11-05,3,3,0,mg,NA,N,N,N,Control
+P0139,2022-12-17,5,3,0,mg,NA,N,N,N,Control
+P0139,2023-01-26,7,1,0,mg,NA,N,N,N,Control
+P0139,2023-03-11,9,3,0,mg,NA,N,N,N,Control
+P0139,2023-06-03,13,3,0,mg,NA,N,N,N,Control
+P0140,2022-07-16,1,1,0,mg,Tablet,N,N,Y,Toxicity interruption
+P0140,2022-08-05,2,21,150,mg,Tablet,Y,N,N,Dose as planned
+P0140,2022-08-31,3,5,150,mg,Tablet,Y,N,N,Dose as planned
+P0140,2022-10-04,4,18,0,mg,Tablet,N,N,Y,Toxicity interruption
+P0140,2022-11-24,7,6,150,mg,Tablet,Y,N,N,Dose as planned
+P0140,2022-12-31,9,1,150,mg,Tablet,Y,N,N,Dose as planned
+P0140,2023-03-26,13,2,100,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0140,2023-06-16,17,21,100,mg,Tablet,Y,N,N,Dose as planned
+P0140,2023-09-04,20,17,100,mg,Tablet,Y,N,N,Dose as planned
+P0140,2023-12-02,25,1,100,mg,Tablet,Y,N,N,Dose as planned
+P0141,2022-04-23,1,3,0,mg,NA,N,N,N,Control
+P0141,2022-05-11,2,21,0,mg,NA,N,N,N,Control
+P0141,2022-05-26,2,15,0,mg,NA,N,N,N,Control
+P0141,2022-07-09,4,17,0,mg,NA,N,N,N,Control
+P0142,2022-08-02,1,6,0,mg,NA,N,N,N,Control
+P0142,2022-08-18,2,1,0,mg,NA,N,N,N,Control
+P0142,2022-09-09,3,2,0,mg,NA,N,N,N,Control
+P0143,2022-11-19,2,2,0,mg,NA,N,N,N,Control
+P0143,2022-12-09,3,1,0,mg,NA,N,N,N,Control
+P0144,2022-05-01,2,9,0,mg,NA,N,N,N,Control
+P0144,2022-05-10,2,18,0,mg,NA,N,N,N,Control
+P0145,2022-08-12,1,5,0,mg,NA,N,N,N,Control
+P0145,2022-08-28,2,21,0,mg,NA,N,N,N,Control
+P0147,2022-05-25,2,3,0,mg,NA,N,N,N,Control
+P0147,2022-06-16,3,4,0,mg,NA,N,N,N,Control
+P0147,2022-07-28,5,4,0,mg,NA,N,N,N,Control
+P0147,2022-09-06,7,2,0,mg,NA,N,N,N,Control
+P0147,2022-10-17,9,1,0,mg,NA,N,N,N,Control
+P0147,2023-01-11,13,3,0,mg,NA,N,N,N,Control
+P0147,2023-04-04,17,2,0,mg,NA,N,N,N,Control
+P0147,2023-06-28,21,3,0,mg,NA,N,N,N,Control
+P0148,2022-06-26,2,1,0,mg,Tablet,N,Y,Y,Toxicity interruption
+P0148,2022-07-13,2,18,50,mg,Tablet,Y,N,N,Dose as planned
+P0148,2022-08-29,5,2,50,mg,Tablet,Y,N,N,Dose as planned
+P0148,2022-10-14,7,6,0,mg,Tablet,N,N,Y,Toxicity interruption
+P0148,2022-11-19,9,21,50,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0149,2022-12-15,1,19,50,mg,Tablet,Y,N,N,Dose as planned
+P0149,2023-01-11,3,4,0,mg,Tablet,N,N,Y,Toxicity interruption
+P0149,2023-02-22,5,4,50,mg,Tablet,Y,N,N,Dose as planned
+P0149,2023-04-03,7,2,50,mg,Tablet,Y,N,N,Dose as planned
+P0149,2023-05-17,9,4,50,mg,Tablet,Y,N,N,Dose as planned
+P0150,2022-05-21,1,5,0,mg,NA,N,N,N,Control
+P0150,2022-06-12,2,6,0,mg,NA,N,N,N,Control
+P0150,2022-07-02,3,5,0,mg,NA,N,N,N,Control
+P0150,2022-08-08,5,21,0,mg,NA,N,N,N,Control
+P0150,2022-09-17,6,19,0,mg,NA,N,N,N,Control
+P0150,2022-11-05,9,5,0,mg,NA,N,N,N,Control
+P0150,2023-01-26,13,3,0,mg,NA,N,N,N,Control
+P0150,2023-04-19,17,2,0,mg,NA,N,N,N,Control
+P0150,2023-07-09,20,20,0,mg,NA,N,N,N,Control
+P0152,2022-03-05,1,8,0,mg,NA,N,N,N,Control
+P0152,2022-03-17,1,20,0,mg,NA,N,N,N,Control
+P0152,2022-04-06,2,19,0,mg,NA,N,N,N,Control
+P0152,2022-05-25,5,5,0,mg,NA,N,N,N,Control
+P0152,2022-06-28,6,18,0,mg,NA,N,N,N,Control
+P0152,2022-08-12,9,21,0,mg,NA,N,N,N,Control
+P0153,2022-12-15,1,5,100,mg,Tablet,Y,N,N,Dose as planned
+P0154,2022-08-20,1,1,0,mg,NA,N,N,N,Control
+P0154,2022-09-06,1,18,0,mg,NA,N,N,N,Control
+P0154,2022-10-05,3,5,0,mg,NA,N,N,N,Control
+P0154,2022-11-12,5,1,0,mg,NA,N,N,N,Control
+P0154,2022-12-19,6,17,0,mg,NA,N,N,N,Control
+P0154,2023-02-06,9,3,0,mg,NA,N,N,N,Control
+P0154,2023-05-02,13,4,0,mg,NA,N,N,N,Control
+P0154,2023-07-15,16,15,0,mg,NA,N,N,N,Control
+P0156,2022-09-14,2,5,0,mg,NA,N,N,N,Control
+P0156,2022-09-26,2,17,0,mg,NA,N,N,N,Control
+P0156,2022-11-16,5,5,0,mg,NA,N,N,N,Control
+P0157,2022-05-21,1,3,0,mg,NA,N,N,N,Control
+P0157,2022-06-11,2,3,0,mg,NA,N,N,N,Control
+P0157,2022-06-27,2,19,0,mg,NA,N,N,N,Control
+P0157,2022-08-13,5,3,0,mg,NA,N,N,N,Control
+P0157,2022-09-23,7,2,0,mg,NA,N,N,N,Control
+P0157,2022-11-08,9,6,0,mg,NA,N,N,N,Control
+P0157,2023-01-28,13,3,0,mg,NA,N,N,N,Control
+P0157,2023-04-23,17,4,0,mg,NA,N,N,N,Control
+P0158,2022-05-11,1,1,0,mg,NA,N,N,N,Control
+P0158,2022-06-01,2,1,0,mg,NA,N,N,N,Control
+P0158,2022-06-21,3,21,0,mg,NA,N,N,N,Control
+P0159,2022-10-11,1,17,150,mg,Tablet,Y,N,N,Dose as planned
+P0159,2022-11-06,3,1,150,mg,Tablet,Y,N,N,Dose as planned
+P0159,2022-12-17,5,21,150,mg,Tablet,Y,N,N,Dose as planned
+P0159,2023-01-27,6,20,150,mg,Tablet,Y,N,N,Dose as planned
+P0159,2023-03-17,9,6,150,mg,Tablet,Y,N,N,Dose as planned
+P0159,2023-06-01,12,19,150,mg,Tablet,Y,N,N,Dose as planned
+P0159,2023-08-29,17,3,150,mg,Tablet,Y,N,N,Dose as planned
+P0160,2022-12-08,1,18,0,mg,Tablet,N,N,Y,Toxicity interruption
+P0160,2023-01-01,3,21,150,mg,Tablet,Y,N,N,Dose as planned
+P0160,2023-02-11,4,20,150,mg,Tablet,Y,N,N,Dose as planned
+P0160,2023-03-25,6,20,150,mg,Tablet,Y,N,N,Dose as planned
+P0160,2023-05-07,9,21,0,mg,Tablet,N,Y,Y,Toxicity interruption
+P0160,2023-07-31,13,1,50,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0160,2023-10-24,17,2,50,mg,Tablet,Y,N,N,Dose as planned
+P0160,2024-01-11,20,18,50,mg,Tablet,Y,N,N,Dose as planned
+P0160,2024-04-06,24,20,50,mg,Tablet,Y,N,N,Dose as planned
+P0161,2022-03-21,2,7,0,mg,Tablet,N,N,Y,Toxicity interruption
+P0162,2022-11-12,1,2,100,mg,Tablet,Y,N,N,Dose as planned
+P0162,2022-12-04,2,3,100,mg,Tablet,Y,N,N,Dose as planned
+P0162,2022-12-28,3,6,100,mg,Tablet,Y,N,N,Dose as planned
+P0162,2023-02-05,5,3,100,mg,Tablet,Y,N,N,Dose as planned
+P0162,2023-03-15,6,20,100,mg,Tablet,Y,N,N,Dose as planned
+P0162,2023-05-01,9,4,100,mg,Tablet,Y,N,N,Dose as planned
+P0163,2022-11-15,1,2,150,mg,Tablet,Y,N,N,Dose as planned
+P0163,2022-11-30,1,17,0,mg,Tablet,N,N,Y,Toxicity interruption
+P0163,2022-12-27,3,2,0,mg,Tablet,N,N,Y,Toxicity interruption
+P0163,2023-02-04,4,20,150,mg,Tablet,Y,N,N,Dose as planned
+P0163,2023-03-24,7,5,150,mg,Tablet,Y,N,N,Dose as planned
+P0163,2023-04-30,9,21,0,mg,Tablet,N,Y,Y,Toxicity interruption
+P0163,2023-07-21,12,19,100,mg,Tablet,Y,N,N,Dose as planned
+P0163,2023-10-16,17,1,100,mg,Tablet,Y,N,N,Dose as planned
+P0163,2024-01-05,20,19,100,mg,Tablet,Y,N,N,Dose as planned
+P0163,2024-04-05,25,5,100,mg,Tablet,Y,N,N,Dose as planned
+P0164,2022-02-13,1,1,0,mg,NA,N,N,N,Control
+P0164,2022-03-08,2,3,0,mg,NA,N,N,N,Control
+P0164,2022-03-24,2,19,0,mg,NA,N,N,N,Control
+P0164,2022-05-04,4,18,0,mg,NA,N,N,N,Control
+P0164,2022-06-20,7,2,0,mg,NA,N,N,N,Control
+P0164,2022-07-28,8,19,0,mg,NA,N,N,N,Control
+P0164,2022-10-20,12,19,0,mg,NA,N,N,N,Control
+P0165,2022-03-22,2,6,0,mg,Tablet,N,Y,Y,Toxicity interruption
+P0165,2022-04-10,3,4,50,mg,Tablet,Y,N,N,Dose as planned
+P0165,2022-05-18,5,21,50,mg,Tablet,Y,N,N,Dose as planned
+P0165,2022-07-02,7,3,50,mg,Tablet,Y,N,N,Dose as planned
+P0165,2022-08-07,8,18,50,mg,Tablet,Y,N,N,Dose as planned
+P0165,2022-11-01,12,20,50,mg,Tablet,Y,N,N,Dose as planned
+P0166,2022-09-20,1,1,50,mg,Tablet,Y,N,N,Dose as planned
+P0166,2022-10-11,2,1,50,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0166,2022-10-31,3,21,50,mg,Tablet,Y,N,N,Dose as planned
+P0166,2022-12-12,5,21,0,mg,Tablet,N,N,Y,Toxicity interruption
+P0166,2023-01-25,7,2,0,mg,Tablet,N,N,Y,Toxicity interruption
+P0166,2023-03-08,9,2,50,mg,Tablet,Y,N,N,Dose as planned
+P0166,2023-05-31,13,2,50,mg,Tablet,Y,N,N,Dose as planned
+P0166,2023-08-18,16,18,50,mg,Tablet,Y,N,N,Dose as planned
+P0167,2022-11-20,1,1,0,mg,NA,N,N,N,Control
+P0167,2022-12-10,2,21,0,mg,NA,N,N,N,Control
+P0167,2023-01-02,3,2,0,mg,NA,N,N,N,Control
+P0167,2023-02-09,4,19,0,mg,NA,N,N,N,Control
+P0167,2023-03-30,7,5,0,mg,NA,N,N,N,Control
+P0168,2022-05-31,1,1,50,mg,Tablet,Y,N,N,Dose as planned
+P0168,2022-06-23,2,3,50,mg,Tablet,Y,N,N,Dose as planned
+P0168,2022-07-10,2,20,50,mg,Tablet,Y,N,N,Dose as planned
+P0168,2022-08-24,5,2,0,mg,Tablet,N,N,Y,Toxicity interruption
+P0168,2022-10-05,7,2,50,mg,Tablet,Y,N,N,Dose as planned
+P0168,2022-11-10,8,17,50,mg,Tablet,Y,N,N,Dose as planned
+P0168,2023-02-08,13,2,50,mg,Tablet,Y,N,N,Dose as planned
+P0168,2023-05-02,17,1,50,mg,Tablet,Y,N,N,Dose as planned
+P0168,2023-07-25,21,1,50,mg,Tablet,Y,N,N,Dose as planned
+P0169,2022-09-05,1,5,0,mg,NA,N,N,N,Control
+P0169,2022-09-18,1,18,0,mg,NA,N,N,N,Control
+P0170,2023-02-03,2,3,200,mg,Tablet,Y,N,N,Dose as planned
+P0170,2023-02-23,3,2,200,mg,Tablet,Y,N,N,Dose as planned
+P0170,2023-04-06,5,2,0,mg,Tablet,N,N,Y,Toxicity interruption
+P0170,2023-05-16,7,21,200,mg,Tablet,Y,N,N,Dose as planned
+P0170,2023-06-27,9,21,200,mg,Tablet,Y,N,N,Dose as planned
+P0170,2023-09-19,13,21,200,mg,Tablet,Y,N,N,Dose as planned
+P0171,2022-05-27,2,2,200,mg,Tablet,Y,N,N,Dose as planned
+P0171,2022-06-15,3,21,200,mg,Tablet,Y,N,N,Dose as planned
+P0171,2022-08-02,5,6,200,mg,Tablet,Y,N,N,Dose as planned
+P0172,2022-04-22,2,4,150,mg,Tablet,Y,N,N,Dose as planned
+P0172,2022-05-08,2,20,0,mg,Tablet,N,N,Y,Toxicity interruption
+P0172,2022-06-23,5,3,150,mg,Tablet,Y,N,N,Dose as planned
+P0172,2022-08-03,7,2,150,mg,Tablet,Y,N,N,Dose as planned
+P0172,2022-09-09,8,18,150,mg,Tablet,Y,N,N,Dose as planned
+P0172,2022-12-08,13,3,150,mg,Tablet,Y,N,N,Dose as planned
+P0172,2023-02-24,16,18,150,mg,Tablet,Y,N,N,Dose as planned
+P0172,2023-05-25,21,3,150,mg,Tablet,Y,N,N,Dose as planned
+P0172,2023-08-13,24,20,150,mg,Tablet,Y,N,N,Dose as planned
+P0173,2023-01-28,2,1,0,mg,Tablet,N,N,Y,Toxicity interruption
+P0173,2023-02-21,3,4,50,mg,Tablet,Y,N,N,Dose as planned
+P0173,2023-03-30,4,20,50,mg,Tablet,Y,N,N,Dose as planned
+P0173,2023-05-11,6,20,50,mg,Tablet,Y,N,N,Dose as planned
+P0173,2023-06-25,9,2,50,mg,Tablet,Y,N,N,Dose as planned
+P0173,2023-09-17,13,2,50,mg,Tablet,Y,N,N,Dose as planned
+P0173,2023-12-02,16,15,50,mg,Tablet,Y,N,N,Dose as planned
+P0174,2022-04-24,1,1,200,mg,Tablet,Y,N,N,Dose as planned
+P0175,2022-07-04,1,8,50,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0175,2022-07-23,2,6,50,mg,Tablet,Y,N,N,Dose as planned
+P0175,2022-08-12,3,5,50,mg,Tablet,Y,N,N,Dose as planned
+P0175,2022-09-19,5,1,50,mg,Tablet,Y,N,N,Dose as planned
+P0176,2022-07-09,1,17,50,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0176,2022-08-07,3,4,50,mg,Tablet,Y,N,N,Dose as planned
+P0176,2022-09-10,4,17,50,mg,Tablet,Y,N,N,Dose as planned
+P0177,2022-08-04,1,15,0,mg,NA,N,N,N,Control
+P0177,2022-08-25,2,15,0,mg,NA,N,N,N,Control
+P0178,2022-04-13,1,1,50,mg,Tablet,Y,N,N,Dose as planned
+P0178,2022-05-02,1,20,0,mg,Tablet,N,N,Y,Toxicity interruption
+P0178,2022-05-23,2,20,50,mg,Tablet,Y,N,N,Dose as planned
+P0178,2022-07-07,5,2,50,mg,Tablet,Y,N,N,Dose as planned
+P0179,2022-10-11,2,21,0,mg,NA,N,N,N,Control
+P0179,2022-11-02,3,1,0,mg,NA,N,N,N,Control
+P0180,2022-09-18,1,6,0,mg,NA,N,N,N,Control
+P0180,2022-10-05,2,2,0,mg,NA,N,N,N,Control
+P0180,2022-10-29,3,5,0,mg,NA,N,N,N,Control
+P0180,2022-12-05,5,21,0,mg,NA,N,N,N,Control
+P0180,2023-01-15,6,20,0,mg,NA,N,N,N,Control
+P0180,2023-02-27,9,21,0,mg,NA,N,N,N,Control
+P0181,2022-04-18,2,3,0,mg,NA,N,N,N,Control
+P0181,2022-05-06,3,21,0,mg,NA,N,N,N,Control
+P0181,2022-06-21,5,4,0,mg,NA,N,N,N,Control
+P0181,2022-07-29,7,21,0,mg,NA,N,N,N,Control
+P0181,2022-09-12,9,3,0,mg,NA,N,N,N,Control
+P0181,2022-12-04,13,2,0,mg,NA,N,N,N,Control
+P0181,2023-02-27,17,3,0,mg,NA,N,N,N,Control
+P0181,2023-05-20,21,1,0,mg,NA,N,N,N,Control
+P0182,2022-07-04,1,1,150,mg,Tablet,Y,N,N,Dose as planned
+P0182,2022-07-27,2,3,150,mg,Tablet,Y,N,N,Dose as planned
+P0182,2022-08-17,3,3,150,mg,Tablet,Y,N,N,Dose as planned
+P0182,2022-09-24,4,20,150,mg,Tablet,Y,N,N,Dose as planned
+P0182,2022-11-04,6,19,150,mg,Tablet,Y,N,N,Dose as planned
+P0182,2022-12-21,9,3,150,mg,Tablet,Y,N,N,Dose as planned
+P0182,2023-03-12,13,21,150,mg,Tablet,Y,N,N,Dose as planned
+P0182,2023-06-08,17,4,150,mg,Tablet,Y,N,N,Dose as planned
+P0182,2023-08-27,21,21,0,mg,Tablet,N,N,Y,Toxicity interruption
+P0182,2023-11-23,25,4,150,mg,Tablet,Y,N,N,Dose as planned
+P0183,2022-02-02,1,2,0,mg,NA,N,N,N,Control
+P0183,2022-02-21,2,21,0,mg,NA,N,N,N,Control
+P0183,2022-03-16,3,2,0,mg,NA,N,N,N,Control
+P0183,2022-04-30,5,5,0,mg,NA,N,N,N,Control
+P0183,2022-06-07,7,1,0,mg,NA,N,N,N,Control
+P0183,2022-07-21,9,3,0,mg,NA,N,N,N,Control
+P0183,2022-10-11,13,1,0,mg,NA,N,N,N,Control
+P0183,2023-01-03,17,1,0,mg,NA,N,N,N,Control
+P0184,2022-04-04,1,2,0,mg,NA,N,N,N,Control
+P0184,2022-04-22,1,20,0,mg,NA,N,N,N,Control
+P0184,2022-05-14,3,21,0,mg,NA,N,N,N,Control
+P0184,2022-06-27,5,2,0,mg,NA,N,N,N,Control
+P0184,2022-08-10,7,4,0,mg,NA,N,N,N,Control
+P0184,2022-09-20,9,3,0,mg,NA,N,N,N,Control
+P0185,2023-01-12,1,5,0,mg,NA,N,N,N,Control
+P0185,2023-01-30,2,2,0,mg,NA,N,N,N,Control
+P0185,2023-02-21,3,3,0,mg,NA,N,N,N,Control
+P0185,2023-04-04,5,3,0,mg,NA,N,N,N,Control
+P0186,2022-07-18,1,3,0,mg,NA,N,N,N,Control
+P0187,2022-08-31,1,3,0,mg,NA,N,N,N,Control
+P0187,2022-09-21,2,3,0,mg,NA,N,N,N,Control
+P0187,2022-10-08,2,20,0,mg,NA,N,N,N,Control
+P0187,2022-11-17,4,18,0,mg,NA,N,N,N,Control
+P0188,2022-12-25,2,2,50,mg,Tablet,Y,N,N,Dose as planned
+P0188,2023-01-20,3,7,50,mg,Tablet,Y,N,N,Dose as planned
+P0188,2023-02-21,4,18,50,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0188,2023-04-08,7,1,50,mg,Tablet,Y,N,N,Dose as planned
+P0189,2022-10-02,1,1,0,mg,NA,N,N,N,Control
+P0189,2022-10-22,2,21,0,mg,NA,N,N,N,Control
+P0189,2022-11-11,2,20,0,mg,NA,N,N,N,Control
+P0190,2022-10-31,1,7,100,mg,Tablet,Y,N,N,Dose as planned
+P0190,2022-11-19,2,5,100,mg,Tablet,Y,N,N,Dose as planned
+P0190,2022-12-08,3,3,50,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0190,2023-01-17,5,1,0,mg,Tablet,N,N,Y,Toxicity interruption
+P0190,2023-03-01,7,2,50,mg,Tablet,Y,N,N,Dose as planned
+P0190,2023-04-09,8,20,50,mg,Tablet,Y,N,N,Dose as planned
+P0191,2022-09-22,1,1,150,mg,Tablet,Y,N,N,Dose as planned
+P0191,2022-10-12,2,21,150,mg,Tablet,Y,N,N,Dose as planned
+P0191,2022-10-30,2,18,150,mg,Tablet,Y,N,N,Dose as planned
+P0191,2022-12-14,5,21,150,mg,Tablet,Y,N,N,Dose as planned
+P0192,2022-07-08,1,2,0,mg,NA,N,N,N,Control
+P0192,2022-07-26,1,20,0,mg,NA,N,N,N,Control
+P0193,2022-09-01,1,3,0,mg,NA,N,N,N,Control
+P0193,2022-09-22,2,3,0,mg,NA,N,N,N,Control
+P0193,2022-10-12,3,2,0,mg,NA,N,N,N,Control
+P0193,2022-11-23,5,2,0,mg,NA,N,N,N,Control
+P0193,2023-01-03,7,1,0,mg,NA,N,N,N,Control
+P0193,2023-02-12,8,20,0,mg,NA,N,N,N,Control
+P0193,2023-05-10,13,2,0,mg,NA,N,N,N,Control
+P0194,2022-05-15,2,21,0,mg,Tablet,N,N,Y,Toxicity interruption
+P0194,2022-06-09,3,4,100,mg,Tablet,Y,N,N,Dose as planned
+P0194,2022-07-22,5,5,100,mg,Tablet,Y,N,N,Dose as planned
+P0194,2022-08-27,6,20,100,mg,Tablet,Y,N,N,Dose as planned
+P0194,2022-10-09,9,21,100,mg,Tablet,Y,N,N,Dose as planned
+P0194,2023-01-09,13,8,100,mg,Tablet,Y,N,N,Dose as planned
+P0194,2023-03-27,17,1,100,mg,Tablet,Y,N,N,Dose as planned
+P0194,2023-06-24,21,6,100,mg,Tablet,Y,N,N,Dose as planned
+P0194,2023-09-12,25,2,50,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0195,2022-12-19,2,4,0,mg,NA,N,N,N,Control
+P0195,2023-01-10,3,5,0,mg,NA,N,N,N,Control
+P0195,2023-02-14,4,19,0,mg,NA,N,N,N,Control
+P0195,2023-03-30,7,21,0,mg,NA,N,N,N,Control
+P0195,2023-05-15,9,4,0,mg,NA,N,N,N,Control
+P0195,2023-08-04,13,1,0,mg,NA,N,N,N,Control
+P0195,2023-10-26,17,21,0,mg,NA,N,N,N,Control
+P0197,2022-12-27,2,2,100,mg,Tablet,Y,N,N,Dose as planned
+P0197,2023-01-11,2,17,100,mg,Tablet,Y,N,N,Dose as planned
+P0197,2023-02-27,5,1,0,mg,Tablet,N,Y,Y,Toxicity interruption
+P0197,2023-04-15,7,6,50,mg,Tablet,Y,N,N,Dose as planned
+P0197,2023-05-27,9,6,50,mg,Tablet,Y,N,N,Dose as planned
+P0197,2023-08-09,12,17,50,mg,Tablet,Y,N,N,Dose as planned
+P0198,2022-12-04,1,5,100,mg,Tablet,Y,N,N,Dose as planned
+P0198,2022-12-23,2,3,100,mg,Tablet,Y,N,N,Dose as planned
+P0199,2022-03-06,1,1,0,mg,Tablet,N,N,Y,Toxicity interruption
+P0199,2022-03-29,2,3,150,mg,Tablet,Y,N,N,Dose as planned
+P0199,2022-04-17,3,1,150,mg,Tablet,Y,N,N,Dose as planned
+P0199,2022-05-28,5,21,150,mg,Tablet,Y,N,N,Dose as planned
+P0199,2022-07-11,7,2,150,mg,Tablet,Y,N,N,Dose as planned
+P0199,2022-08-23,9,3,150,mg,Tablet,Y,N,N,Dose as planned
+P0200,2022-10-11,2,21,0,mg,NA,N,N,N,Control
+P0200,2022-10-30,2,19,0,mg,NA,N,N,N,Control
+P0200,2022-12-21,5,8,0,mg,NA,N,N,N,Control
+P0200,2023-01-23,6,20,0,mg,NA,N,N,N,Control
+P0200,2023-03-06,8,20,0,mg,NA,N,N,N,Control
+P0200,2023-05-30,13,21,0,mg,NA,N,N,N,Control
+P0200,2023-08-23,17,1,0,mg,NA,N,N,N,Control
+P0200,2023-11-14,21,21,0,mg,NA,N,N,N,Control
+P0200,2024-02-07,25,1,0,mg,NA,N,N,N,Control
+P0201,2022-12-31,1,1,100,mg,Tablet,Y,N,N,Dose as planned
+P0201,2023-01-21,2,1,100,mg,Tablet,Y,N,N,Dose as planned
+P0201,2023-02-14,3,4,50,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0201,2023-03-29,5,5,0,mg,Tablet,N,Y,Y,Toxicity interruption
+P0201,2023-05-05,7,21,50,mg,Tablet,Y,N,N,Dose as planned
+P0201,2023-06-19,9,3,50,mg,Tablet,Y,N,N,Dose as planned
+P0201,2023-09-06,12,19,50,mg,Tablet,Y,N,N,Dose as planned
+P0202,2022-08-08,1,5,150,mg,Tablet,Y,N,N,Dose as planned
+P0202,2022-08-26,2,2,150,mg,Tablet,Y,N,N,Dose as planned
+P0202,2022-09-19,3,5,150,mg,Tablet,Y,N,N,Dose as planned
+P0203,2022-05-21,1,4,0,mg,NA,N,N,N,Control
+P0203,2022-06-13,2,6,0,mg,NA,N,N,N,Control
+P0203,2022-06-27,2,20,0,mg,NA,N,N,N,Control
+P0203,2022-08-04,4,16,0,mg,NA,N,N,N,Control
+P0203,2022-09-22,7,2,0,mg,NA,N,N,N,Control
+P0203,2022-11-01,9,21,0,mg,NA,N,N,N,Control
+P0203,2023-01-25,13,1,0,mg,NA,N,N,N,Control
+P0203,2023-04-21,17,3,0,mg,NA,N,N,N,Control
+P0204,2022-12-01,1,5,0,mg,Tablet,N,N,Y,Toxicity interruption
+P0204,2022-12-18,2,1,100,mg,Tablet,Y,N,N,Dose as planned
+P0204,2023-01-04,2,18,100,mg,Tablet,Y,N,N,Dose as planned
+P0204,2023-02-15,4,18,100,mg,Tablet,Y,N,N,Dose as planned
+P0204,2023-04-02,7,1,100,mg,Tablet,Y,N,N,Dose as planned
+P0204,2023-05-11,8,19,100,mg,Tablet,Y,N,N,Dose as planned
+P0204,2023-08-01,12,17,100,mg,Tablet,Y,N,N,Dose as planned
+P0204,2023-10-31,17,3,50,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0205,2022-07-20,1,2,0,mg,NA,N,N,N,Control
+P0205,2022-08-11,2,3,0,mg,NA,N,N,N,Control
+P0206,2022-02-25,1,4,0,mg,NA,N,N,N,Control
+P0206,2022-03-15,2,1,0,mg,NA,N,N,N,Control
+P0206,2022-04-04,3,21,0,mg,NA,N,N,N,Control
+P0206,2022-05-08,4,13,0,mg,NA,N,N,N,Control
+P0207,2022-04-17,1,8,150,mg,Tablet,Y,N,N,Dose as planned
+P0207,2022-05-02,2,2,150,mg,Tablet,Y,N,N,Dose as planned
+P0207,2022-05-18,2,18,100,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0207,2022-07-01,4,20,100,mg,Tablet,Y,N,N,Dose as planned
+P0207,2022-08-13,7,21,100,mg,Tablet,Y,N,N,Dose as planned
+P0207,2022-09-27,9,3,50,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0207,2022-12-15,12,19,50,mg,Tablet,Y,N,N,Dose as planned
+P0208,2022-09-19,1,3,0,mg,NA,N,N,N,Control
+P0208,2022-10-11,2,4,0,mg,NA,N,N,N,Control
+P0208,2022-10-28,3,21,0,mg,NA,N,N,N,Control
+P0208,2022-12-14,5,5,0,mg,NA,N,N,N,Control
+P0209,2022-07-24,2,3,0,mg,NA,N,N,N,Control
+P0209,2022-08-11,3,21,0,mg,NA,N,N,N,Control
+P0209,2022-09-21,4,20,0,mg,NA,N,N,N,Control
+P0209,2022-10-31,6,18,0,mg,NA,N,N,N,Control
+P0210,2022-04-02,1,5,100,mg,Tablet,Y,N,N,Dose as planned
+P0210,2022-04-23,2,5,100,mg,Tablet,Y,N,N,Dose as planned
+P0210,2022-05-10,3,1,100,mg,Tablet,Y,N,N,Dose as planned
+P0210,2022-06-17,4,18,100,mg,Tablet,Y,N,N,Dose as planned
+P0210,2022-08-09,7,8,100,mg,Tablet,Y,N,N,Dose as planned
+P0210,2022-09-14,9,2,50,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0210,2022-12-05,13,21,50,mg,Tablet,Y,N,N,Dose as planned
+P0210,2023-03-03,17,4,50,mg,Tablet,Y,N,N,Dose as planned
+P0210,2023-05-25,21,3,0,mg,Tablet,N,Y,Y,Toxicity interruption
+P0210,2023-08-19,25,5,50,mg,Tablet,Y,N,N,Dose as planned
+P0211,2022-10-31,1,2,200,mg,Tablet,Y,N,N,Dose as planned
+P0211,2022-11-16,1,18,200,mg,Tablet,Y,N,N,Dose as planned
+P0211,2022-12-13,3,3,0,mg,Tablet,N,N,Y,Toxicity interruption
+P0211,2023-01-22,5,1,200,mg,Tablet,Y,N,N,Dose as planned
+P0211,2023-03-06,7,2,200,mg,Tablet,Y,N,N,Dose as planned
+P0211,2023-04-16,9,1,0,mg,Tablet,N,N,Y,Toxicity interruption
+P0211,2023-07-08,13,21,200,mg,Tablet,Y,N,N,Dose as planned
+P0212,2022-03-02,1,3,100,mg,Tablet,Y,N,N,Dose as planned
+P0212,2022-03-22,2,2,100,mg,Tablet,Y,N,N,Dose as planned
+P0212,2022-04-11,3,1,100,mg,Tablet,Y,N,N,Dose as planned
+P0212,2022-05-18,4,17,50,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0213,2022-04-19,2,1,100,mg,Tablet,Y,N,N,Dose as planned
+P0213,2022-05-16,3,7,100,mg,Tablet,Y,N,N,Dose as planned
+P0213,2022-06-19,4,20,100,mg,Tablet,Y,N,N,Dose as planned
+P0213,2022-08-05,7,4,100,mg,Tablet,Y,N,N,Dose as planned
+P0213,2022-09-12,9,21,100,mg,Tablet,Y,N,N,Dose as planned
+P0213,2022-12-06,13,1,100,mg,Tablet,Y,N,N,Dose as planned
+P0214,2022-07-03,1,1,200,mg,Tablet,Y,N,N,Dose as planned
+P0214,2022-07-27,2,4,200,mg,Tablet,Y,N,N,Dose as planned
+P0214,2022-08-12,2,20,200,mg,Tablet,Y,N,N,Dose as planned
+P0214,2022-09-29,5,5,200,mg,Tablet,Y,N,N,Dose as planned
+P0214,2022-11-07,7,2,150,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0214,2022-12-19,9,2,150,mg,Tablet,Y,N,N,Dose as planned
+P0215,2022-02-10,1,18,0,mg,NA,N,N,N,Control
+P0215,2022-03-02,2,17,0,mg,NA,N,N,N,Control
+P0215,2022-04-13,4,17,0,mg,NA,N,N,N,Control
+P0215,2022-06-01,7,3,0,mg,NA,N,N,N,Control
+P0215,2022-07-08,8,19,0,mg,NA,N,N,N,Control
+P0215,2022-10-04,13,2,0,mg,NA,N,N,N,Control
+P0216,2022-06-25,2,21,0,mg,NA,N,N,N,Control
+P0216,2022-07-18,3,2,0,mg,NA,N,N,N,Control
+P0217,2022-12-08,1,1,0,mg,NA,N,N,N,Control
+P0218,2022-12-26,1,6,0,mg,NA,N,N,N,Control
+P0218,2023-01-09,1,20,0,mg,NA,N,N,N,Control
+P0218,2023-01-31,3,21,0,mg,NA,N,N,N,Control
+P0218,2023-03-16,5,2,0,mg,NA,N,N,N,Control
+P0218,2023-04-27,7,2,0,mg,NA,N,N,N,Control
+P0218,2023-06-05,8,20,0,mg,NA,N,N,N,Control
+P0218,2023-09-05,13,7,0,mg,NA,N,N,N,Control
+P0218,2023-11-23,17,2,0,mg,NA,N,N,N,Control
+P0218,2024-02-16,21,3,0,mg,NA,N,N,N,Control
+P0219,2022-11-22,1,1,100,mg,Tablet,Y,Y,N,Dose reduction due to toxicity
+P0219,2022-12-09,1,18,100,mg,Tablet,Y,N,N,Dose as planned
+P0219,2023-01-02,3,21,100,mg,Tablet,Y,N,N,Dose as planned
+P0219,2023-02-10,4,18,100,mg,Tablet,Y,N,N,Dose as planned
+P0219,2023-03-30,7,3,100,mg,Tablet,Y,N,N,Dose as planned
+P0219,2023-05-10,9,2,100,mg,Tablet,Y,N,N,Dose as planned
+P0219,2023-07-31,13,21,100,mg,Tablet,Y,N,N,Dose as planned
+P0219,2023-10-24,17,1,100,mg,Tablet,Y,N,N,Dose as planned
+P0219,2024-01-18,21,3,100,mg,Tablet,Y,N,N,Dose as planned
+P0219,2024-04-06,24,19,100,mg,Tablet,Y,N,N,Dose as planned

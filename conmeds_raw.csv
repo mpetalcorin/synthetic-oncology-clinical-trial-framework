@@ -1,0 +1,328 @@
+patient_id,cm_term,cm_class,cm_start_date,cm_end_date,indication
+P0001,Dexamethasone,Corticosteroids,2023-04-01,2023-06-18,Inflammation
+P0002,Omeprazole,Proton pump inhibitors,2023-02-04,2023-03-29,Gastric protection
+P0003,Paracetamol,Analgesics,2022-04-02,2022-07-10,Pain
+P0004,Amoxicillin,Antibiotics,2022-09-16,2022-12-16,Infection
+P0005,Amoxicillin,Antibiotics,2022-10-17,2022-11-25,Infection
+P0006,Omeprazole,Proton pump inhibitors,2022-10-09,2022-12-23,Gastric protection
+P0007,Paracetamol,Analgesics,2022-09-17,2022-09-24,Pain
+P0007,Dexamethasone,Corticosteroids,2022-10-13,2022-11-12,Inflammation
+P0007,Amoxicillin,Antibiotics,2022-09-27,2022-12-09,Infection
+P0008,Ondansetron,Antiemetics,2022-10-01,2022-10-20,Nausea
+P0008,Amoxicillin,Antibiotics,2022-08-02,2022-10-31,Infection
+P0009,Ondansetron,Antiemetics,2022-09-19,2023-01-17,Nausea
+P0009,Ondansetron,Antiemetics,2022-08-14,2022-09-16,Nausea
+P0009,Amoxicillin,Antibiotics,2022-08-24,2022-10-27,Infection
+P0010,Omeprazole,Proton pump inhibitors,2022-08-09,2022-08-31,Gastric protection
+P0010,Ondansetron,Antiemetics,2022-09-02,2022-09-20,Nausea
+P0010,Omeprazole,Proton pump inhibitors,2022-11-10,2022-12-09,Gastric protection
+P0010,Ondansetron,Antiemetics,2022-09-17,2022-12-29,Nausea
+P0010,Paracetamol,Analgesics,2022-11-16,2022-12-01,Pain
+P0011,Amoxicillin,Antibiotics,2022-07-07,2022-09-16,Infection
+P0012,Omeprazole,Proton pump inhibitors,2022-09-22,2022-11-23,Gastric protection
+P0012,Paracetamol,Analgesics,2022-08-01,2022-11-16,Pain
+P0013,Ondansetron,Antiemetics,2022-04-27,2022-06-18,Nausea
+P0014,Dexamethasone,Corticosteroids,2022-10-24,2022-12-18,Inflammation
+P0014,Dexamethasone,Corticosteroids,2022-10-15,2022-11-18,Inflammation
+P0016,Paracetamol,Analgesics,2022-09-01,2022-11-09,Pain
+P0016,Amoxicillin,Antibiotics,2022-07-10,2022-07-19,Infection
+P0017,Ondansetron,Antiemetics,2022-09-11,2022-09-30,Nausea
+P0017,Amoxicillin,Antibiotics,2022-08-05,2022-11-29,Infection
+P0018,Paracetamol,Analgesics,2023-03-11,2023-07-05,Pain
+P0019,Omeprazole,Proton pump inhibitors,2022-09-18,2022-12-16,Gastric protection
+P0019,Amoxicillin,Antibiotics,2022-11-15,2023-02-21,Infection
+P0019,Ondansetron,Antiemetics,2022-12-25,2023-01-28,Nausea
+P0020,Ondansetron,Antiemetics,2022-07-10,2022-10-07,Nausea
+P0021,Paracetamol,Analgesics,2022-03-18,2022-06-12,Pain
+P0021,Ondansetron,Antiemetics,2022-01-29,2022-03-11,Nausea
+P0022,Amoxicillin,Antibiotics,2022-04-19,2022-06-13,Infection
+P0022,Amoxicillin,Antibiotics,2022-02-12,2022-04-05,Infection
+P0022,Amoxicillin,Antibiotics,2022-02-20,2022-06-15,Infection
+P0022,Amoxicillin,Antibiotics,2022-04-14,2022-08-08,Infection
+P0023,Dexamethasone,Corticosteroids,2022-06-18,2022-09-03,Inflammation
+P0023,Dexamethasone,Corticosteroids,2022-06-30,2022-07-25,Inflammation
+P0023,Paracetamol,Analgesics,2022-07-25,2022-10-01,Pain
+P0024,Amoxicillin,Antibiotics,2022-06-15,2022-08-13,Infection
+P0025,Omeprazole,Proton pump inhibitors,2022-12-16,2022-12-29,Gastric protection
+P0026,Ondansetron,Antiemetics,2022-07-06,2022-10-04,Nausea
+P0027,Paracetamol,Analgesics,2023-03-21,2023-04-19,Pain
+P0028,Ondansetron,Antiemetics,2022-08-12,2022-10-28,Nausea
+P0028,Amoxicillin,Antibiotics,2022-08-12,2022-11-16,Infection
+P0028,Amoxicillin,Antibiotics,2022-10-13,2022-11-04,Infection
+P0029,Omeprazole,Proton pump inhibitors,2023-02-23,2023-04-12,Gastric protection
+P0029,Amoxicillin,Antibiotics,2023-02-05,2023-05-12,Infection
+P0029,Ondansetron,Antiemetics,2023-03-30,2023-05-21,Nausea
+P0030,Omeprazole,Proton pump inhibitors,2022-11-14,2023-01-05,Gastric protection
+P0030,Ondansetron,Antiemetics,2022-10-23,2023-02-11,Nausea
+P0030,Omeprazole,Proton pump inhibitors,2022-08-20,2022-09-20,Gastric protection
+P0031,Amoxicillin,Antibiotics,2022-09-10,2022-11-13,Infection
+P0031,Dexamethasone,Corticosteroids,2022-07-05,2022-07-19,Inflammation
+P0033,Dexamethasone,Corticosteroids,2022-09-22,2022-12-19,Inflammation
+P0034,Paracetamol,Analgesics,2022-04-25,2022-06-25,Pain
+P0036,Dexamethasone,Corticosteroids,2022-10-22,2022-12-22,Inflammation
+P0036,Dexamethasone,Corticosteroids,2023-01-02,2023-04-13,Inflammation
+P0038,Omeprazole,Proton pump inhibitors,2022-10-12,2023-01-12,Gastric protection
+P0039,Ondansetron,Antiemetics,2023-02-23,2023-04-14,Nausea
+P0040,Paracetamol,Analgesics,2022-09-05,2022-12-30,Pain
+P0041,Amoxicillin,Antibiotics,2022-08-27,2022-09-29,Infection
+P0041,Amoxicillin,Antibiotics,2022-07-16,2022-07-31,Infection
+P0042,Omeprazole,Proton pump inhibitors,2022-06-30,2022-09-03,Gastric protection
+P0043,Ondansetron,Antiemetics,2023-01-14,2023-04-19,Nausea
+P0047,Paracetamol,Analgesics,2022-11-15,2023-01-19,Pain
+P0048,Ondansetron,Antiemetics,2023-02-10,2023-02-24,Nausea
+P0049,Amoxicillin,Antibiotics,2023-02-06,2023-04-17,Infection
+P0049,Dexamethasone,Corticosteroids,2022-10-23,2022-12-25,Inflammation
+P0050,Ondansetron,Antiemetics,2023-03-24,2023-04-01,Nausea
+P0050,Paracetamol,Analgesics,2023-03-24,2023-05-22,Pain
+P0051,Ondansetron,Antiemetics,2022-06-23,2022-10-13,Nausea
+P0052,Dexamethasone,Corticosteroids,2022-12-04,2023-03-28,Inflammation
+P0054,Dexamethasone,Corticosteroids,2022-07-17,2022-09-18,Inflammation
+P0056,Paracetamol,Analgesics,2022-12-21,2023-03-04,Pain
+P0056,Dexamethasone,Corticosteroids,2022-12-20,2023-01-31,Inflammation
+P0057,Paracetamol,Analgesics,2022-11-23,2023-02-20,Pain
+P0058,Ondansetron,Antiemetics,2022-11-29,2023-03-19,Nausea
+P0058,Ondansetron,Antiemetics,2023-02-03,2023-04-27,Nausea
+P0058,Dexamethasone,Corticosteroids,2023-02-04,2023-06-04,Inflammation
+P0059,Amoxicillin,Antibiotics,2022-04-22,2022-07-03,Infection
+P0060,Omeprazole,Proton pump inhibitors,2022-07-09,2022-09-05,Gastric protection
+P0060,Paracetamol,Analgesics,2022-08-05,2022-12-01,Pain
+P0060,Dexamethasone,Corticosteroids,2022-09-03,2022-09-25,Inflammation
+P0060,Amoxicillin,Antibiotics,2022-08-10,2022-09-25,Infection
+P0060,Omeprazole,Proton pump inhibitors,2022-05-17,2022-08-30,Gastric protection
+P0060,Paracetamol,Analgesics,2022-05-14,2022-08-20,Pain
+P0061,Paracetamol,Analgesics,2022-11-23,2022-12-18,Pain
+P0061,Dexamethasone,Corticosteroids,2022-10-02,2023-01-18,Inflammation
+P0062,Paracetamol,Analgesics,2022-11-13,2023-01-23,Pain
+P0063,Omeprazole,Proton pump inhibitors,2022-12-20,2023-03-13,Gastric protection
+P0063,Paracetamol,Analgesics,2023-02-19,2023-04-01,Pain
+P0065,Dexamethasone,Corticosteroids,2022-07-07,2022-07-15,Inflammation
+P0065,Amoxicillin,Antibiotics,2022-06-13,2022-09-30,Infection
+P0065,Ondansetron,Antiemetics,2022-09-18,2023-01-10,Nausea
+P0066,Ondansetron,Antiemetics,2022-04-06,2022-05-07,Nausea
+P0066,Dexamethasone,Corticosteroids,2022-04-24,2022-08-10,Inflammation
+P0066,Paracetamol,Analgesics,2022-03-18,2022-04-08,Pain
+P0067,Ondansetron,Antiemetics,2023-02-26,2023-04-21,Nausea
+P0067,Ondansetron,Antiemetics,2023-02-16,2023-05-14,Nausea
+P0067,Ondansetron,Antiemetics,2023-02-13,2023-05-14,Nausea
+P0068,Ondansetron,Antiemetics,2022-04-02,2022-05-01,Nausea
+P0069,Paracetamol,Analgesics,2023-02-15,2023-03-28,Pain
+P0069,Paracetamol,Analgesics,2023-01-28,2023-02-13,Pain
+P0070,Amoxicillin,Antibiotics,2022-03-21,2022-05-29,Infection
+P0070,Dexamethasone,Corticosteroids,2022-03-06,2022-05-07,Inflammation
+P0071,Ondansetron,Antiemetics,2022-01-20,2022-01-29,Nausea
+P0072,Ondansetron,Antiemetics,2022-12-17,2023-03-14,Nausea
+P0072,Paracetamol,Analgesics,2022-12-27,2023-02-03,Pain
+P0073,Amoxicillin,Antibiotics,2022-08-04,2022-12-02,Infection
+P0074,Ondansetron,Antiemetics,2022-08-03,2022-08-16,Nausea
+P0074,Omeprazole,Proton pump inhibitors,2022-10-03,2022-11-07,Gastric protection
+P0076,Amoxicillin,Antibiotics,2022-05-19,2022-08-30,Infection
+P0076,Dexamethasone,Corticosteroids,2022-07-25,2022-10-13,Inflammation
+P0076,Amoxicillin,Antibiotics,2022-05-29,2022-08-05,Infection
+P0076,Paracetamol,Analgesics,2022-04-22,2022-05-07,Pain
+P0077,Paracetamol,Analgesics,2022-11-22,2023-01-22,Pain
+P0077,Dexamethasone,Corticosteroids,2022-09-24,2022-10-08,Inflammation
+P0078,Ondansetron,Antiemetics,2022-08-28,2022-09-15,Nausea
+P0078,Omeprazole,Proton pump inhibitors,2022-06-20,2022-07-22,Gastric protection
+P0079,Amoxicillin,Antibiotics,2022-08-17,2022-09-21,Infection
+P0080,Dexamethasone,Corticosteroids,2022-09-03,2022-10-18,Inflammation
+P0081,Dexamethasone,Corticosteroids,2022-02-22,2022-04-07,Inflammation
+P0083,Omeprazole,Proton pump inhibitors,2022-09-04,2022-09-12,Gastric protection
+P0083,Ondansetron,Antiemetics,2022-11-04,2022-12-20,Nausea
+P0084,Dexamethasone,Corticosteroids,2022-05-27,2022-06-30,Inflammation
+P0084,Omeprazole,Proton pump inhibitors,2022-03-06,2022-04-02,Gastric protection
+P0085,Ondansetron,Antiemetics,2022-05-01,2022-06-22,Nausea
+P0086,Omeprazole,Proton pump inhibitors,2022-09-05,2022-12-09,Gastric protection
+P0086,Paracetamol,Analgesics,2022-12-17,2023-03-27,Pain
+P0086,Dexamethasone,Corticosteroids,2022-10-09,2022-10-22,Inflammation
+P0087,Paracetamol,Analgesics,2022-06-03,2022-09-22,Pain
+P0088,Amoxicillin,Antibiotics,2022-05-29,2022-08-21,Infection
+P0088,Dexamethasone,Corticosteroids,2022-05-30,2022-09-20,Inflammation
+P0088,Paracetamol,Analgesics,2022-03-28,2022-05-29,Pain
+P0089,Paracetamol,Analgesics,2022-11-20,2023-01-20,Pain
+P0090,Paracetamol,Analgesics,2022-10-28,2022-12-23,Pain
+P0091,Omeprazole,Proton pump inhibitors,2022-03-06,2022-04-15,Gastric protection
+P0092,Paracetamol,Analgesics,2022-03-28,2022-05-29,Pain
+P0093,Ondansetron,Antiemetics,2022-07-02,2022-08-21,Nausea
+P0094,Paracetamol,Analgesics,2022-11-23,2022-12-19,Pain
+P0095,Dexamethasone,Corticosteroids,2022-04-25,2022-06-28,Inflammation
+P0095,Paracetamol,Analgesics,2022-04-26,2022-06-10,Pain
+P0096,Ondansetron,Antiemetics,2023-01-11,2023-04-04,Nausea
+P0097,Paracetamol,Analgesics,2022-08-11,2022-09-23,Pain
+P0097,Ondansetron,Antiemetics,2022-07-27,2022-09-25,Nausea
+P0097,Amoxicillin,Antibiotics,2022-05-05,2022-07-23,Infection
+P0098,Dexamethasone,Corticosteroids,2022-03-22,2022-05-07,Inflammation
+P0098,Omeprazole,Proton pump inhibitors,2022-05-13,2022-08-11,Gastric protection
+P0101,Amoxicillin,Antibiotics,2022-02-20,2022-04-22,Infection
+P0101,Amoxicillin,Antibiotics,2022-04-04,2022-06-06,Infection
+P0101,Dexamethasone,Corticosteroids,2022-06-14,2022-08-05,Inflammation
+P0101,Dexamethasone,Corticosteroids,2022-04-12,2022-07-30,Inflammation
+P0102,Paracetamol,Analgesics,2023-02-10,2023-04-13,Pain
+P0102,Omeprazole,Proton pump inhibitors,2022-12-21,2023-01-23,Gastric protection
+P0102,Dexamethasone,Corticosteroids,2023-04-04,2023-07-12,Inflammation
+P0103,Amoxicillin,Antibiotics,2022-11-07,2022-12-15,Infection
+P0104,Ondansetron,Antiemetics,2022-06-18,2022-09-05,Nausea
+P0105,Ondansetron,Antiemetics,2022-10-16,2022-12-08,Nausea
+P0105,Ondansetron,Antiemetics,2023-01-06,2023-03-22,Nausea
+P0106,Ondansetron,Antiemetics,2022-10-10,2022-11-27,Nausea
+P0106,Omeprazole,Proton pump inhibitors,2022-09-12,2022-11-24,Gastric protection
+P0106,Ondansetron,Antiemetics,2022-09-02,2022-09-24,Nausea
+P0106,Paracetamol,Analgesics,2022-12-03,2023-03-15,Pain
+P0106,Paracetamol,Analgesics,2022-09-20,2022-11-14,Pain
+P0107,Amoxicillin,Antibiotics,2022-12-01,2022-12-08,Infection
+P0108,Omeprazole,Proton pump inhibitors,2022-03-26,2022-05-23,Gastric protection
+P0108,Omeprazole,Proton pump inhibitors,2022-02-03,2022-04-23,Gastric protection
+P0108,Ondansetron,Antiemetics,2022-03-19,2022-07-10,Nausea
+P0109,Amoxicillin,Antibiotics,2022-10-26,2023-02-05,Infection
+P0109,Omeprazole,Proton pump inhibitors,2022-08-15,2022-12-05,Gastric protection
+P0110,Amoxicillin,Antibiotics,2022-04-25,2022-07-12,Infection
+P0110,Ondansetron,Antiemetics,2022-05-09,2022-07-19,Nausea
+P0111,Ondansetron,Antiemetics,2022-12-03,2023-01-17,Nausea
+P0111,Amoxicillin,Antibiotics,2023-01-07,2023-04-16,Infection
+P0111,Amoxicillin,Antibiotics,2023-02-02,2023-05-24,Infection
+P0112,Omeprazole,Proton pump inhibitors,2022-11-09,2022-12-05,Gastric protection
+P0112,Omeprazole,Proton pump inhibitors,2022-08-16,2022-11-23,Gastric protection
+P0112,Paracetamol,Analgesics,2022-09-15,2022-10-04,Pain
+P0113,Amoxicillin,Antibiotics,2022-04-01,2022-05-06,Infection
+P0113,Ondansetron,Antiemetics,2022-03-21,2022-07-01,Nausea
+P0116,Ondansetron,Antiemetics,2022-07-14,2022-10-29,Nausea
+P0116,Amoxicillin,Antibiotics,2022-06-21,2022-08-29,Infection
+P0117,Ondansetron,Antiemetics,2023-01-03,2023-03-05,Nausea
+P0120,Amoxicillin,Antibiotics,2023-01-06,2023-04-19,Infection
+P0121,Dexamethasone,Corticosteroids,2023-01-07,2023-04-13,Inflammation
+P0121,Paracetamol,Analgesics,2023-04-02,2023-04-28,Pain
+P0121,Amoxicillin,Antibiotics,2022-12-07,2022-12-25,Infection
+P0122,Dexamethasone,Corticosteroids,2022-06-10,2022-09-10,Inflammation
+P0123,Omeprazole,Proton pump inhibitors,2022-09-09,2022-12-08,Gastric protection
+P0123,Ondansetron,Antiemetics,2022-08-30,2022-12-28,Nausea
+P0124,Amoxicillin,Antibiotics,2022-07-03,2022-08-22,Infection
+P0124,Ondansetron,Antiemetics,2022-08-01,2022-09-19,Nausea
+P0126,Paracetamol,Analgesics,2022-07-30,2022-08-18,Pain
+P0126,Ondansetron,Antiemetics,2022-07-12,2022-11-04,Nausea
+P0126,Amoxicillin,Antibiotics,2022-06-19,2022-08-23,Infection
+P0127,Paracetamol,Analgesics,2022-06-01,2022-06-29,Pain
+P0127,Paracetamol,Analgesics,2022-07-21,2022-10-24,Pain
+P0128,Omeprazole,Proton pump inhibitors,2022-06-26,2022-08-10,Gastric protection
+P0130,Dexamethasone,Corticosteroids,2022-12-07,2023-01-03,Inflammation
+P0130,Omeprazole,Proton pump inhibitors,2022-10-24,2022-11-22,Gastric protection
+P0131,Amoxicillin,Antibiotics,2022-06-03,2022-08-31,Infection
+P0134,Amoxicillin,Antibiotics,2022-07-06,2022-07-22,Infection
+P0134,Ondansetron,Antiemetics,2022-06-21,2022-07-31,Nausea
+P0135,Dexamethasone,Corticosteroids,2022-08-22,2022-10-30,Inflammation
+P0136,Paracetamol,Analgesics,2022-09-25,2022-10-27,Pain
+P0137,Ondansetron,Antiemetics,2022-06-11,2022-07-01,Nausea
+P0138,Paracetamol,Analgesics,2022-10-08,2023-01-08,Pain
+P0138,Paracetamol,Analgesics,2022-12-03,2023-01-27,Pain
+P0140,Paracetamol,Analgesics,2022-09-11,2022-12-15,Pain
+P0140,Omeprazole,Proton pump inhibitors,2022-07-19,2022-09-09,Gastric protection
+P0141,Omeprazole,Proton pump inhibitors,2022-06-25,2022-10-06,Gastric protection
+P0141,Omeprazole,Proton pump inhibitors,2022-05-08,2022-08-03,Gastric protection
+P0142,Ondansetron,Antiemetics,2022-11-14,2023-01-01,Nausea
+P0143,Ondansetron,Antiemetics,2023-02-20,2023-04-30,Nausea
+P0143,Omeprazole,Proton pump inhibitors,2023-01-16,2023-02-01,Gastric protection
+P0144,Omeprazole,Proton pump inhibitors,2022-04-22,2022-05-06,Gastric protection
+P0144,Paracetamol,Analgesics,2022-03-27,2022-04-27,Pain
+P0145,Amoxicillin,Antibiotics,2022-11-21,2022-12-18,Infection
+P0146,Amoxicillin,Antibiotics,2022-11-04,2023-02-19,Infection
+P0146,Dexamethasone,Corticosteroids,2022-09-21,2023-01-05,Inflammation
+P0147,Paracetamol,Analgesics,2022-05-09,2022-08-30,Pain
+P0148,Paracetamol,Analgesics,2022-09-17,2022-10-14,Pain
+P0148,Dexamethasone,Corticosteroids,2022-07-22,2022-09-11,Inflammation
+P0149,Ondansetron,Antiemetics,2022-12-24,2023-02-21,Nausea
+P0151,Paracetamol,Analgesics,2022-08-25,2022-11-26,Pain
+P0151,Dexamethasone,Corticosteroids,2022-11-22,2023-01-15,Inflammation
+P0152,Amoxicillin,Antibiotics,2022-06-25,2022-09-30,Infection
+P0153,Ondansetron,Antiemetics,2023-03-18,2023-06-10,Nausea
+P0154,Paracetamol,Analgesics,2022-08-20,2022-10-02,Pain
+P0155,Ondansetron,Antiemetics,2023-01-27,2023-05-04,Nausea
+P0155,Dexamethasone,Corticosteroids,2023-02-03,2023-02-14,Inflammation
+P0156,Ondansetron,Antiemetics,2022-11-14,2023-02-13,Nausea
+P0156,Paracetamol,Analgesics,2022-11-01,2023-01-19,Pain
+P0158,Ondansetron,Antiemetics,2022-09-03,2022-09-24,Nausea
+P0158,Paracetamol,Analgesics,2022-06-17,2022-06-26,Pain
+P0160,Dexamethasone,Corticosteroids,2023-03-01,2023-04-17,Inflammation
+P0160,Omeprazole,Proton pump inhibitors,2023-03-16,2023-05-14,Gastric protection
+P0160,Amoxicillin,Antibiotics,2023-02-28,2023-03-18,Infection
+P0161,Paracetamol,Analgesics,2022-06-03,2022-08-07,Pain
+P0161,Omeprazole,Proton pump inhibitors,2022-02-26,2022-04-17,Gastric protection
+P0161,Paracetamol,Analgesics,2022-03-04,2022-03-12,Pain
+P0163,Amoxicillin,Antibiotics,2023-01-07,2023-05-02,Infection
+P0163,Dexamethasone,Corticosteroids,2023-02-04,2023-04-16,Inflammation
+P0164,Ondansetron,Antiemetics,2022-03-11,2022-07-08,Nausea
+P0164,Paracetamol,Analgesics,2022-02-12,2022-05-10,Pain
+P0165,Ondansetron,Antiemetics,2022-04-26,2022-06-12,Nausea
+P0166,Ondansetron,Antiemetics,2022-10-03,2022-12-19,Nausea
+P0170,Ondansetron,Antiemetics,2023-04-18,2023-04-25,Nausea
+P0171,Ondansetron,Antiemetics,2022-08-17,2022-10-14,Nausea
+P0171,Omeprazole,Proton pump inhibitors,2022-08-31,2022-11-30,Gastric protection
+P0172,Omeprazole,Proton pump inhibitors,2022-07-02,2022-08-11,Gastric protection
+P0172,Paracetamol,Analgesics,2022-05-13,2022-08-07,Pain
+P0172,Ondansetron,Antiemetics,2022-07-25,2022-11-19,Nausea
+P0173,Paracetamol,Analgesics,2023-03-25,2023-06-23,Pain
+P0174,Amoxicillin,Antibiotics,2022-07-11,2022-10-25,Infection
+P0174,Dexamethasone,Corticosteroids,2022-05-21,2022-06-20,Inflammation
+P0176,Paracetamol,Analgesics,2022-09-10,2022-11-23,Pain
+P0176,Ondansetron,Antiemetics,2022-08-27,2022-09-29,Nausea
+P0176,Dexamethasone,Corticosteroids,2022-08-30,2022-11-19,Inflammation
+P0177,Dexamethasone,Corticosteroids,2022-08-15,2022-10-22,Inflammation
+P0177,Ondansetron,Antiemetics,2022-11-06,2022-12-19,Nausea
+P0177,Ondansetron,Antiemetics,2022-07-15,2022-10-12,Nausea
+P0177,Omeprazole,Proton pump inhibitors,2022-09-24,2023-01-12,Gastric protection
+P0178,Amoxicillin,Antibiotics,2022-08-07,2022-08-18,Infection
+P0180,Ondansetron,Antiemetics,2022-10-04,2022-11-13,Nausea
+P0180,Amoxicillin,Antibiotics,2022-12-08,2023-02-12,Infection
+P0181,Amoxicillin,Antibiotics,2022-04-20,2022-05-02,Infection
+P0182,Paracetamol,Analgesics,2022-09-28,2022-11-14,Pain
+P0182,Amoxicillin,Antibiotics,2022-08-24,2022-09-09,Infection
+P0183,Omeprazole,Proton pump inhibitors,2022-03-01,2022-05-11,Gastric protection
+P0183,Ondansetron,Antiemetics,2022-03-10,2022-03-25,Nausea
+P0183,Dexamethasone,Corticosteroids,2022-03-08,2022-06-23,Inflammation
+P0183,Amoxicillin,Antibiotics,2022-04-25,2022-06-06,Infection
+P0184,Paracetamol,Analgesics,2022-07-09,2022-08-04,Pain
+P0184,Dexamethasone,Corticosteroids,2022-06-21,2022-09-27,Inflammation
+P0186,Ondansetron,Antiemetics,2022-10-08,2023-01-08,Nausea
+P0186,Amoxicillin,Antibiotics,2022-11-04,2022-12-30,Infection
+P0186,Dexamethasone,Corticosteroids,2022-08-22,2022-10-06,Inflammation
+P0186,Ondansetron,Antiemetics,2022-08-01,2022-11-08,Nausea
+P0186,Amoxicillin,Antibiotics,2022-10-01,2022-10-29,Infection
+P0188,Paracetamol,Analgesics,2022-12-07,2023-03-16,Pain
+P0190,Omeprazole,Proton pump inhibitors,2023-01-23,2023-02-25,Gastric protection
+P0190,Omeprazole,Proton pump inhibitors,2023-01-05,2023-04-25,Gastric protection
+P0190,Amoxicillin,Antibiotics,2023-02-17,2023-05-27,Infection
+P0192,Paracetamol,Analgesics,2022-09-29,2022-10-13,Pain
+P0193,Ondansetron,Antiemetics,2022-11-13,2022-12-18,Nausea
+P0195,Ondansetron,Antiemetics,2023-02-01,2023-05-23,Nausea
+P0196,Amoxicillin,Antibiotics,2022-04-05,2022-04-30,Infection
+P0196,Omeprazole,Proton pump inhibitors,2022-06-21,2022-08-06,Gastric protection
+P0197,Amoxicillin,Antibiotics,2023-02-01,2023-05-22,Infection
+P0197,Omeprazole,Proton pump inhibitors,2023-02-01,2023-05-29,Gastric protection
+P0197,Paracetamol,Analgesics,2023-03-12,2023-04-11,Pain
+P0197,Ondansetron,Antiemetics,2023-01-10,2023-02-11,Nausea
+P0199,Ondansetron,Antiemetics,2022-05-11,2022-06-24,Nausea
+P0199,Ondansetron,Antiemetics,2022-03-09,2022-06-17,Nausea
+P0200,Dexamethasone,Corticosteroids,2022-12-07,2023-04-06,Inflammation
+P0201,Paracetamol,Analgesics,2023-01-30,2023-03-17,Pain
+P0202,Omeprazole,Proton pump inhibitors,2022-09-23,2022-11-07,Gastric protection
+P0202,Ondansetron,Antiemetics,2022-09-06,2022-09-24,Nausea
+P0202,Omeprazole,Proton pump inhibitors,2022-11-15,2023-02-07,Gastric protection
+P0203,Omeprazole,Proton pump inhibitors,2022-05-19,2022-08-22,Gastric protection
+P0203,Ondansetron,Antiemetics,2022-08-08,2022-12-04,Nausea
+P0206,Omeprazole,Proton pump inhibitors,2022-05-11,2022-07-14,Gastric protection
+P0206,Omeprazole,Proton pump inhibitors,2022-03-18,2022-06-09,Gastric protection
+P0209,Ondansetron,Antiemetics,2022-10-03,2022-10-15,Nausea
+P0210,Paracetamol,Analgesics,2022-07-02,2022-08-31,Pain
+P0211,Omeprazole,Proton pump inhibitors,2022-10-28,2023-01-09,Gastric protection
+P0211,Amoxicillin,Antibiotics,2023-01-22,2023-05-12,Infection
+P0212,Ondansetron,Antiemetics,2022-05-03,2022-07-19,Nausea
+P0212,Amoxicillin,Antibiotics,2022-05-09,2022-08-23,Infection
+P0213,Paracetamol,Analgesics,2022-06-27,2022-09-29,Pain
+P0214,Paracetamol,Analgesics,2022-09-28,2022-12-08,Pain
+P0215,Omeprazole,Proton pump inhibitors,2022-01-24,2022-05-15,Gastric protection
+P0215,Omeprazole,Proton pump inhibitors,2022-03-03,2022-04-12,Gastric protection
+P0217,Omeprazole,Proton pump inhibitors,2023-02-08,2023-02-21,Gastric protection
+P0217,Dexamethasone,Corticosteroids,2022-12-12,2022-12-21,Inflammation
+P0218,Amoxicillin,Antibiotics,2022-12-19,2023-03-11,Infection
+P0218,Paracetamol,Analgesics,2023-02-13,2023-03-04,Pain
+P0219,Dexamethasone,Corticosteroids,2022-12-25,2023-04-02,Inflammation
+P0219,Amoxicillin,Antibiotics,2022-11-14,2022-12-21,Infection
+P0220,Paracetamol,Analgesics,2022-07-27,2022-10-14,Pain
+P0220,Ondansetron,Antiemetics,2022-08-14,2022-11-20,Nausea

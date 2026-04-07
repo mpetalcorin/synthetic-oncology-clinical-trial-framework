@@ -1,0 +1,549 @@
+patient_id,ae_term,ae_soc,ae_start_date,ae_end_date,ae_grade,serious_flag,related_flag,action_taken,outcome,aesI_flag,death_ae_flag
+P0001,Anemia,Blood and lymphatic system disorders,2023-01-19,2023-02-17,1,N,Y,None,Recovered,N,N
+P0001,Infection,Infections and infestations,2023-03-26,2023-04-13,3,N,Y,Dose reduced,Recovered,Y,N
+P0002,Infection,Infections and infestations,2023-02-25,2023-03-10,2,N,Y,None,Recovered,N,N
+P0002,Decreased appetite,Metabolism and nutrition disorders,2023-03-31,2023-04-21,3,N,Y,Dose reduced,Recovered,N,N
+P0002,Decreased appetite,Metabolism and nutrition disorders,2023-03-21,2023-03-25,2,N,Y,Symptomatic treatment,Recovering,N,N
+P0002,Rash,Skin and subcutaneous tissue disorders,2022-11-07,2022-11-13,3,N,Y,Drug interrupted,Recovered,N,N
+P0002,Infection,Infections and infestations,2023-02-25,2023-03-20,1,N,N,None,Not recovered,N,N
+P0003,AST increased,Investigations,2022-06-22,2022-07-08,1,N,N,Symptomatic treatment,Recovering,N,N
+P0003,Neutropenia,Blood and lymphatic system disorders,2022-06-01,2022-06-07,1,N,N,None,Recovered,N,N
+P0004,AST increased,Investigations,2022-11-21,2022-11-29,1,N,Y,None,Recovered,N,N
+P0004,AST increased,Investigations,2022-10-14,2022-11-12,3,N,Y,Hospitalized,Recovering,Y,N
+P0004,Fatigue,General disorders,2022-11-09,2022-12-06,3,N,N,Drug interrupted,Recovering,N,N
+P0004,Anemia,Blood and lymphatic system disorders,2022-09-20,2022-10-08,1,N,Y,None,Recovered,N,N
+P0004,Rash,Skin and subcutaneous tissue disorders,2022-07-25,2022-08-23,1,N,N,Symptomatic treatment,Recovered,N,N
+P0005,Fatigue,General disorders,2023-01-11,2023-01-31,2,N,Y,None,Recovered,N,N
+P0005,Anemia,Blood and lymphatic system disorders,2023-01-07,2023-01-25,1,N,N,Symptomatic treatment,Recovering,N,N
+P0005,Anemia,Blood and lymphatic system disorders,2023-03-09,2023-03-31,1,N,Y,None,Recovering,N,N
+P0006,ALT increased,Investigations,2023-01-13,2023-01-26,2,N,Y,Symptomatic treatment,Recovered,N,N
+P0007,Infection,Infections and infestations,2022-07-24,2022-08-22,1,N,Y,None,Recovering,N,N
+P0007,Diarrhea,Gastrointestinal disorders,2022-08-10,2022-08-29,1,N,Y,None,Recovered,N,N
+P0007,AST increased,Investigations,2022-11-20,2022-12-16,2,N,N,None,Recovered,N,N
+P0008,Diarrhea,Gastrointestinal disorders,2022-12-08,2023-01-02,1,N,Y,None,Recovered,N,N
+P0008,Decreased appetite,Metabolism and nutrition disorders,2022-11-09,2022-11-14,2,N,Y,None,Recovered,N,N
+P0008,Infection,Infections and infestations,2022-08-01,2022-08-20,1,N,Y,None,Recovered,N,N
+P0008,ALT increased,Investigations,2022-08-08,2022-08-31,3,N,Y,Drug interrupted,Recovered,Y,N
+P0009,Infection,Infections and infestations,2022-07-16,2022-08-04,1,N,Y,Symptomatic treatment,Recovered,N,N
+P0009,Infection,Infections and infestations,2022-08-04,2022-08-29,1,N,N,Symptomatic treatment,Recovered,N,N
+P0010,Neutropenia,Blood and lymphatic system disorders,2022-09-07,2022-10-02,2,N,Y,None,Recovering,N,N
+P0010,Nausea,Gastrointestinal disorders,2022-08-08,2022-08-25,2,N,Y,Symptomatic treatment,Not recovered,N,N
+P0010,Decreased appetite,Metabolism and nutrition disorders,2023-01-24,2023-02-18,1,N,Y,None,Recovered,N,N
+P0011,Neutropenia,Blood and lymphatic system disorders,2022-08-20,2022-09-12,1,N,Y,None,Recovered,N,N
+P0011,AST increased,Investigations,2022-05-19,2022-06-06,1,N,N,None,Recovering,N,N
+P0011,Anemia,Blood and lymphatic system disorders,2022-09-01,2022-09-09,1,N,Y,None,Recovered,N,N
+P0012,Neutropenia,Blood and lymphatic system disorders,2022-08-05,2022-08-31,2,N,Y,Symptomatic treatment,Recovered,N,N
+P0012,Rash,Skin and subcutaneous tissue disorders,2022-12-20,2023-01-19,1,N,Y,None,Recovered,N,N
+P0012,Decreased appetite,Metabolism and nutrition disorders,2022-12-22,2023-01-09,1,N,N,None,Recovering,N,N
+P0012,Rash,Skin and subcutaneous tissue disorders,2022-08-13,2022-09-05,1,N,Y,None,Recovered,N,N
+P0012,Anemia,Blood and lymphatic system disorders,2023-01-08,2023-01-12,3,Y,N,Dose reduced,Recovering,N,N
+P0014,ALT increased,Investigations,2023-01-25,2023-02-07,1,N,N,Symptomatic treatment,Recovered,N,N
+P0014,Neutropenia,Blood and lymphatic system disorders,2023-01-17,2023-02-12,2,N,N,None,Recovered,N,N
+P0015,Rash,Skin and subcutaneous tissue disorders,2023-05-19,2023-05-27,2,N,Y,Symptomatic treatment,Not recovered,N,N
+P0015,ALT increased,Investigations,2022-12-09,2023-01-08,1,N,Y,None,Not recovered,N,N
+P0015,Infection,Infections and infestations,2023-01-22,2023-02-09,3,N,N,Hospitalized,Recovered,Y,N
+P0015,Decreased appetite,Metabolism and nutrition disorders,2023-05-03,2023-05-09,1,N,Y,Symptomatic treatment,Recovered,N,N
+P0016,Infection,Infections and infestations,2022-10-18,2022-11-03,4,Y,Y,Withdrawn,Recovered,Y,N
+P0016,Decreased appetite,Metabolism and nutrition disorders,2022-10-04,2022-10-07,3,Y,N,Drug interrupted,Not recovered,N,N
+P0016,Nausea,Gastrointestinal disorders,2022-08-14,2022-09-07,2,N,N,Symptomatic treatment,Recovering,N,N
+P0017,Nausea,Gastrointestinal disorders,2022-08-08,2022-08-18,3,Y,Y,Dose reduced,Recovered,N,N
+P0017,Fatigue,General disorders,2022-07-16,2022-08-14,4,Y,N,Withdrawn,Not recovered,N,N
+P0018,AST increased,Investigations,2023-04-19,2023-05-16,1,N,N,None,Recovered,N,N
+P0018,Anemia,Blood and lymphatic system disorders,2023-06-14,2023-07-08,4,Y,N,Withdrawn,Recovering,N,N
+P0020,AST increased,Investigations,2022-10-12,2022-10-20,3,Y,N,Drug interrupted,Recovering,Y,N
+P0020,Neutropenia,Blood and lymphatic system disorders,2022-07-14,2022-07-19,2,N,N,None,Recovered,N,N
+P0020,Neutropenia,Blood and lymphatic system disorders,2022-07-17,2022-07-22,3,N,N,Drug interrupted,Recovering,Y,N
+P0022,Decreased appetite,Metabolism and nutrition disorders,2022-02-25,2022-03-01,1,N,Y,Symptomatic treatment,Not recovered,N,N
+P0022,Decreased appetite,Metabolism and nutrition disorders,2022-03-14,2022-03-29,1,N,N,Symptomatic treatment,Recovered,N,N
+P0022,Anemia,Blood and lymphatic system disorders,2022-02-12,2022-02-26,3,N,N,Drug interrupted,Not recovered,N,N
+P0023,Decreased appetite,Metabolism and nutrition disorders,2022-06-21,2022-07-05,1,N,N,None,Recovered,N,N
+P0024,Anemia,Blood and lymphatic system disorders,2022-04-22,2022-05-09,2,N,Y,None,Recovered,N,N
+P0024,Infection,Infections and infestations,2022-08-30,2022-09-14,1,N,Y,Symptomatic treatment,Recovered,N,N
+P0024,Rash,Skin and subcutaneous tissue disorders,2022-09-04,2022-09-09,1,N,Y,None,Recovered,N,N
+P0024,ALT increased,Investigations,2022-07-21,2022-08-10,1,N,N,None,Recovered,N,N
+P0025,Fatigue,General disorders,2022-10-06,2022-10-21,2,N,Y,None,Recovered,N,N
+P0025,AST increased,Investigations,2022-11-12,2022-11-15,1,N,N,None,Recovered,N,N
+P0025,ALT increased,Investigations,2023-02-09,2023-03-10,2,N,N,None,Not recovered,N,N
+P0026,Nausea,Gastrointestinal disorders,2022-08-01,2022-08-29,1,N,Y,None,Recovered,N,N
+P0027,AST increased,Investigations,2023-06-26,2023-07-19,3,Y,Y,Dose reduced,Recovering,Y,N
+P0027,ALT increased,Investigations,2023-03-10,2023-03-28,4,Y,Y,Hospitalized,Not recovered,Y,N
+P0027,Anemia,Blood and lymphatic system disorders,2023-02-06,2023-02-24,2,N,Y,Symptomatic treatment,Recovering,N,N
+P0027,Neutropenia,Blood and lymphatic system disorders,2023-05-12,2023-06-04,2,N,Y,Symptomatic treatment,Recovering,N,N
+P0027,Rash,Skin and subcutaneous tissue disorders,2023-04-27,2023-05-18,1,N,N,None,Recovered,N,N
+P0028,Diarrhea,Gastrointestinal disorders,2022-11-09,2022-11-14,2,N,Y,None,Recovering,N,N
+P0028,Infection,Infections and infestations,2022-09-16,2022-10-13,4,N,N,Withdrawn,Recovered,Y,N
+P0028,Decreased appetite,Metabolism and nutrition disorders,2023-01-17,2023-01-31,1,N,Y,None,Not recovered,N,N
+P0030,Diarrhea,Gastrointestinal disorders,2022-10-26,2022-11-22,2,N,Y,Symptomatic treatment,Recovered,N,N
+P0030,Nausea,Gastrointestinal disorders,2022-08-08,2022-08-31,2,N,Y,None,Recovering,N,N
+P0030,Diarrhea,Gastrointestinal disorders,2022-12-04,2022-12-16,1,N,Y,None,Recovering,N,N
+P0030,Nausea,Gastrointestinal disorders,2022-11-11,2022-11-28,1,N,N,None,Recovered,N,N
+P0031,ALT increased,Investigations,2022-06-03,2022-06-27,1,N,Y,None,Recovered,N,N
+P0031,ALT increased,Investigations,2022-07-11,2022-08-06,1,N,Y,None,Recovered,N,N
+P0032,Diarrhea,Gastrointestinal disorders,2023-02-27,2023-03-08,2,N,N,None,Recovered,N,N
+P0033,Infection,Infections and infestations,2022-07-26,2022-08-22,1,N,Y,None,Recovered,N,N
+P0034,Anemia,Blood and lymphatic system disorders,2022-06-08,2022-06-29,2,N,N,None,Recovering,N,N
+P0034,Diarrhea,Gastrointestinal disorders,2022-06-01,2022-06-22,1,N,N,Symptomatic treatment,Recovered,N,N
+P0034,AST increased,Investigations,2022-06-29,2022-07-24,1,N,Y,Symptomatic treatment,Recovered,N,N
+P0034,ALT increased,Investigations,2022-08-08,2022-08-17,3,N,N,Drug interrupted,Recovered,Y,N
+P0034,ALT increased,Investigations,2022-05-03,2022-05-31,1,N,Y,Symptomatic treatment,Not recovered,N,N
+P0034,Decreased appetite,Metabolism and nutrition disorders,2022-04-23,2022-05-15,1,N,Y,Symptomatic treatment,Recovering,N,N
+P0034,ALT increased,Investigations,2022-09-17,2022-10-05,3,N,N,Dose reduced,Recovered,Y,N
+P0035,Diarrhea,Gastrointestinal disorders,2022-11-05,2022-11-28,1,N,N,None,Recovered,N,N
+P0035,Neutropenia,Blood and lymphatic system disorders,2022-10-23,2022-11-11,2,N,N,Symptomatic treatment,Not recovered,N,N
+P0036,ALT increased,Investigations,2022-11-05,2022-11-18,3,N,Y,Drug interrupted,Recovered,Y,N
+P0036,Neutropenia,Blood and lymphatic system disorders,2023-02-06,2023-02-21,2,N,N,None,Recovered,N,N
+P0036,Fatigue,General disorders,2022-11-14,2022-12-09,3,Y,Y,Drug interrupted,Recovered,N,N
+P0036,Fatigue,General disorders,2022-11-15,2022-12-11,2,N,N,Symptomatic treatment,Recovering,N,N
+P0036,Diarrhea,Gastrointestinal disorders,2022-09-28,2022-10-03,1,N,Y,None,Recovered,N,N
+P0037,Rash,Skin and subcutaneous tissue disorders,2022-09-07,2022-10-06,1,N,Y,None,Recovered,N,N
+P0037,Fatigue,General disorders,2022-07-21,2022-08-17,1,N,Y,Symptomatic treatment,Not recovered,N,N
+P0038,Fatigue,General disorders,2022-10-05,2022-10-16,2,N,N,None,Recovering,N,N
+P0038,Decreased appetite,Metabolism and nutrition disorders,2023-01-14,2023-01-26,1,N,Y,Symptomatic treatment,Not recovered,N,N
+P0038,Diarrhea,Gastrointestinal disorders,2022-11-11,2022-11-22,1,N,Y,None,Recovered,N,N
+P0038,Decreased appetite,Metabolism and nutrition disorders,2023-03-17,2023-03-23,2,N,Y,None,Recovered,N,N
+P0039,Fatigue,General disorders,2023-01-03,2023-02-01,2,N,N,Symptomatic treatment,Recovering,N,N
+P0040,Anemia,Blood and lymphatic system disorders,2022-10-31,2022-11-06,4,N,Y,Hospitalized,Recovering,N,N
+P0040,Rash,Skin and subcutaneous tissue disorders,2022-07-10,2022-08-02,1,N,N,None,Recovered,N,N
+P0041,Diarrhea,Gastrointestinal disorders,2022-08-27,2022-09-15,1,N,Y,None,Recovered,N,N
+P0042,Rash,Skin and subcutaneous tissue disorders,2022-09-26,2022-10-26,3,Y,N,Hospitalized,Not recovered,N,N
+P0042,Rash,Skin and subcutaneous tissue disorders,2022-09-22,2022-10-20,1,N,N,None,Recovered,N,N
+P0042,Rash,Skin and subcutaneous tissue disorders,2022-10-06,2022-10-28,4,N,Y,Hospitalized,Not recovered,N,N
+P0043,AST increased,Investigations,2022-12-10,2022-12-25,1,N,Y,None,Recovered,N,N
+P0043,Diarrhea,Gastrointestinal disorders,2023-03-05,2023-03-31,3,Y,N,Drug interrupted,Recovered,N,N
+P0044,Fatigue,General disorders,2022-07-06,2022-07-16,2,N,Y,Symptomatic treatment,Recovered,N,N
+P0044,Neutropenia,Blood and lymphatic system disorders,2022-04-08,2022-04-18,2,N,N,Symptomatic treatment,Recovered,N,N
+P0045,AST increased,Investigations,2023-06-28,2023-07-01,2,N,N,None,Not recovered,N,N
+P0045,Neutropenia,Blood and lymphatic system disorders,2023-02-05,2023-02-09,3,Y,N,Dose reduced,Recovering,Y,N
+P0045,Infection,Infections and infestations,2023-05-08,2023-05-26,3,N,N,Dose reduced,Recovered,Y,N
+P0046,Nausea,Gastrointestinal disorders,2022-12-09,2022-12-18,1,N,N,None,Not recovered,N,N
+P0046,Anemia,Blood and lymphatic system disorders,2022-06-29,2022-07-22,1,N,Y,None,Recovered,N,N
+P0046,Decreased appetite,Metabolism and nutrition disorders,2022-08-28,2022-09-08,1,N,N,None,Recovered,N,N
+P0046,Anemia,Blood and lymphatic system disorders,2022-10-30,2022-11-02,3,N,Y,Drug interrupted,Recovered,N,N
+P0046,Fatigue,General disorders,2022-09-12,2022-09-30,1,N,N,None,Recovering,N,N
+P0047,ALT increased,Investigations,2022-12-04,2022-12-08,1,N,N,None,Not recovered,N,N
+P0047,Diarrhea,Gastrointestinal disorders,2023-03-08,2023-03-11,3,N,Y,Drug interrupted,Recovered,N,N
+P0048,Fatigue,General disorders,2022-11-08,2022-11-21,2,N,Y,None,Recovered,N,N
+P0049,Diarrhea,Gastrointestinal disorders,2023-04-02,2023-04-27,3,N,N,Drug interrupted,Recovered,N,N
+P0049,Neutropenia,Blood and lymphatic system disorders,2023-03-28,2023-04-10,1,N,N,None,Recovered,N,N
+P0050,Infection,Infections and infestations,2023-04-17,2023-04-27,1,N,Y,None,Recovered,N,N
+P0051,Rash,Skin and subcutaneous tissue disorders,2022-06-05,2022-06-29,2,N,Y,None,Recovered,N,N
+P0052,Decreased appetite,Metabolism and nutrition disorders,2023-01-08,2023-01-17,3,Y,N,Drug interrupted,Recovered,N,N
+P0053,AST increased,Investigations,2022-04-13,2022-04-17,1,N,Y,Symptomatic treatment,Recovered,N,N
+P0053,Anemia,Blood and lymphatic system disorders,2022-06-05,2022-06-23,1,N,Y,None,Recovered,N,N
+P0054,Neutropenia,Blood and lymphatic system disorders,2022-07-25,2022-08-22,2,N,N,None,Recovered,N,N
+P0054,Rash,Skin and subcutaneous tissue disorders,2022-08-03,2022-09-02,4,N,N,Withdrawn,Recovered,N,N
+P0055,Nausea,Gastrointestinal disorders,2022-04-26,2022-05-21,1,N,N,Symptomatic treatment,Recovered,N,N
+P0055,AST increased,Investigations,2022-05-24,2022-06-03,1,N,Y,None,Recovering,N,N
+P0055,Infection,Infections and infestations,2022-03-29,2022-04-16,1,N,N,None,Recovering,N,N
+P0056,ALT increased,Investigations,2023-02-22,2023-03-08,3,Y,Y,Drug interrupted,Recovered,Y,N
+P0056,AST increased,Investigations,2023-03-09,2023-04-02,2,N,Y,None,Recovering,N,N
+P0057,Anemia,Blood and lymphatic system disorders,2022-09-22,2022-10-03,3,N,N,Drug interrupted,Recovering,N,N
+P0057,Infection,Infections and infestations,2022-08-23,2022-08-29,3,Y,N,Hospitalized,Recovered,Y,N
+P0057,ALT increased,Investigations,2023-01-25,2023-02-01,1,N,Y,Symptomatic treatment,Recovering,N,N
+P0057,Nausea,Gastrointestinal disorders,2022-10-02,2022-10-28,2,N,N,None,Recovered,N,N
+P0058,ALT increased,Investigations,2022-11-16,2022-11-21,2,N,Y,None,Recovering,N,N
+P0059,Rash,Skin and subcutaneous tissue disorders,2022-07-27,2022-08-26,1,N,N,None,Recovered,N,N
+P0059,Anemia,Blood and lymphatic system disorders,2022-09-15,2022-09-23,2,N,N,None,Not recovered,N,N
+P0059,Neutropenia,Blood and lymphatic system disorders,2022-03-28,2022-04-19,1,N,N,None,Recovering,N,N
+P0060,AST increased,Investigations,2022-10-17,2022-11-12,2,N,Y,Symptomatic treatment,Not recovered,N,N
+P0060,Anemia,Blood and lymphatic system disorders,2022-08-11,2022-09-07,2,N,N,None,Recovered,N,N
+P0060,Anemia,Blood and lymphatic system disorders,2022-08-11,2022-08-24,4,Y,Y,Hospitalized,Recovered,N,N
+P0062,ALT increased,Investigations,2023-01-17,2023-02-09,4,Y,N,Hospitalized,Recovering,Y,N
+P0062,AST increased,Investigations,2023-03-27,2023-04-14,2,N,N,None,Recovered,N,N
+P0062,Neutropenia,Blood and lymphatic system disorders,2023-04-11,2023-04-23,2,N,N,None,Recovered,N,N
+P0062,Diarrhea,Gastrointestinal disorders,2022-12-27,2023-01-10,2,N,N,None,Recovered,N,N
+P0063,Diarrhea,Gastrointestinal disorders,2023-05-11,2023-06-08,2,N,Y,Symptomatic treatment,Recovered,N,N
+P0063,Decreased appetite,Metabolism and nutrition disorders,2023-01-06,2023-01-19,3,N,N,Dose reduced,Not recovered,N,N
+P0063,Neutropenia,Blood and lymphatic system disorders,2023-04-16,2023-05-03,1,N,Y,None,Recovered,N,N
+P0064,Fatigue,General disorders,2022-07-24,2022-08-21,1,N,Y,Symptomatic treatment,Recovered,N,N
+P0064,Decreased appetite,Metabolism and nutrition disorders,2022-07-11,2022-07-27,3,N,N,Drug interrupted,Recovering,N,N
+P0064,Infection,Infections and infestations,2022-05-26,2022-05-30,4,Y,Y,Hospitalized,Recovering,Y,Y
+P0064,AST increased,Investigations,2022-04-23,2022-05-22,4,Y,N,Withdrawn,Recovered,Y,N
+P0065,Infection,Infections and infestations,2022-06-30,2022-07-13,4,Y,N,Drug interrupted,Not recovered,Y,N
+P0065,Neutropenia,Blood and lymphatic system disorders,2022-10-17,2022-11-15,1,N,N,None,Recovered,N,N
+P0066,Infection,Infections and infestations,2022-05-16,2022-06-06,3,N,N,Drug interrupted,Not recovered,Y,N
+P0066,Diarrhea,Gastrointestinal disorders,2022-07-11,2022-07-24,3,N,Y,Drug interrupted,Not recovered,N,N
+P0066,Rash,Skin and subcutaneous tissue disorders,2022-03-28,2022-04-08,2,N,N,None,Recovered,N,N
+P0067,ALT increased,Investigations,2023-03-23,2023-04-08,4,N,N,Drug interrupted,Recovered,Y,N
+P0069,Infection,Infections and infestations,2023-04-29,2023-05-16,2,N,Y,Symptomatic treatment,Recovered,N,N
+P0069,Decreased appetite,Metabolism and nutrition disorders,2023-01-22,2023-01-29,1,N,N,Symptomatic treatment,Recovered,N,N
+P0070,Decreased appetite,Metabolism and nutrition disorders,2022-05-23,2022-05-30,3,Y,N,Dose reduced,Not recovered,N,N
+P0070,Anemia,Blood and lymphatic system disorders,2022-08-27,2022-09-20,2,N,N,None,Not recovered,N,N
+P0071,Nausea,Gastrointestinal disorders,2022-04-17,2022-04-29,2,N,N,None,Recovered,N,N
+P0071,ALT increased,Investigations,2022-06-17,2022-06-23,2,N,N,Symptomatic treatment,Recovering,N,N
+P0073,Neutropenia,Blood and lymphatic system disorders,2022-09-21,2022-09-26,1,N,Y,None,Recovered,N,N
+P0073,Infection,Infections and infestations,2022-11-07,2022-11-27,1,N,N,Symptomatic treatment,Recovered,N,N
+P0074,Decreased appetite,Metabolism and nutrition disorders,2022-06-20,2022-06-26,1,N,N,None,Recovered,N,N
+P0075,Nausea,Gastrointestinal disorders,2022-10-10,2022-11-05,3,Y,Y,Hospitalized,Recovered,N,N
+P0076,AST increased,Investigations,2022-08-09,2022-09-02,2,N,Y,Symptomatic treatment,Not recovered,N,N
+P0076,ALT increased,Investigations,2022-05-03,2022-05-21,1,N,Y,None,Recovered,N,N
+P0076,ALT increased,Investigations,2022-06-13,2022-07-05,3,Y,N,Drug interrupted,Recovered,Y,N
+P0076,Nausea,Gastrointestinal disorders,2022-06-13,2022-06-26,1,N,Y,None,Recovered,N,N
+P0076,Decreased appetite,Metabolism and nutrition disorders,2022-09-26,2022-10-03,2,N,Y,None,Recovered,N,N
+P0077,Diarrhea,Gastrointestinal disorders,2023-02-13,2023-03-06,2,N,N,Symptomatic treatment,Recovering,N,N
+P0077,Diarrhea,Gastrointestinal disorders,2023-01-09,2023-01-28,2,N,N,None,Recovering,N,N
+P0078,Anemia,Blood and lymphatic system disorders,2022-08-31,2022-09-06,2,N,N,None,Not recovered,N,N
+P0079,Infection,Infections and infestations,2022-08-23,2022-09-15,3,N,N,Dose reduced,Recovered,Y,N
+P0079,Neutropenia,Blood and lymphatic system disorders,2022-09-25,2022-10-21,1,N,N,None,Recovered,N,N
+P0079,Fatigue,General disorders,2022-06-13,2022-07-08,3,Y,N,Hospitalized,Recovering,N,N
+P0079,Neutropenia,Blood and lymphatic system disorders,2022-06-22,2022-07-13,2,N,N,Symptomatic treatment,Not recovered,N,N
+P0080,Decreased appetite,Metabolism and nutrition disorders,2022-10-13,2022-11-05,1,N,Y,None,Recovered,N,N
+P0080,Fatigue,General disorders,2022-11-01,2022-12-01,1,N,Y,None,Recovering,N,N
+P0080,Rash,Skin and subcutaneous tissue disorders,2022-11-05,2022-11-12,1,N,N,None,Recovered,N,N
+P0080,ALT increased,Investigations,2022-08-18,2022-09-02,2,N,N,Symptomatic treatment,Recovered,N,N
+P0080,Infection,Infections and infestations,2022-10-11,2022-10-30,1,N,N,None,Recovered,N,N
+P0081,Fatigue,General disorders,2022-06-16,2022-06-20,4,N,N,Hospitalized,Recovered,N,N
+P0081,Neutropenia,Blood and lymphatic system disorders,2022-04-03,2022-04-22,2,N,Y,Symptomatic treatment,Recovering,N,N
+P0082,Nausea,Gastrointestinal disorders,2022-06-07,2022-06-16,1,N,Y,None,Not recovered,N,N
+P0082,Infection,Infections and infestations,2022-06-23,2022-07-21,1,N,N,Symptomatic treatment,Recovering,N,N
+P0082,Diarrhea,Gastrointestinal disorders,2022-08-21,2022-09-03,1,N,Y,None,Not recovered,N,N
+P0082,Anemia,Blood and lymphatic system disorders,2022-06-10,2022-06-21,2,N,N,None,Recovered,N,N
+P0083,AST increased,Investigations,2023-01-14,2023-02-03,2,N,Y,None,Recovered,N,N
+P0083,ALT increased,Investigations,2022-12-07,2022-12-15,3,N,Y,Dose reduced,Recovered,Y,N
+P0084,Rash,Skin and subcutaneous tissue disorders,2022-05-23,2022-06-15,2,N,Y,None,Recovered,N,N
+P0084,Infection,Infections and infestations,2022-04-25,2022-05-24,1,N,Y,None,Recovered,N,N
+P0084,ALT increased,Investigations,2022-04-29,2022-05-25,1,N,Y,None,Recovered,N,N
+P0084,Fatigue,General disorders,2022-05-08,2022-05-27,2,N,Y,None,Recovered,N,N
+P0085,Infection,Infections and infestations,2022-03-04,2022-03-20,3,N,N,Drug interrupted,Recovered,Y,N
+P0086,ALT increased,Investigations,2022-09-07,2022-10-02,2,N,N,None,Recovered,N,N
+P0086,AST increased,Investigations,2022-11-27,2022-12-17,1,N,N,None,Recovered,N,N
+P0087,Rash,Skin and subcutaneous tissue disorders,2022-07-27,2022-08-11,1,N,N,None,Recovered,N,N
+P0087,Anemia,Blood and lymphatic system disorders,2022-10-28,2022-11-10,1,N,Y,Symptomatic treatment,Recovered,N,N
+P0088,AST increased,Investigations,2022-07-25,2022-07-30,1,N,Y,None,Recovered,N,N
+P0088,Rash,Skin and subcutaneous tissue disorders,2022-03-15,2022-04-10,2,N,N,None,Recovering,N,N
+P0088,Decreased appetite,Metabolism and nutrition disorders,2022-05-16,2022-05-28,3,Y,N,Drug interrupted,Recovered,N,N
+P0088,Neutropenia,Blood and lymphatic system disorders,2022-05-07,2022-05-11,3,Y,Y,Hospitalized,Recovered,Y,N
+P0089,ALT increased,Investigations,2022-11-22,2022-11-25,3,N,N,Dose reduced,Recovered,Y,N
+P0089,Infection,Infections and infestations,2022-11-30,2022-12-18,1,N,N,Symptomatic treatment,Recovered,N,N
+P0090,Infection,Infections and infestations,2022-12-13,2022-12-21,1,N,Y,None,Recovering,N,N
+P0090,AST increased,Investigations,2023-03-22,2023-04-12,1,N,N,None,Recovered,N,N
+P0091,ALT increased,Investigations,2022-03-29,2022-04-19,4,Y,Y,Drug interrupted,Recovered,Y,N
+P0091,Decreased appetite,Metabolism and nutrition disorders,2022-03-23,2022-03-26,1,N,N,Symptomatic treatment,Recovered,N,N
+P0091,AST increased,Investigations,2022-07-05,2022-07-16,1,N,Y,Symptomatic treatment,Recovered,N,N
+P0091,Neutropenia,Blood and lymphatic system disorders,2022-04-16,2022-05-08,2,N,N,None,Recovering,N,N
+P0091,Diarrhea,Gastrointestinal disorders,2022-05-14,2022-05-20,2,N,Y,None,Recovered,N,N
+P0091,ALT increased,Investigations,2022-03-27,2022-04-11,3,Y,N,Drug interrupted,Recovered,Y,N
+P0092,Diarrhea,Gastrointestinal disorders,2022-04-24,2022-05-05,2,N,N,Symptomatic treatment,Recovered,N,N
+P0092,Decreased appetite,Metabolism and nutrition disorders,2022-08-20,2022-09-13,1,N,N,None,Recovering,N,N
+P0093,Fatigue,General disorders,2022-11-17,2022-11-21,3,N,N,Hospitalized,Recovered,N,N
+P0093,Rash,Skin and subcutaneous tissue disorders,2022-09-04,2022-09-27,4,N,N,Hospitalized,Recovered,N,N
+P0093,Neutropenia,Blood and lymphatic system disorders,2022-10-22,2022-11-06,1,N,Y,None,Recovering,N,N
+P0094,ALT increased,Investigations,2022-10-18,2022-10-23,1,N,N,Symptomatic treatment,Not recovered,N,N
+P0094,Diarrhea,Gastrointestinal disorders,2022-11-05,2022-11-11,2,N,N,Symptomatic treatment,Recovered,N,N
+P0095,AST increased,Investigations,2022-06-25,2022-07-02,3,N,Y,Drug interrupted,Recovering,Y,N
+P0095,Infection,Infections and infestations,2022-04-01,2022-04-29,4,N,Y,Withdrawn,Recovered,Y,N
+P0095,AST increased,Investigations,2022-04-16,2022-04-28,1,N,N,None,Recovering,N,N
+P0095,Nausea,Gastrointestinal disorders,2022-02-10,2022-02-13,2,N,Y,None,Recovered,N,N
+P0095,Diarrhea,Gastrointestinal disorders,2022-02-08,2022-02-23,1,N,Y,None,Recovered,N,N
+P0096,Infection,Infections and infestations,2023-02-22,2023-03-18,1,N,Y,Symptomatic treatment,Recovered,N,N
+P0096,ALT increased,Investigations,2022-11-19,2022-12-17,3,N,Y,Drug interrupted,Recovering,Y,N
+P0098,ALT increased,Investigations,2022-03-10,2022-04-02,1,N,Y,None,Recovered,N,N
+P0098,ALT increased,Investigations,2022-04-23,2022-04-30,3,N,N,Drug interrupted,Not recovered,Y,N
+P0099,Neutropenia,Blood and lymphatic system disorders,2023-04-18,2023-05-14,1,N,Y,None,Recovered,N,N
+P0099,AST increased,Investigations,2022-11-30,2022-12-04,1,N,N,Symptomatic treatment,Recovering,N,N
+P0100,ALT increased,Investigations,2022-08-02,2022-08-12,2,N,Y,Symptomatic treatment,Recovered,N,N
+P0100,ALT increased,Investigations,2022-03-10,2022-03-28,3,Y,Y,Dose reduced,Recovered,Y,N
+P0101,AST increased,Investigations,2022-08-05,2022-08-25,1,N,N,None,Recovered,N,N
+P0101,AST increased,Investigations,2022-06-09,2022-07-01,1,N,N,None,Recovered,N,N
+P0101,Rash,Skin and subcutaneous tissue disorders,2022-05-11,2022-06-02,1,N,N,None,Recovered,N,N
+P0102,ALT increased,Investigations,2023-05-27,2023-06-12,2,N,N,None,Recovered,N,N
+P0103,ALT increased,Investigations,2022-08-05,2022-09-02,2,N,N,None,Recovered,N,N
+P0104,Neutropenia,Blood and lymphatic system disorders,2022-11-16,2022-12-13,2,N,Y,None,Not recovered,N,N
+P0105,Neutropenia,Blood and lymphatic system disorders,2023-02-23,2023-03-17,1,N,Y,None,Recovering,N,N
+P0106,Neutropenia,Blood and lymphatic system disorders,2022-10-16,2022-10-24,4,N,N,Drug interrupted,Recovered,Y,N
+P0106,Diarrhea,Gastrointestinal disorders,2022-10-12,2022-11-11,1,N,N,None,Not recovered,N,N
+P0106,Anemia,Blood and lymphatic system disorders,2022-08-25,2022-08-30,1,N,Y,Symptomatic treatment,Recovered,N,N
+P0106,Decreased appetite,Metabolism and nutrition disorders,2022-12-28,2023-01-07,2,N,Y,None,Recovered,N,N
+P0106,Anemia,Blood and lymphatic system disorders,2022-11-30,2022-12-17,3,N,Y,Drug interrupted,Recovered,N,N
+P0106,Fatigue,General disorders,2023-01-06,2023-01-27,1,N,N,None,Recovered,N,N
+P0107,Neutropenia,Blood and lymphatic system disorders,2022-12-12,2022-12-31,1,N,Y,None,Recovering,N,N
+P0107,Diarrhea,Gastrointestinal disorders,2022-10-05,2022-10-25,1,N,N,None,Recovered,N,N
+P0108,Infection,Infections and infestations,2022-05-17,2022-06-04,1,N,Y,None,Recovering,N,N
+P0108,Diarrhea,Gastrointestinal disorders,2022-07-05,2022-07-16,1,N,N,None,Recovering,N,N
+P0108,AST increased,Investigations,2022-04-20,2022-05-13,2,N,Y,None,Recovering,N,N
+P0109,Fatigue,General disorders,2022-09-11,2022-09-28,1,N,Y,None,Recovering,N,N
+P0110,AST increased,Investigations,2022-07-04,2022-07-22,3,Y,N,Drug interrupted,Not recovered,Y,N
+P0110,Fatigue,General disorders,2022-05-06,2022-06-03,3,N,N,Drug interrupted,Recovering,N,N
+P0110,Anemia,Blood and lymphatic system disorders,2022-08-19,2022-08-30,3,N,Y,Drug interrupted,Recovered,N,N
+P0110,Rash,Skin and subcutaneous tissue disorders,2022-08-30,2022-09-05,1,N,N,None,Recovering,N,N
+P0110,ALT increased,Investigations,2022-06-22,2022-07-12,2,N,Y,None,Recovered,N,N
+P0110,Infection,Infections and infestations,2022-05-13,2022-06-05,2,N,Y,None,Recovered,N,N
+P0111,AST increased,Investigations,2023-03-29,2023-04-21,1,N,N,Symptomatic treatment,Not recovered,N,N
+P0112,Fatigue,General disorders,2022-08-03,2022-08-25,2,N,N,None,Recovering,N,N
+P0112,Anemia,Blood and lymphatic system disorders,2022-09-13,2022-10-01,3,N,Y,Drug interrupted,Recovering,N,N
+P0112,Anemia,Blood and lymphatic system disorders,2022-08-29,2022-09-26,3,N,N,Dose reduced,Recovered,N,N
+P0112,Rash,Skin and subcutaneous tissue disorders,2022-10-28,2022-11-10,1,N,N,None,Recovered,N,N
+P0113,Decreased appetite,Metabolism and nutrition disorders,2022-05-02,2022-05-17,3,N,N,Drug interrupted,Not recovered,N,N
+P0114,Fatigue,General disorders,2023-04-20,2023-05-15,2,N,N,None,Recovered,N,N
+P0114,Anemia,Blood and lymphatic system disorders,2023-05-10,2023-05-27,1,N,N,None,Recovered,N,N
+P0114,Fatigue,General disorders,2023-03-09,2023-03-24,2,N,N,Symptomatic treatment,Not recovered,N,N
+P0114,Decreased appetite,Metabolism and nutrition disorders,2023-04-23,2023-05-14,2,N,Y,None,Recovering,N,N
+P0114,AST increased,Investigations,2023-05-18,2023-06-06,1,N,N,Symptomatic treatment,Recovering,N,N
+P0114,Fatigue,General disorders,2022-12-23,2022-12-28,2,N,N,None,Recovered,N,N
+P0115,Decreased appetite,Metabolism and nutrition disorders,2022-07-19,2022-07-25,1,N,N,None,Recovered,N,N
+P0115,Nausea,Gastrointestinal disorders,2022-06-18,2022-07-10,1,N,N,None,Not recovered,N,N
+P0117,AST increased,Investigations,2023-06-03,2023-06-08,3,Y,N,Dose reduced,Recovered,Y,N
+P0117,Neutropenia,Blood and lymphatic system disorders,2023-03-07,2023-03-16,1,N,N,None,Recovered,N,N
+P0117,AST increased,Investigations,2023-03-29,2023-04-13,1,N,N,None,Recovering,N,N
+P0117,ALT increased,Investigations,2023-04-24,2023-05-04,2,N,N,None,Recovered,N,N
+P0117,Neutropenia,Blood and lymphatic system disorders,2023-03-30,2023-04-13,1,N,N,Symptomatic treatment,Recovered,N,N
+P0118,Decreased appetite,Metabolism and nutrition disorders,2022-11-28,2022-12-02,1,N,Y,None,Recovered,N,N
+P0118,ALT increased,Investigations,2023-01-04,2023-01-24,2,N,Y,None,Recovered,N,N
+P0118,Fatigue,General disorders,2023-03-11,2023-03-27,1,N,N,None,Recovered,N,N
+P0118,Infection,Infections and infestations,2023-03-23,2023-04-21,3,N,N,Drug interrupted,Recovering,Y,N
+P0120,AST increased,Investigations,2022-09-20,2022-10-02,2,N,N,None,Recovering,N,N
+P0120,ALT increased,Investigations,2022-11-21,2022-12-13,1,N,Y,None,Recovering,N,N
+P0120,Rash,Skin and subcutaneous tissue disorders,2022-11-03,2022-11-15,2,N,Y,None,Recovering,N,N
+P0121,Decreased appetite,Metabolism and nutrition disorders,2022-12-13,2022-12-23,1,N,N,None,Recovered,N,N
+P0121,Infection,Infections and infestations,2022-12-09,2022-12-15,3,N,N,Drug interrupted,Recovering,Y,N
+P0121,Nausea,Gastrointestinal disorders,2023-02-24,2023-02-28,3,N,N,Hospitalized,Recovered,N,N
+P0121,Anemia,Blood and lymphatic system disorders,2023-02-01,2023-02-08,2,N,N,Symptomatic treatment,Not recovered,N,N
+P0122,ALT increased,Investigations,2022-05-30,2022-06-25,3,N,N,Dose reduced,Recovered,Y,N
+P0122,Anemia,Blood and lymphatic system disorders,2022-06-16,2022-07-11,2,N,Y,None,Recovered,N,N
+P0122,AST increased,Investigations,2022-05-27,2022-06-18,1,N,N,None,Recovered,N,N
+P0122,Nausea,Gastrointestinal disorders,2022-04-13,2022-04-30,1,N,Y,None,Recovering,N,N
+P0123,Neutropenia,Blood and lymphatic system disorders,2022-12-24,2023-01-03,2,N,Y,None,Recovering,N,N
+P0123,Diarrhea,Gastrointestinal disorders,2023-01-13,2023-02-07,2,N,Y,Symptomatic treatment,Recovered,N,N
+P0124,AST increased,Investigations,2022-09-04,2022-09-15,1,N,Y,None,Recovered,N,N
+P0124,ALT increased,Investigations,2022-10-08,2022-10-11,3,N,N,Dose reduced,Recovered,Y,N
+P0125,AST increased,Investigations,2022-09-08,2022-10-05,1,N,N,None,Recovered,N,N
+P0125,Rash,Skin and subcutaneous tissue disorders,2022-11-13,2022-11-27,2,N,N,Symptomatic treatment,Recovering,N,N
+P0125,Diarrhea,Gastrointestinal disorders,2022-11-07,2022-12-02,2,N,N,None,Recovered,N,N
+P0126,Infection,Infections and infestations,2022-06-04,2022-06-09,2,N,N,None,Not recovered,N,N
+P0126,Nausea,Gastrointestinal disorders,2022-08-18,2022-09-02,4,N,N,Withdrawn,Recovered,N,N
+P0127,AST increased,Investigations,2022-05-20,2022-05-25,1,N,N,None,Recovered,N,N
+P0127,AST increased,Investigations,2022-06-25,2022-07-22,3,Y,Y,Hospitalized,Recovered,Y,N
+P0128,Decreased appetite,Metabolism and nutrition disorders,2022-11-29,2022-12-12,1,N,Y,Symptomatic treatment,Recovered,N,N
+P0128,AST increased,Investigations,2022-09-09,2022-09-23,2,N,N,None,Recovered,N,N
+P0129,Anemia,Blood and lymphatic system disorders,2023-04-22,2023-05-20,3,Y,N,Hospitalized,Recovering,N,N
+P0130,ALT increased,Investigations,2022-11-12,2022-11-26,2,N,Y,None,Not recovered,N,N
+P0130,Rash,Skin and subcutaneous tissue disorders,2022-10-06,2022-10-24,1,N,N,None,Not recovered,N,N
+P0131,Diarrhea,Gastrointestinal disorders,2022-09-30,2022-10-24,2,N,Y,None,Recovering,N,N
+P0131,Diarrhea,Gastrointestinal disorders,2022-08-31,2022-09-24,1,N,Y,None,Not recovered,N,N
+P0131,Diarrhea,Gastrointestinal disorders,2022-06-11,2022-06-27,1,N,Y,None,Recovering,N,N
+P0131,Infection,Infections and infestations,2022-07-17,2022-08-13,4,N,Y,Withdrawn,Not recovered,Y,N
+P0132,AST increased,Investigations,2022-11-25,2022-12-25,3,Y,N,Drug interrupted,Recovered,Y,N
+P0133,Infection,Infections and infestations,2022-12-01,2022-12-13,1,N,N,Symptomatic treatment,Recovering,N,N
+P0133,Nausea,Gastrointestinal disorders,2022-09-24,2022-10-02,1,N,Y,None,Recovering,N,N
+P0134,Nausea,Gastrointestinal disorders,2022-05-04,2022-05-30,2,N,N,None,Recovering,N,N
+P0134,Decreased appetite,Metabolism and nutrition disorders,2022-05-12,2022-06-09,1,N,Y,None,Recovered,N,N
+P0134,ALT increased,Investigations,2022-08-29,2022-09-21,2,N,Y,Symptomatic treatment,Recovered,N,N
+P0135,Fatigue,General disorders,2022-12-22,2023-01-13,1,N,N,None,Not recovered,N,N
+P0135,AST increased,Investigations,2022-08-15,2022-09-14,1,N,N,None,Recovered,N,N
+P0137,Fatigue,General disorders,2022-08-19,2022-09-08,4,N,Y,Drug interrupted,Not recovered,N,N
+P0137,Diarrhea,Gastrointestinal disorders,2022-09-23,2022-10-10,2,N,Y,None,Recovered,N,N
+P0137,Infection,Infections and infestations,2022-08-19,2022-09-10,1,N,N,None,Recovered,N,N
+P0138,Rash,Skin and subcutaneous tissue disorders,2022-11-12,2022-11-24,2,N,N,Symptomatic treatment,Recovered,N,N
+P0138,Diarrhea,Gastrointestinal disorders,2022-12-25,2023-01-03,1,N,N,None,Recovered,N,N
+P0138,Rash,Skin and subcutaneous tissue disorders,2022-12-02,2022-12-21,1,N,Y,None,Recovered,N,N
+P0138,Rash,Skin and subcutaneous tissue disorders,2022-12-12,2022-12-26,2,N,Y,Symptomatic treatment,Recovering,N,N
+P0139,Nausea,Gastrointestinal disorders,2023-02-23,2023-03-16,1,N,N,None,Recovered,N,N
+P0139,AST increased,Investigations,2022-10-19,2022-11-08,2,N,N,None,Recovered,N,N
+P0140,Rash,Skin and subcutaneous tissue disorders,2022-08-11,2022-08-27,1,N,Y,None,Recovering,N,N
+P0140,Decreased appetite,Metabolism and nutrition disorders,2022-10-22,2022-11-16,1,N,N,Symptomatic treatment,Recovered,N,N
+P0140,Neutropenia,Blood and lymphatic system disorders,2023-01-09,2023-02-08,2,N,N,Symptomatic treatment,Recovering,N,N
+P0141,Nausea,Gastrointestinal disorders,2022-07-10,2022-07-31,1,N,N,Symptomatic treatment,Recovered,N,N
+P0141,Anemia,Blood and lymphatic system disorders,2022-09-10,2022-10-02,1,N,N,None,Recovered,N,N
+P0141,Infection,Infections and infestations,2022-06-28,2022-07-23,1,N,N,None,Recovered,N,N
+P0142,Rash,Skin and subcutaneous tissue disorders,2022-11-17,2022-12-04,2,N,N,None,Recovering,N,N
+P0142,AST increased,Investigations,2022-12-28,2023-01-15,3,Y,Y,Drug interrupted,Recovered,Y,N
+P0142,Fatigue,General disorders,2022-08-20,2022-08-30,1,N,Y,None,Recovering,N,N
+P0143,Nausea,Gastrointestinal disorders,2022-11-17,2022-11-29,3,N,Y,Dose reduced,Recovered,N,N
+P0143,Diarrhea,Gastrointestinal disorders,2023-01-05,2023-01-10,2,N,Y,None,Recovering,N,N
+P0144,Nausea,Gastrointestinal disorders,2022-09-26,2022-10-07,1,N,Y,None,Recovering,N,N
+P0144,ALT increased,Investigations,2022-09-02,2022-09-23,1,N,N,None,Recovering,N,N
+P0144,Nausea,Gastrointestinal disorders,2022-07-10,2022-07-14,2,N,N,Symptomatic treatment,Recovered,N,N
+P0145,Nausea,Gastrointestinal disorders,2022-11-29,2022-12-18,2,N,Y,None,Recovered,N,N
+P0146,Rash,Skin and subcutaneous tissue disorders,2023-01-29,2023-02-23,1,N,N,None,Not recovered,N,N
+P0147,Infection,Infections and infestations,2022-06-22,2022-07-11,1,N,Y,Symptomatic treatment,Recovered,N,N
+P0147,Anemia,Blood and lymphatic system disorders,2022-09-02,2022-09-28,1,N,N,None,Recovering,N,N
+P0147,Decreased appetite,Metabolism and nutrition disorders,2022-09-24,2022-10-17,2,N,N,None,Recovered,N,N
+P0148,Rash,Skin and subcutaneous tissue disorders,2022-06-29,2022-07-11,1,N,N,None,Recovering,N,N
+P0148,ALT increased,Investigations,2022-07-25,2022-08-13,2,N,Y,None,Recovering,N,N
+P0148,Diarrhea,Gastrointestinal disorders,2022-07-28,2022-07-31,4,Y,Y,Hospitalized,Not recovered,N,N
+P0148,Rash,Skin and subcutaneous tissue disorders,2022-11-28,2022-12-26,1,N,N,None,Recovering,N,N
+P0148,Nausea,Gastrointestinal disorders,2022-06-08,2022-06-19,1,N,N,None,Recovered,N,N
+P0148,Infection,Infections and infestations,2022-10-13,2022-11-10,2,N,N,None,Recovered,N,N
+P0149,Anemia,Blood and lymphatic system disorders,2022-12-07,2022-12-11,2,N,Y,None,Not recovered,N,N
+P0149,Anemia,Blood and lymphatic system disorders,2023-01-23,2023-02-21,1,N,Y,Symptomatic treatment,Recovered,N,N
+P0149,Infection,Infections and infestations,2023-01-16,2023-01-24,3,N,Y,Drug interrupted,Recovered,Y,N
+P0149,Fatigue,General disorders,2023-03-27,2023-04-02,3,Y,Y,Drug interrupted,Recovered,N,N
+P0150,Nausea,Gastrointestinal disorders,2022-08-21,2022-09-08,1,N,N,None,Not recovered,N,N
+P0150,Decreased appetite,Metabolism and nutrition disorders,2022-08-24,2022-08-29,1,N,N,None,Recovered,N,N
+P0151,Decreased appetite,Metabolism and nutrition disorders,2023-01-05,2023-01-30,3,N,N,Drug interrupted,Recovering,N,N
+P0151,Fatigue,General disorders,2022-11-02,2022-11-14,1,N,N,None,Recovered,N,N
+P0151,Fatigue,General disorders,2023-01-29,2023-02-25,3,N,N,Hospitalized,Recovered,N,N
+P0151,Infection,Infections and infestations,2023-01-25,2023-01-30,1,N,Y,None,Recovered,N,N
+P0151,Diarrhea,Gastrointestinal disorders,2023-02-07,2023-02-24,3,N,N,Drug interrupted,Not recovered,N,N
+P0151,Anemia,Blood and lymphatic system disorders,2022-12-20,2022-12-26,2,N,N,None,Recovered,N,N
+P0152,Nausea,Gastrointestinal disorders,2022-06-25,2022-07-06,4,N,Y,Hospitalized,Recovered,N,N
+P0152,Neutropenia,Blood and lymphatic system disorders,2022-07-02,2022-07-30,1,N,Y,None,Recovering,N,N
+P0152,Diarrhea,Gastrointestinal disorders,2022-07-19,2022-08-16,1,N,N,None,Recovered,N,N
+P0152,ALT increased,Investigations,2022-03-09,2022-03-23,2,N,N,None,Recovered,N,N
+P0153,Anemia,Blood and lymphatic system disorders,2023-05-06,2023-05-09,3,N,Y,Hospitalized,Recovered,N,N
+P0153,Diarrhea,Gastrointestinal disorders,2023-02-23,2023-03-20,1,N,N,None,Recovering,N,N
+P0153,Fatigue,General disorders,2023-04-26,2023-05-19,2,N,Y,None,Recovering,N,N
+P0153,Decreased appetite,Metabolism and nutrition disorders,2023-02-09,2023-02-19,2,N,N,None,Not recovered,N,N
+P0153,Infection,Infections and infestations,2023-03-06,2023-03-25,1,N,Y,Symptomatic treatment,Not recovered,N,N
+P0153,AST increased,Investigations,2023-01-30,2023-02-25,3,Y,Y,Drug interrupted,Recovered,Y,N
+P0153,Infection,Infections and infestations,2023-04-23,2023-05-09,1,N,N,None,Recovered,N,N
+P0154,Rash,Skin and subcutaneous tissue disorders,2023-01-18,2023-01-29,1,N,Y,None,Recovered,N,N
+P0155,Anemia,Blood and lymphatic system disorders,2023-01-05,2023-01-13,1,N,N,None,Recovering,N,N
+P0155,Diarrhea,Gastrointestinal disorders,2023-03-31,2023-04-04,1,N,N,Symptomatic treatment,Recovered,N,N
+P0156,Nausea,Gastrointestinal disorders,2022-12-22,2023-01-20,2,N,N,None,Recovered,N,N
+P0156,Infection,Infections and infestations,2022-11-23,2022-12-08,2,N,N,Symptomatic treatment,Recovering,N,N
+P0156,Nausea,Gastrointestinal disorders,2022-08-21,2022-09-05,2,N,N,None,Recovered,N,N
+P0156,AST increased,Investigations,2022-09-07,2022-09-24,4,N,Y,Drug interrupted,Recovered,Y,N
+P0157,Infection,Infections and infestations,2022-07-15,2022-08-05,1,N,N,Symptomatic treatment,Recovered,N,N
+P0157,Nausea,Gastrointestinal disorders,2022-05-29,2022-06-12,4,N,Y,Hospitalized,Recovering,N,N
+P0157,Rash,Skin and subcutaneous tissue disorders,2022-08-08,2022-09-04,1,N,N,Symptomatic treatment,Recovering,N,N
+P0157,Neutropenia,Blood and lymphatic system disorders,2022-05-31,2022-06-11,1,N,N,Symptomatic treatment,Not recovered,N,N
+P0158,Anemia,Blood and lymphatic system disorders,2022-08-28,2022-09-06,3,N,Y,Drug interrupted,Recovered,N,N
+P0158,Nausea,Gastrointestinal disorders,2022-08-27,2022-09-23,1,N,Y,None,Recovering,N,N
+P0158,Decreased appetite,Metabolism and nutrition disorders,2022-10-09,2022-10-20,2,N,N,Symptomatic treatment,Recovering,N,N
+P0159,Rash,Skin and subcutaneous tissue disorders,2023-02-17,2023-02-23,3,N,Y,Hospitalized,Recovered,N,N
+P0160,Infection,Infections and infestations,2022-12-02,2022-12-22,1,N,Y,None,Recovering,N,N
+P0160,Rash,Skin and subcutaneous tissue disorders,2023-03-18,2023-03-21,1,N,Y,None,Recovered,N,N
+P0160,Infection,Infections and infestations,2023-05-16,2023-06-02,3,Y,N,Drug interrupted,Recovered,Y,N
+P0160,Nausea,Gastrointestinal disorders,2023-02-07,2023-02-23,3,N,Y,Drug interrupted,Recovered,N,N
+P0161,ALT increased,Investigations,2022-03-26,2022-04-13,1,N,Y,None,Recovering,N,N
+P0162,Diarrhea,Gastrointestinal disorders,2023-02-28,2023-03-13,2,N,Y,None,Not recovered,N,N
+P0162,Nausea,Gastrointestinal disorders,2023-02-18,2023-03-08,1,N,Y,None,Recovering,N,N
+P0162,Decreased appetite,Metabolism and nutrition disorders,2023-04-06,2023-04-29,1,N,N,None,Recovering,N,N
+P0163,AST increased,Investigations,2022-12-14,2023-01-10,2,N,Y,Symptomatic treatment,Recovered,N,N
+P0163,Nausea,Gastrointestinal disorders,2023-01-12,2023-02-09,2,N,Y,Symptomatic treatment,Recovered,N,N
+P0163,Infection,Infections and infestations,2023-02-26,2023-03-10,3,N,Y,Hospitalized,Recovered,Y,N
+P0163,ALT increased,Investigations,2023-04-28,2023-05-01,2,N,N,None,Recovered,N,N
+P0164,ALT increased,Investigations,2022-04-20,2022-05-01,1,N,Y,None,Recovering,N,N
+P0165,Anemia,Blood and lymphatic system disorders,2022-07-10,2022-08-05,2,N,Y,Symptomatic treatment,Recovering,N,N
+P0165,Rash,Skin and subcutaneous tissue disorders,2022-07-29,2022-08-15,1,N,N,None,Recovered,N,N
+P0165,ALT increased,Investigations,2022-03-03,2022-03-31,2,N,Y,Symptomatic treatment,Recovered,N,N
+P0165,Rash,Skin and subcutaneous tissue disorders,2022-03-30,2022-04-08,2,N,N,None,Not recovered,N,N
+P0166,Diarrhea,Gastrointestinal disorders,2023-03-11,2023-04-10,1,N,Y,Symptomatic treatment,Recovered,N,N
+P0166,AST increased,Investigations,2022-12-10,2022-12-22,4,N,N,Hospitalized,Recovered,Y,N
+P0167,Diarrhea,Gastrointestinal disorders,2023-04-11,2023-05-09,2,N,N,None,Recovering,N,N
+P0168,AST increased,Investigations,2022-07-12,2022-08-03,2,N,N,None,Recovering,N,N
+P0168,Neutropenia,Blood and lymphatic system disorders,2022-10-05,2022-10-23,1,N,N,None,Not recovered,N,N
+P0169,Anemia,Blood and lymphatic system disorders,2022-11-05,2022-11-20,1,N,N,None,Recovered,N,N
+P0169,Rash,Skin and subcutaneous tissue disorders,2023-02-02,2023-02-10,3,N,N,Drug interrupted,Recovered,N,N
+P0171,ALT increased,Investigations,2022-05-30,2022-06-25,1,N,Y,None,Recovering,N,N
+P0171,Diarrhea,Gastrointestinal disorders,2022-08-23,2022-08-31,2,N,Y,None,Recovered,N,N
+P0171,Rash,Skin and subcutaneous tissue disorders,2022-08-09,2022-08-26,3,Y,Y,Drug interrupted,Recovering,N,N
+P0172,Diarrhea,Gastrointestinal disorders,2022-04-15,2022-04-20,1,N,Y,None,Recovered,N,N
+P0172,AST increased,Investigations,2022-04-27,2022-05-02,3,Y,Y,Drug interrupted,Not recovered,Y,N
+P0173,AST increased,Investigations,2023-06-20,2023-06-23,4,Y,Y,Withdrawn,Recovered,Y,Y
+P0173,Decreased appetite,Metabolism and nutrition disorders,2023-04-26,2023-05-21,1,N,Y,Symptomatic treatment,Recovering,N,N
+P0174,Infection,Infections and infestations,2022-09-24,2022-10-15,3,N,N,Dose reduced,Recovered,Y,N
+P0174,Nausea,Gastrointestinal disorders,2022-06-26,2022-07-12,2,N,Y,None,Recovered,N,N
+P0175,AST increased,Investigations,2022-08-03,2022-08-16,3,Y,Y,Drug interrupted,Recovered,Y,N
+P0175,Neutropenia,Blood and lymphatic system disorders,2022-08-30,2022-09-23,2,N,Y,None,Recovered,N,N
+P0175,AST increased,Investigations,2022-11-08,2022-12-04,4,N,Y,Hospitalized,Recovered,Y,N
+P0176,AST increased,Investigations,2022-11-10,2022-11-15,1,N,Y,None,Not recovered,N,N
+P0176,AST increased,Investigations,2022-07-04,2022-07-30,2,N,N,None,Not recovered,N,N
+P0176,Nausea,Gastrointestinal disorders,2022-12-12,2022-12-31,1,N,N,Symptomatic treatment,Recovered,N,N
+P0178,Rash,Skin and subcutaneous tissue disorders,2022-06-12,2022-06-20,1,N,Y,None,Not recovered,N,N
+P0179,Infection,Infections and infestations,2023-02-21,2023-03-18,2,N,N,None,Recovered,N,N
+P0179,Infection,Infections and infestations,2022-11-11,2022-11-29,1,N,Y,None,Recovered,N,N
+P0179,Infection,Infections and infestations,2023-02-17,2023-03-09,2,N,N,Symptomatic treatment,Recovered,N,N
+P0179,ALT increased,Investigations,2023-03-15,2023-04-06,3,N,Y,Drug interrupted,Recovered,Y,N
+P0180,AST increased,Investigations,2022-11-07,2022-11-10,3,N,N,Drug interrupted,Recovering,Y,N
+P0181,Decreased appetite,Metabolism and nutrition disorders,2022-04-13,2022-04-23,1,N,N,None,Recovered,N,N
+P0182,Decreased appetite,Metabolism and nutrition disorders,2022-09-30,2022-10-29,2,N,N,None,Recovered,N,N
+P0183,Nausea,Gastrointestinal disorders,2022-02-26,2022-03-03,3,N,Y,Dose reduced,Recovered,N,N
+P0183,AST increased,Investigations,2022-05-30,2022-06-29,2,N,N,None,Recovered,N,N
+P0184,AST increased,Investigations,2022-08-04,2022-08-21,1,N,N,Symptomatic treatment,Recovering,N,N
+P0184,AST increased,Investigations,2022-07-05,2022-07-26,2,N,N,None,Recovered,N,N
+P0184,Nausea,Gastrointestinal disorders,2022-05-14,2022-05-30,2,N,Y,Symptomatic treatment,Not recovered,N,N
+P0184,ALT increased,Investigations,2022-07-04,2022-07-10,2,N,Y,Symptomatic treatment,Recovered,N,N
+P0185,Anemia,Blood and lymphatic system disorders,2023-03-28,2023-04-19,1,N,N,Symptomatic treatment,Recovered,N,N
+P0185,Infection,Infections and infestations,2023-02-02,2023-02-22,1,N,Y,None,Recovering,N,N
+P0185,Rash,Skin and subcutaneous tissue disorders,2023-01-15,2023-02-02,2,N,N,None,Recovered,N,N
+P0185,Neutropenia,Blood and lymphatic system disorders,2023-03-09,2023-04-06,3,Y,N,Drug interrupted,Recovered,Y,N
+P0185,Decreased appetite,Metabolism and nutrition disorders,2023-04-06,2023-04-19,3,N,Y,Drug interrupted,Recovered,N,N
+P0186,Infection,Infections and infestations,2022-10-14,2022-11-12,2,N,Y,None,Recovering,N,N
+P0186,Neutropenia,Blood and lymphatic system disorders,2022-09-13,2022-10-04,2,N,Y,Symptomatic treatment,Recovering,N,N
+P0186,AST increased,Investigations,2022-11-05,2022-11-12,1,N,N,None,Recovered,N,N
+P0186,ALT increased,Investigations,2022-12-31,2023-01-11,2,N,Y,None,Recovered,N,N
+P0186,Fatigue,General disorders,2022-10-09,2022-10-19,3,N,N,Hospitalized,Recovered,N,N
+P0186,AST increased,Investigations,2022-10-15,2022-10-19,2,N,N,None,Not recovered,N,N
+P0187,Infection,Infections and infestations,2022-12-01,2022-12-13,3,Y,Y,Hospitalized,Recovering,Y,N
+P0188,ALT increased,Investigations,2023-04-17,2023-05-16,1,N,Y,None,Not recovered,N,N
+P0189,AST increased,Investigations,2023-01-18,2023-02-11,2,N,Y,Symptomatic treatment,Recovered,N,N
+P0189,Decreased appetite,Metabolism and nutrition disorders,2023-02-12,2023-02-22,1,N,N,None,Recovered,N,N
+P0189,AST increased,Investigations,2022-10-04,2022-11-03,3,Y,N,Drug interrupted,Recovering,Y,N
+P0190,Rash,Skin and subcutaneous tissue disorders,2023-04-09,2023-05-07,2,N,Y,None,Recovered,N,N
+P0190,Anemia,Blood and lymphatic system disorders,2023-03-23,2023-04-03,2,N,N,None,Recovered,N,N
+P0191,AST increased,Investigations,2022-11-18,2022-12-07,1,N,N,None,Recovered,N,N
+P0191,AST increased,Investigations,2022-10-15,2022-11-03,4,N,Y,Hospitalized,Recovered,Y,N
+P0191,Rash,Skin and subcutaneous tissue disorders,2022-11-25,2022-12-18,1,N,Y,None,Recovered,N,N
+P0192,Decreased appetite,Metabolism and nutrition disorders,2022-12-18,2023-01-02,1,N,Y,Symptomatic treatment,Recovering,N,N
+P0192,Neutropenia,Blood and lymphatic system disorders,2022-11-25,2022-11-29,1,N,N,None,Recovering,N,N
+P0192,Neutropenia,Blood and lymphatic system disorders,2022-08-31,2022-09-05,3,N,Y,Drug interrupted,Not recovered,Y,N
+P0193,Neutropenia,Blood and lymphatic system disorders,2022-12-23,2022-12-29,1,N,Y,Symptomatic treatment,Recovered,N,N
+P0193,Infection,Infections and infestations,2022-11-21,2022-12-08,3,N,N,Drug interrupted,Not recovered,Y,N
+P0193,Anemia,Blood and lymphatic system disorders,2022-09-30,2022-10-28,2,N,N,None,Recovering,N,N
+P0194,AST increased,Investigations,2022-10-18,2022-10-21,2,N,Y,None,Recovered,N,N
+P0194,Decreased appetite,Metabolism and nutrition disorders,2022-08-15,2022-08-30,2,N,Y,None,Not recovered,N,N
+P0194,Decreased appetite,Metabolism and nutrition disorders,2022-05-27,2022-06-14,2,N,Y,None,Recovering,N,N
+P0195,Rash,Skin and subcutaneous tissue disorders,2023-04-15,2023-05-10,3,N,Y,Drug interrupted,Not recovered,N,N
+P0195,Infection,Infections and infestations,2022-12-29,2023-01-19,2,N,N,None,Recovering,N,N
+P0196,Fatigue,General disorders,2022-08-25,2022-09-21,2,N,Y,None,Not recovered,N,N
+P0196,Anemia,Blood and lymphatic system disorders,2022-03-16,2022-04-07,2,N,N,None,Recovering,N,N
+P0197,Fatigue,General disorders,2022-12-21,2023-01-08,1,N,Y,None,Recovered,N,N
+P0197,ALT increased,Investigations,2023-04-09,2023-05-01,1,N,N,None,Recovered,N,N
+P0197,Anemia,Blood and lymphatic system disorders,2023-05-19,2023-06-06,1,N,N,Symptomatic treatment,Recovered,N,N
+P0198,Rash,Skin and subcutaneous tissue disorders,2023-03-22,2023-04-21,3,N,N,Dose reduced,Not recovered,N,N
+P0198,Fatigue,General disorders,2023-03-24,2023-04-16,1,N,Y,None,Recovering,N,N
+P0198,Rash,Skin and subcutaneous tissue disorders,2023-03-19,2023-03-28,1,N,N,Symptomatic treatment,Not recovered,N,N
+P0199,AST increased,Investigations,2022-05-10,2022-05-20,1,N,Y,Symptomatic treatment,Recovered,N,N
+P0200,Decreased appetite,Metabolism and nutrition disorders,2022-11-12,2022-11-18,2,N,N,None,Recovering,N,N
+P0200,Nausea,Gastrointestinal disorders,2022-10-19,2022-11-09,1,N,Y,Symptomatic treatment,Recovered,N,N
+P0201,Rash,Skin and subcutaneous tissue disorders,2023-02-08,2023-03-04,1,N,N,None,Recovered,N,N
+P0201,Fatigue,General disorders,2023-03-24,2023-03-27,1,N,Y,None,Recovered,N,N
+P0202,Decreased appetite,Metabolism and nutrition disorders,2022-10-29,2022-11-23,1,N,Y,None,Recovered,N,N
+P0203,Diarrhea,Gastrointestinal disorders,2022-08-28,2022-09-21,1,N,N,None,Recovering,N,N
+P0203,Neutropenia,Blood and lymphatic system disorders,2022-07-22,2022-08-19,2,N,N,None,Recovered,N,N
+P0203,AST increased,Investigations,2022-06-10,2022-06-26,1,N,Y,None,Recovered,N,N
+P0203,Decreased appetite,Metabolism and nutrition disorders,2022-05-26,2022-06-09,2,N,N,None,Recovering,N,N
+P0204,Fatigue,General disorders,2023-02-05,2023-03-05,1,N,Y,None,Recovering,N,N
+P0204,AST increased,Investigations,2023-05-25,2023-06-23,1,N,Y,Symptomatic treatment,Not recovered,N,N
+P0205,Decreased appetite,Metabolism and nutrition disorders,2022-12-02,2022-12-31,1,N,N,None,Not recovered,N,N
+P0205,Neutropenia,Blood and lymphatic system disorders,2022-08-14,2022-09-09,3,Y,N,Drug interrupted,Recovered,Y,N
+P0205,Decreased appetite,Metabolism and nutrition disorders,2022-08-05,2022-08-13,1,N,Y,None,Recovered,N,N
+P0205,AST increased,Investigations,2022-12-28,2023-01-14,1,N,N,Symptomatic treatment,Recovered,N,N
+P0206,Fatigue,General disorders,2022-06-10,2022-06-24,3,N,Y,Drug interrupted,Not recovered,N,N
+P0206,Infection,Infections and infestations,2022-08-10,2022-09-08,4,Y,N,Drug interrupted,Recovered,Y,N
+P0207,Diarrhea,Gastrointestinal disorders,2022-05-04,2022-05-12,2,N,Y,None,Recovering,N,N
+P0209,Neutropenia,Blood and lymphatic system disorders,2022-12-05,2022-12-19,3,N,N,Dose reduced,Not recovered,Y,N
+P0211,ALT increased,Investigations,2023-03-21,2023-04-07,1,N,N,None,Recovered,N,N
+P0211,Infection,Infections and infestations,2023-03-09,2023-03-20,3,Y,Y,Dose reduced,Recovering,Y,N
+P0211,AST increased,Investigations,2022-12-30,2023-01-23,2,N,Y,None,Recovered,N,N
+P0211,ALT increased,Investigations,2022-11-05,2022-11-11,1,N,Y,None,Recovered,N,N
+P0212,Anemia,Blood and lymphatic system disorders,2022-04-24,2022-05-04,2,N,N,None,Not recovered,N,N
+P0212,Rash,Skin and subcutaneous tissue disorders,2022-05-26,2022-06-02,1,N,Y,Symptomatic treatment,Recovered,N,N
+P0212,AST increased,Investigations,2022-08-15,2022-08-31,3,Y,N,Drug interrupted,Recovered,Y,N
+P0213,Diarrhea,Gastrointestinal disorders,2022-08-21,2022-09-11,2,N,Y,Symptomatic treatment,Recovering,N,N
+P0213,Nausea,Gastrointestinal disorders,2022-04-13,2022-04-26,3,Y,Y,Hospitalized,Recovering,N,N
+P0213,Nausea,Gastrointestinal disorders,2022-09-12,2022-09-20,3,N,N,Hospitalized,Recovered,N,N
+P0213,AST increased,Investigations,2022-08-09,2022-08-30,3,Y,N,Drug interrupted,Recovered,Y,N
+P0214,Infection,Infections and infestations,2022-07-30,2022-08-06,2,N,N,None,Not recovered,N,N
+P0214,Fatigue,General disorders,2022-11-10,2022-12-02,2,N,Y,None,Recovering,N,N
+P0214,AST increased,Investigations,2022-08-08,2022-08-17,4,Y,N,Withdrawn,Recovered,Y,Y
+P0215,Diarrhea,Gastrointestinal disorders,2022-05-05,2022-05-19,2,N,Y,None,Recovered,N,N
+P0216,ALT increased,Investigations,2022-06-29,2022-07-29,3,N,N,Dose reduced,Recovered,Y,N
+P0216,Rash,Skin and subcutaneous tissue disorders,2022-11-11,2022-11-20,4,Y,Y,Drug interrupted,Not recovered,N,N
+P0216,Neutropenia,Blood and lymphatic system disorders,2022-07-16,2022-07-22,1,N,Y,Symptomatic treatment,Recovering,N,N
+P0216,Neutropenia,Blood and lymphatic system disorders,2022-08-27,2022-09-16,2,N,N,Symptomatic treatment,Recovered,N,N
+P0217,Decreased appetite,Metabolism and nutrition disorders,2023-05-12,2023-05-17,1,N,Y,None,Recovering,N,N
+P0217,Decreased appetite,Metabolism and nutrition disorders,2023-01-29,2023-02-14,3,N,Y,Dose reduced,Recovered,N,N
+P0217,ALT increased,Investigations,2023-05-14,2023-05-25,3,N,N,Dose reduced,Recovered,Y,N
+P0218,Rash,Skin and subcutaneous tissue disorders,2023-06-09,2023-06-13,2,N,N,None,Recovered,N,N
+P0218,Fatigue,General disorders,2023-04-26,2023-05-21,3,N,N,Drug interrupted,Not recovered,N,N
+P0218,AST increased,Investigations,2023-01-17,2023-02-15,2,N,Y,Symptomatic treatment,Recovered,N,N
+P0218,Rash,Skin and subcutaneous tissue disorders,2023-01-09,2023-01-20,2,N,Y,None,Recovering,N,N
+P0218,Diarrhea,Gastrointestinal disorders,2023-03-08,2023-03-29,1,N,Y,None,Recovered,N,N
+P0220,Nausea,Gastrointestinal disorders,2022-09-04,2022-09-20,1,N,N,None,Recovering,N,N
+P0220,AST increased,Investigations,2022-10-01,2022-10-25,3,N,N,Drug interrupted,Recovered,Y,N
+P0220,Decreased appetite,Metabolism and nutrition disorders,2022-10-31,2022-11-03,2,N,N,None,Recovered,N,N
+P0220,Neutropenia,Blood and lymphatic system disorders,2022-08-19,2022-09-02,2,N,N,None,Recovering,N,N
+P0220,Neutropenia,Blood and lymphatic system disorders,2022-05-30,2022-06-15,1,N,N,None,Recovered,N,N
