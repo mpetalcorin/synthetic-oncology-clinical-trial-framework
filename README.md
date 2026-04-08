@@ -140,6 +140,6 @@ All major steps were structured as notebooks so that raw data generation, datase
 Because the data are synthetic, this project is intended for educational, methodological, and demonstration purposes. Users should clearly state that the outputs are synthetic if figures, tables, or derivative analyses are reused.
 
 ## Citation
-**Petalcorin, M.I.R.** (2026). An End-to-End Synthetic Oncology Clinical Trial Framework Integrating Radiographic Response, Circulating Tumor DNA, Safety, and Survival for Decision-Oriented Clinical Data Science. https://github.com/mpetalcorin/synthetic-oncology-clinical-trial-framework
+**Petalcorin, M.I.R.** (2026). An End-to-End Synthetic Oncology Clinical Trial Framework Integrating Radiographic Response, Circulating Tumor DNA, Safety, and Survival for Decision-Oriented Clinical Data Science. medRxiv. https://doi.org/10.64898/2026.04.07.26350297
 
 
